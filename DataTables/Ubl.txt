@@ -1,0 +1,816 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+Q9D6T0	NOSIP_MOUSE	reviewed	Nitric oxide synthase-interacting protein (E3 ubiquitin-protein ligase NOSIP) (EC 2.3.2.27) (RING-type E3 ubiquitin transferase NOSIP)	Nosip	Mus musculus (Mouse)	301
+Q7TPH6	MYCB2_MOUSE	reviewed	E3 ubiquitin-protein ligase MYCBP2 (EC 2.3.2.-) (Myc-binding protein 2) (Pam/highwire/rpm-1 protein) (Protein Magellan) (Protein associated with Myc)	Mycbp2 Pam Phr1	Mus musculus (Mouse)	4749
+Q8BM54	MYLIP_MOUSE	reviewed	E3 ubiquitin-protein ligase MYLIP (EC 2.3.2.27) (Inducible degrader of the LDL-receptor) (Idol) (Myosin regulatory light chain-interacting protein) (MIR) (RING-type E3 ubiquitin transferase MYLIP)	Mylip	Mus musculus (Mouse)	445
+Q8R554	OTU7A_MOUSE	reviewed	OTU domain-containing protein 7A (EC 3.4.19.12) (Zinc finger protein Cezanne 2)	Otud7a Cezanne2 Otud7	Mus musculus (Mouse)	926
+P46737	BRCC3_MOUSE	reviewed	Lys-63-specific deubiquitinase BRCC36 (EC 3.4.19.-) (BRCA1-A complex subunit BRCC36) (BRCA1/BRCA2-containing complex subunit 3) (BRCA1/BRCA2-containing complex subunit 36) (BRISC complex subunit BRCC36)	Brcc3 Brcc36 C6.1a	Mus musculus (Mouse)	291
+Q811C2	ATG4C_MOUSE	reviewed	Cysteine protease ATG4C (EC 3.4.22.-) (AUT-like 3 cysteine endopeptidase) (Autophagin-3) (Autophagy-related cysteine endopeptidase 3) (Autophagy-related protein 4 homolog C)	Atg4c Apg4c Autl3	Mus musculus (Mouse)	458
+A2A6Q5	CDC27_MOUSE	reviewed	Cell division cycle protein 27 homolog	Cdc27	Mus musculus (Mouse)	825
+Q810L3	CHFR_MOUSE	reviewed	E3 ubiquitin-protein ligase CHFR (EC 2.3.2.27) (Checkpoint with forkhead and RING finger domains protein) (RING-type E3 ubiquitin transferase CHFR)	Chfr	Mus musculus (Mouse)	664
+P51944	CCNF_MOUSE	reviewed	Cyclin-F	Ccnf	Mus musculus (Mouse)	777
+Q99JP4	CDC26_MOUSE	reviewed	Anaphase-promoting complex subunit CDC26 (Cell division cycle protein 26 homolog)	Cdc26	Mus musculus (Mouse)	85
+Q80XL1	CBLC_MOUSE	reviewed	E3 ubiquitin-protein ligase CBL-C (EC 2.3.2.27) (RING-type E3 ubiquitin transferase CBL-C) (SH3-binding protein CBL-3) (SH3-binding protein CBL-C) (Signal transduction protein CBL-C)	Cblc Cbl3	Mus musculus (Mouse)	496
+Q9JIG7	CCD22_MOUSE	reviewed	Coiled-coil domain-containing protein 22	Ccdc22 DXImx40e	Mus musculus (Mouse)	627
+Q3TTA7	CBLB_MOUSE	reviewed	E3 ubiquitin-protein ligase CBL-B (EC 2.3.2.27) (Casitas B-lineage lymphoma proto-oncogene b) (RING-type E3 ubiquitin transferase CBL-B) (SH3-binding protein CBL-B) (Signal transduction protein CBL-B)	Cblb	Mus musculus (Mouse)	982
+O55187	CBX4_MOUSE	reviewed	E3 SUMO-protein ligase CBX4 (EC 2.3.2.-) (Chromobox protein homolog 4) (E3 SUMO-protein transferase CBX4) (Polycomb 2 homolog) (Pc2) (mPc2)	Cbx4 Pc2	Mus musculus (Mouse)	551
+Q8R349	CDC16_MOUSE	reviewed	Cell division cycle protein 16 homolog (Anaphase-promoting complex subunit 6) (APC6) (Cyclosome subunit 6)	Cdc16 Anapc6	Mus musculus (Mouse)	620
+Q8BGZ4	CDC23_MOUSE	reviewed	Cell division cycle protein 23 homolog (Anaphase-promoting complex subunit 8) (APC8) (Cyclosome subunit 8)	Cdc23 Anapc8	Mus musculus (Mouse)	597
+Q91VT1	NSE2_MOUSE	reviewed	E3 SUMO-protein ligase NSE2 (EC 2.3.2.-) (E3 SUMO-protein transferase NSE2) (MMS21 homolog) (Non-structural maintenance of chromosomes element 2 homolog) (Non-SMC element 2 homolog)	Nsmce2 Mms21	Mus musculus (Mouse)	247
+Q9CQX0	OTUB2_MOUSE	reviewed	Ubiquitin thioesterase OTUB2 (EC 3.4.19.12) (Deubiquitinating enzyme OTUB2) (OTU domain-containing ubiquitin aldehyde-binding protein 2) (Otubain-2) (Ubiquitin-specific-processing protease OTUB2)	Otub2	Mus musculus (Mouse)	234
+Q8C669	PELI1_MOUSE	reviewed	E3 ubiquitin-protein ligase pellino homolog 1 (Pellino-1) (EC 2.3.2.27) (RING-type E3 ubiquitin transferase pellino homolog 1)	Peli1	Mus musculus (Mouse)	418
+Q8BXR6	PELI3_MOUSE	reviewed	E3 ubiquitin-protein ligase pellino homolog 3 (Pellino-3) (EC 2.3.2.27) (RING-type E3 ubiquitin transferase pellino homolog 3)	Peli3	Mus musculus (Mouse)	445
+B1AZ99	OTUD3_MOUSE	reviewed	OTU domain-containing protein 3 (EC 3.4.19.12)	Otud3	Mus musculus (Mouse)	396
+Q3U2S4	OTUD5_MOUSE	reviewed	OTU domain-containing protein 5 (EC 3.4.19.12) (Deubiquitinating enzyme A) (DUBA)	Otud5 DXImx46e Sfc7	Mus musculus (Mouse)	566
+Q3UCV8	OTUL_MOUSE	reviewed	Ubiquitin thioesterase otulin (EC 3.4.19.12) (Deubiquitinating enzyme otulin) (OTU domain-containing deubiquitinase with linear linkage specificity) (Ubiquitin thioesterase Gumby)	Otulin Fam105b Gum	Mus musculus (Mouse)	352
+O55176	PJA1_MOUSE	reviewed	E3 ubiquitin-protein ligase Praja-1 (Praja1) (EC 2.3.2.27) (RING-type E3 ubiquitin transferase Praja-1)	Pja1	Mus musculus (Mouse)	578
+Q9D7R2	PMEPA_MOUSE	reviewed	Protein TMEPAI (NEDD4 WW domain-binding protein 4) (Prostate transmembrane protein androgen induced 1) (Transmembrane prostate androgen-induced protein)	Pmepa1 N4wbp4 Tmepai	Mus musculus (Mouse)	260
+Q80U04	PJA2_MOUSE	reviewed	E3 ubiquitin-protein ligase Praja-2 (Praja2) (EC 2.3.2.27) (RING finger protein 131) (RING-type E3 ubiquitin transferase Praja-2)	Pja2 Kiaa0438 Rnf131	Mus musculus (Mouse)	707
+Q9ERU9	RBP2_MOUSE	reviewed	E3 SUMO-protein ligase RanBP2 (EC 2.3.2.-) (Ran-binding protein 2) (RanBP2)	Ranbp2	Mus musculus (Mouse)	3053
+P62878	RBX1_MOUSE	reviewed	E3 ubiquitin-protein ligase RBX1 (EC 2.3.2.27) (EC 2.3.2.32) (E3 ubiquitin-protein transferase RBX1) (RING finger protein 75) (RING-box protein 1) (Rbx1) [Cleaved into: E3 ubiquitin-protein ligase RBX1, N-terminally processed]	Rbx1	Mus musculus (Mouse)	108
+Q9WTZ1	RBX2_MOUSE	reviewed	RING-box protein 2 (Rbx2) (RING finger protein 7) (Sensitive to apoptosis gene protein)	Rnf7 Rbx2 Sag	Mus musculus (Mouse)	113
+Q8VHQ4	RB40C_MOUSE	reviewed	Ras-related protein Rab-40C (SOCS box-containing protein RAR3)	Rab40c	Mus musculus (Mouse)	281
+P54728	RD23B_MOUSE	reviewed	UV excision repair protein RAD23 homolog B (HR23B) (mHR23B) (XP-C repair-complementing complex 58 kDa protein) (p58)	Rad23b Mhr23b	Mus musculus (Mouse)	416
+Q925F3	R144A_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF144A (EC 2.3.2.31) (RING finger protein 144A) (UbcM4-interacting protein 4) (Ubiquitin-conjugating enzyme 7-interacting protein 4)	Rnf144a Kiaa0161 Rnf144 Ubce7ip4 Uip4	Mus musculus (Mouse)	292
+Q9JM13	RABX5_MOUSE	reviewed	Rab5 GDP/GTP exchange factor (Rabex-5)	Rabgef1 Rabex5	Mus musculus (Mouse)	491
+Q8BKD6	R144B_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF144B (EC 2.3.2.31) (IBR domain-containing protein 2) (RING finger protein 144B)	Rnf144b Ibrdc2	Mus musculus (Mouse)	301
+Q69ZS0	PZRN3_MOUSE	reviewed	E3 ubiquitin-protein ligase PDZRN3 (EC 2.3.2.27) (PDZ domain-containing RING finger protein 3) (RING-type E3 ubiquitin transferase PDZRN3) (Semaphorin cytoplasmic domain-associated protein 3) (Protein SEMACAP3)	Pdzrn3 Kiaa1095 Semcap3	Mus musculus (Mouse)	1063
+Q8VHP8	RB40B_MOUSE	reviewed	Ras-related protein Rab-40B (SOCS box-containing protein RAR)	Rab40b	Mus musculus (Mouse)	278
+Q9CQJ4	RING2_MOUSE	reviewed	E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27) (RING finger protein 1B) (RING1b) (RING finger protein 2) (RING-type E3 ubiquitin transferase RING2)	Rnf2 DinG Ring1b	Mus musculus (Mouse)	336
+Q8CIK8	RFWD3_MOUSE	reviewed	E3 ubiquitin-protein ligase RFWD3 (EC 2.3.2.27) (RING finger and WD repeat domain-containing protein 3) (RING finger protein 201)	Rfwd3 Rnf201	Mus musculus (Mouse)	774
+Q6ZQM0	RFFL_MOUSE	reviewed	E3 ubiquitin-protein ligase rififylin (EC 2.3.2.27) (RING finger and FYVE-like domain-containing protein 1) (Fring) (RING-type E3 ubiquitin transferase rififylin)	Rffl	Mus musculus (Mouse)	377
+Q9QXK2	RAD18_MOUSE	reviewed	E3 ubiquitin-protein ligase RAD18 (EC 2.3.2.27) (Postreplication repair protein RAD18) (mRAD18Sc) (RING-type E3 ubiquitin transferase RAD18)	Rad18 Rad18sc	Mus musculus (Mouse)	509
+P15919	RAG1_MOUSE	reviewed	V(D)J recombination-activating protein 1 (RAG-1) [Includes: Endonuclease RAG1 (EC 3.1.-.-); E3 ubiquitin-protein ligase RAG1 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase RAG1)]	Rag1	Mus musculus (Mouse)	1040
+P97868	RBBP6_MOUSE	reviewed	E3 ubiquitin-protein ligase RBBP6 (EC 2.3.2.27) (Proliferation potential-related protein) (Protein P2P-R) (RING-type E3 ubiquitin transferase RBBP6) (Retinoblastoma-binding protein 6) (p53-associated cellular protein of testis)	Rbbp6 P2pr Pact	Mus musculus (Mouse)	1790
+P0C090	RC3H2_MOUSE	reviewed	Roquin-2 (EC 2.3.2.27) (Membrane-associated nucleic acid-binding protein) (RING finger and CCCH-type zinc finger domain-containing protein 2) (RING-type E3 ubiquitin transferase Roquin-2)	Rc3h2 Mnab	Mus musculus (Mouse)	1187
+Q8BST6	PELI2_MOUSE	reviewed	E3 ubiquitin-protein ligase pellino homolog 2 (Pellino-2) (EC 2.3.2.27) (RING-type E3 ubiquitin transferase pellino homolog 2)	Peli2	Mus musculus (Mouse)	419
+Q6IE21	OTU6A_MOUSE	reviewed	OTU domain-containing protein 6A (EC 3.4.19.12) (Hin-6 protease)	Otud6a Hin6	Mus musculus (Mouse)	290
+Q9CUB6	OTUD1_MOUSE	reviewed	OTU domain-containing protein 1 (EC 3.4.19.12)	Otud1	Mus musculus (Mouse)	454
+Q8C5D8	PIAS2_MOUSE	reviewed	E3 SUMO-protein ligase PIAS2 (EC 2.3.2.27) (Androgen receptor-interacting protein 3) (ARIP3) (DAB2-interacting protein) (DIP) (Msx-interacting zinc finger protein) (Protein inhibitor of activated STAT x) (Protein inhibitor of activated STAT2) (RING-type E3 ubiquitin transferase PIAS2)	Pias2 Miz1 Piasx	Mus musculus (Mouse)	621
+Q9JM05	PIAS4_MOUSE	reviewed	E3 SUMO-protein ligase PIAS4 (EC 2.3.2.27) (PIASy) (Protein inhibitor of activated STAT protein 4) (Protein inhibitor of activated STAT protein gamma) (PIAS-gamma) (RING-type E3 ubiquitin transferase PIAS4)	Pias4 Piasg	Mus musculus (Mouse)	507
+O88907	PIAS1_MOUSE	reviewed	E3 SUMO-protein ligase PIAS1 (EC 2.3.2.27) (DEAD/H box-binding protein 1) (Protein inhibitor of activated STAT protein 1) (RING-type E3 ubiquitin transferase PIAS1)	Pias1 Ddxbp1	Mus musculus (Mouse)	651
+O54714	PIAS3_MOUSE	reviewed	E3 SUMO-protein ligase PIAS3 (EC 2.3.2.-) (E3 SUMO-protein transferase PIAS3) (Protein inhibitor of activated STAT protein 3)	Pias3	Mus musculus (Mouse)	628
+Q8BSN5	PHF23_MOUSE	reviewed	PHD finger protein 23 (PDH-containing protein JUNE-1)	Phf23	Mus musculus (Mouse)	401
+Q8CJC5	NEUL3_MOUSE	reviewed	E3 ubiquitin-protein ligase NEURL3 (EC 2.3.2.27) (Lung-inducible neuralized-related C3CH4 RING domain protein) (Neuralized-like protein 3) (RING-type E3 ubiquitin transferase NEURL3)	Neurl3 Lincr	Mus musculus (Mouse)	254
+Q923S6	NEUL1_MOUSE	reviewed	E3 ubiquitin-protein ligase NEURL1 (EC 2.3.2.27) (Neuralized-like protein 1A) (m-neu1) (m-neuralized 1) (Neuralized1) (RING-type E3 ubiquitin transferase NEURL1)	Neurl1 Neurl Neurl1a	Mus musculus (Mouse)	574
+Q69Z66	MYSM1_MOUSE	reviewed	Histone H2A deubiquitinase MYSM1 (2A-DUB) (EC 3.4.19.-) (Myb-like, SWIRM and MPN domain-containing protein 1)	Mysm1 Kiaa1915	Mus musculus (Mouse)	819
+Q8CFI0	NED4L_MOUSE	reviewed	E3 ubiquitin-protein ligase NEDD4-like (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase NED4L) (NEDD4.2) (Nedd4-2)	Nedd4l Kiaa0439 Nedd4b	Mus musculus (Mouse)	1004
+Q5NCX5	NEUL4_MOUSE	reviewed	Neuralized-like protein 4	Neurl4 Kiaa1787	Mus musculus (Mouse)	1563
+Q0MW30	NEU1B_MOUSE	reviewed	E3 ubiquitin-protein ligase NEURL1B (EC 2.3.2.27) (Neuralized-2) (NEUR2) (Neuralized-like protein 1B) (Neuralized-like protein 2) (Neuralized-like protein 3) (RING-type E3 ubiquitin transferase NEURL1B)	Neurl1b Neurl2 Neurl3	Mus musculus (Mouse)	546
+Q80YV2	NIPA_MOUSE	reviewed	Nuclear-interacting partner of ALK (Nuclear-interacting partner of anaplastic lymphoma kinase) (mNIPA) (Zinc finger C3HC-type protein 1)	Zc3hc1 Nipa	Mus musculus (Mouse)	501
+Q8BR37	NHLC1_MOUSE	reviewed	E3 ubiquitin-protein ligase NHLRC1 (EC 2.3.2.27) (Malin) (NHL repeat-containing protein 1) (RING-type E3 ubiquitin transferase NHLRC1)	Nhlrc1 Epm2b	Mus musculus (Mouse)	401
+Q8BJS8	MTBP_MOUSE	reviewed	Mdm2-binding protein (mMTBP)	Mtbp	Mus musculus (Mouse)	894
+Q9D720	NSE1_MOUSE	reviewed	Non-structural maintenance of chromosomes element 1 homolog (Non-SMC element 1 homolog) (EC 2.3.2.27)	Nsmce1	Mus musculus (Mouse)	266
+B1AY10	NFX1_MOUSE	reviewed	Transcriptional repressor NF-X1 (m-Nfx.1) (EC 2.3.2.-) (Nuclear transcription factor, X box-binding protein 1)	Nfx1	Mus musculus (Mouse)	1114
+Q8K1L5	PP1RB_MOUSE	reviewed	E3 ubiquitin-protein ligase PPP1R11 (EC 2.3.2.27) (Protein phosphatase 1 regulatory subunit 11) (T-complex testis expressed protein 5) (Tctex-5)	Ppp1r11 Tctex5	Mus musculus (Mouse)	131
+Q9D787	PPIL2_MOUSE	reviewed	RING-type E3 ubiquitin-protein ligase PPIL2 (EC 2.3.2.27) (CYC4) (Probable inactive peptidyl-prolyl cis-trans isomerase-like 2) (PPIase)	Ppil2	Mus musculus (Mouse)	521
+O35593	PSDE_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 14 (EC 3.4.19.-) (26S proteasome regulatory subunit RPN11) (MAD1)	Psmd14 Pad1	Mus musculus (Mouse)	310
+Q9WVS6	PRKN_MOUSE	reviewed	E3 ubiquitin-protein ligase parkin (EC 2.3.2.31) (Parkin RBR E3 ubiquitin-protein ligase)	Prkn Park2	Mus musculus (Mouse)	464
+Q99KP6	PRP19_MOUSE	reviewed	Pre-mRNA-processing factor 19 (EC 2.3.2.27) (Nuclear matrix protein 200) (PRP19/PSO4 homolog) (RING-type E3 ubiquitin transferase PRP19) (Senescence evasion factor)	Prpf19 Prp19 Snev	Mus musculus (Mouse)	504
+Q3TCJ1	ABRX2_MOUSE	reviewed	BRISC complex subunit Abraxas 2 (Abraxas brother protein 1) (Protein FAM175B)	Abraxas2 Abro1 Fam175b Kiaa0157	Mus musculus (Mouse)	415
+Q9D5L7	SPSB1_MOUSE	reviewed	SPRY domain-containing SOCS box protein 1 (SSB-1)	Spsb1 Ssb1	Mus musculus (Mouse)	273
+O88838	SPSB2_MOUSE	reviewed	SPRY domain-containing SOCS box protein 2 (SSB-2) (Gene-rich cluster protein C9)	Spsb2 Grcc9 Ssb2	Mus musculus (Mouse)	264
+Q76N33	STALP_MOUSE	reviewed	AMSH-like protease (AMSH-LP) (EC 3.4.19.-) (AMSH family protein) (AMSH-FP) (STAM-binding protein-like 1)	Stambpl1 Amshlp	Mus musculus (Mouse)	436
+Q9CQ26	STABP_MOUSE	reviewed	STAM-binding protein (EC 3.4.19.-) (Associated molecule with the SH3 domain of STAM)	Stambp Amsh	Mus musculus (Mouse)	424
+P63166	SUMO1_MOUSE	reviewed	Small ubiquitin-related modifier 1 (SUMO-1) (SMT3 homolog 3) (Ubiquitin-homology domain protein PIC1) (Ubiquitin-like protein SMT3C) (Smt3C)	Sumo1 Smt3c Smt3h3 Ubl1	Mus musculus (Mouse)	101
+P61957	SUMO2_MOUSE	reviewed	Small ubiquitin-related modifier 2 (SUMO-2) (SMT3 homolog 2) (Ubiquitin-like protein SMT3B) (Smt3B)	Sumo2 Smt3b Smt3h2	Mus musculus (Mouse)	95
+Q9CUN6	SMUF1_MOUSE	reviewed	E3 ubiquitin-protein ligase SMURF1 (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase SMURF1) (SMAD ubiquitination regulatory factor 1) (SMAD-specific E3 ubiquitin-protein ligase 1)	Smurf1	Mus musculus (Mouse)	731
+Q8R5B6	SPSB4_MOUSE	reviewed	SPRY domain-containing SOCS box protein 4 (SSB-4)	Spsb4 Ssb4	Mus musculus (Mouse)	273
+Q8BHJ5	TBL1R_MOUSE	reviewed	F-box-like/WD repeat-containing protein TBL1XR1 (Nuclear receptor corepressor/HDAC3 complex subunit TBLR1) (TBL1-related protein 1) (Transducin beta-like 1X-related protein 1)	Tbl1xr1 Ira1 Tblr1	Mus musculus (Mouse)	514
+Q9DBY1	SYVN1_MOUSE	reviewed	E3 ubiquitin-protein ligase synoviolin (EC 2.3.2.27) (RING-type E3 ubiquitin transferase synoviolin) (Synovial apoptosis inhibitor 1)	Syvn1 Hrd1 Kiaa1810	Mus musculus (Mouse)	612
+Q14B02	RN133_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF133 (EC 2.3.2.27) (Goliath-related E3 ubiquitin-protein ligase 2) (RING finger protein 133) (RING-type E3 ubiquitin transferase RNF133)	Rnf133 Greul2	Mus musculus (Mouse)	382
+Q91YT2	RN185_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF185 (EC 2.3.2.27) (RING finger protein 185) (RING-type E3 ubiquitin transferase RNF185)	Rnf185	Mus musculus (Mouse)	192
+Q7TMV1	RN139_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF139 (EC 2.3.2.27) (RING finger protein 139) (RING-type E3 ubiquitin transferase RNF139) (Translocation in renal carcinoma on chromosome 8 protein)	Rnf139	Mus musculus (Mouse)	668
+Q91XF4	RN167_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF167 (EC 2.3.2.27) (RING finger protein 167) (RING-type E3 ubiquitin transferase RNF167)	Rnf167	Mus musculus (Mouse)	347
+D3YYI7	RN217_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase RNF217 (EC 2.3.2.31) (IBR domain-containing protein 1) (RING finger protein 217)	Rnf217 Ibrdc1	Mus musculus (Mouse)	515
+Q6PDX6	RN220_MOUSE	reviewed	E3 ubiquitin-protein ligase Rnf220 (EC 2.3.2.27) (RING finger protein 220) (RING-type E3 ubiquitin transferase Rnf220)	Rnf220	Mus musculus (Mouse)	566
+Q3U827	RN180_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF180 (EC 2.3.2.27) (RING finger protein 180) (RING-type E3 ubiquitin transferase RNF180)	Rnf180 Rines	Mus musculus (Mouse)	592
+Q8C432	RN182_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF182 (EC 2.3.2.27) (RING finger protein 182) (RING-type E3 ubiquitin transferase RNF182)	Rnf182	Mus musculus (Mouse)	247
+Q5XPI3	RN123_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF123 (EC 2.3.2.27) (Kip1 ubiquitination-promoting complex protein 1) (RING finger protein 123) (RING-type E3 ubiquitin transferase RNF123)	Rnf123 Kpc1	Mus musculus (Mouse)	1314
+Q9QZS2	RNF4_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF4 (EC 2.3.2.27) (RING finger protein 4) (RING-type E3 ubiquitin transferase RNF4)	Rnf4	Mus musculus (Mouse)	194
+Q8BUH7	RNF26_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF26 (EC 2.3.2.27) (RING finger protein 26)	Rnf26	Mus musculus (Mouse)	424
+Q8VC56	RNF8_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF8 (EC 2.3.2.27) (ActA-interacting protein 37) (AIP37) (LaXp180) (RING finger protein 8) (RING-type E3 ubiquitin transferase RNF8)	Rnf8	Mus musculus (Mouse)	488
+Q8C120	SH3R3_MOUSE	reviewed	E3 ubiquitin-protein ligase SH3RF3 (EC 2.3.2.27) (Plenty of SH3s 2) (SH3 domain-containing RING finger protein 3) (SH3 multiple domains protein 4)	Sh3rf3 Posh2 Sh3md4	Mus musculus (Mouse)	878
+Q9Z0Z3	SKP2_MOUSE	reviewed	S-phase kinase-associated protein 2 (Cyclin-A/CDK2-associated protein p45) (F-box protein Skp2) (F-box/WD-40 protein 1) (FWD1)	Skp2	Mus musculus (Mouse)	424
+O35717	SOCS2_MOUSE	reviewed	Suppressor of cytokine signaling 2 (SOCS-2) (Cytokine-inducible SH2 protein 2) (CIS-2)	Socs2 Cis2 Cish2	Mus musculus (Mouse)	198
+Q9EP97	SENP3_MOUSE	reviewed	Sentrin-specific protease 3 (EC 3.4.22.-) (SUMO-1-specific protease 3) (Sentrin/SUMO-specific protease SENP3) (Smt3-specific isopeptidase 1) (Smt3ip1)	Senp3 Smt3ip Smt3ip1	Mus musculus (Mouse)	568
+Q6NXL6	SENP5_MOUSE	reviewed	Sentrin-specific protease 5 (EC 3.4.22.-) (SUMO/Smt3-specific isopeptidase 3) (Smt3ip3) (Sentrin/SUMO-specific protease SENP5)	Senp5 Smt3ip3	Mus musculus (Mouse)	749
+Q06985	SIA1B_MOUSE	reviewed	E3 ubiquitin-protein ligase SIAH1B (EC 2.3.2.27) (RING-type E3 ubiquitin transferase SIAH1B) (Seven in absentia homolog 1b) (Siah-1b) (Siah1b)	Siah1b	Mus musculus (Mouse)	282
+Q91WA6	SHRPN_MOUSE	reviewed	Sharpin (Shank-associated RH domain-interacting protein) (Shank-interacting protein-like 1) (mSIPL1)	Sharpin Cpdm Sipl1	Mus musculus (Mouse)	380
+Q9WTX5	SKP1_MOUSE	reviewed	S-phase kinase-associated protein 1 (Cyclin-A/CDK2-associated protein p19) (S-phase kinase-associated protein 1A) (p19A) (p19skp1)	Skp1 Skp1a	Mus musculus (Mouse)	163
+Q9JLY0	SOCS6_MOUSE	reviewed	Suppressor of cytokine signaling 6 (SOCS-6) (Cytokine-inducible SH2 protein 4) (CIS-4) (Suppressor of cytokine signaling 4) (SOCS-4)	Socs6 Cis4 Cish4 Socs4	Mus musculus (Mouse)	533
+Q8VHQ2	SOCS7_MOUSE	reviewed	Suppressor of cytokine signaling 7 (SOCS-7)	Socs7 Cish7 Nap4	Mus musculus (Mouse)	579
+O35716	SOCS1_MOUSE	reviewed	Suppressor of cytokine signaling 1 (SOCS-1) (JAK-binding protein) (JAB) (STAT-induced STAT inhibitor 1) (SSI-1)	Socs1 Cish1 Ssi1	Mus musculus (Mouse)	212
+Q6ZWS8	SPOP_MOUSE	reviewed	Speckle-type POZ protein (HIB homolog 1) (PDX-1 C-terminal-interacting factor 1)	Spop Pcif1	Mus musculus (Mouse)	374
+Q7TPQ3	SHPRH_MOUSE	reviewed	E3 ubiquitin-protein ligase SHPRH (EC 2.3.2.27) (EC 3.6.4.-) (RING-type E3 ubiquitin transferase SHPRH) (SNF2, histone-linker, PHD and RING finger domain-containing helicase)	Shprh	Mus musculus (Mouse)	1674
+A2A5Z6	SMUF2_MOUSE	reviewed	E3 ubiquitin-protein ligase SMURF2 (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase SMURF2) (SMAD ubiquitination regulatory factor 2) (SMAD-specific E3 ubiquitin-protein ligase 2)	Smurf2	Mus musculus (Mouse)	748
+P61092	SIA1A_MOUSE	reviewed	E3 ubiquitin-protein ligase SIAH1A (EC 2.3.2.27) (RING-type E3 ubiquitin transferase SIAH1A) (Seven in absentia homolog 1a) (Siah-1a) (Siah1a) (mSiah-1a)	Siah1a	Mus musculus (Mouse)	282
+Q6P7W0	SENP6_MOUSE	reviewed	Sentrin-specific protease 6 (EC 3.4.22.-) (SUMO-1-specific protease 1) (Sentrin/SUMO-specific protease SENP6)	Senp6 Kiaa0797 Susp1	Mus musculus (Mouse)	1132
+Q8BUH8	SENP7_MOUSE	reviewed	Sentrin-specific protease 7 (EC 3.4.22.-) (SUMO-1-specific protease 2) (Sentrin/SUMO-specific protease SENP7)	Senp7 Kiaa1707 Susp2	Mus musculus (Mouse)	1037
+Q8BZT2	SH3R2_MOUSE	reviewed	E3 ubiquitin-protein ligase SH3RF2 (EC 2.3.2.27) (Protein phosphatase 1 regulatory subunit 39) (RING finger protein 158) (RING-type E3 ubiquitin transferase SH3RF2) (SH3 domain-containing RING finger protein 2)	Sh3rf2 Posh3 Ppp1r39 Rnf158	Mus musculus (Mouse)	735
+Q06986	SIAH2_MOUSE	reviewed	E3 ubiquitin-protein ligase SIAH2 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase SIAH2) (Seven in absentia homolog 2) (Siah-2) (mSiah2)	Siah2	Mus musculus (Mouse)	325
+O35718	SOCS3_MOUSE	reviewed	Suppressor of cytokine signaling 3 (SOCS-3) (Cytokine-inducible SH2 protein 3) (CIS-3) (Protein EF-10)	Socs3 Cis3 Cish3	Mus musculus (Mouse)	225
+Q91ZA6	SOCS4_MOUSE	reviewed	Suppressor of cytokine signaling 4 (SOCS-4) (Suppressor of cytokine signaling 7) (SOCS-7)	Socs4 Socs7	Mus musculus (Mouse)	436
+O54928	SOCS5_MOUSE	reviewed	Suppressor of cytokine signaling 5 (SOCS-5) (Cytokine-inducible SH2-containing protein 5)	Socs5 Cish5	Mus musculus (Mouse)	536
+Q2M2N2	SPOPL_MOUSE	reviewed	Speckle-type POZ protein-like (HIB homolog 2)	Spopl	Mus musculus (Mouse)	392
+Q571F5	SPSB3_MOUSE	reviewed	SPRY domain-containing SOCS box protein 3 (SSB-3)	Spsb3 Kiaa4204 Ssb3 Tce1	Mus musculus (Mouse)	354
+Q5NCP0	RNF43_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF43 (EC 2.3.2.27) (RING finger protein 43) (RING-type E3 ubiquitin transferase RNF43)	Rnf43	Mus musculus (Mouse)	784
+O35445	RNF5_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF5 (EC 2.3.2.27) (RING finger protein 5) (RING-type E3 ubiquitin transferase RNF5)	Rnf5 Ng2	Mus musculus (Mouse)	180
+Q9QZR0	RNF25_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF25 (EC 2.3.2.27) (RING finger protein 25) (RING finger protein AO7) (RING-type E3 ubiquitin transferase RNF25)	Rnf25	Mus musculus (Mouse)	456
+Q8BI21	RNF38_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF38 (EC 2.3.2.27) (RING finger protein 38) (RING-type E3 ubiquitin transferase RNF38)	Rnf38	Mus musculus (Mouse)	518
+P50636	RN19A_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF19A (EC 2.3.2.31) (Double ring-finger protein) (Dorfin) (Gametogenesis-expressed protein GEG-154) (RING finger protein 19A) (UBCM4-interacting protein 117) (UIP117) (XY body protein) (XYbp)	Rnf19a Geg-154 Rnf19 Xybp	Mus musculus (Mouse)	840
+A2A7Q9	RN19B_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF19B (EC 2.3.2.31) (IBR domain-containing protein 3) (Natural killer lytic-associated molecule) (RING finger protein 19B)	Rnf19b Ibrdc3 Nklam	Mus musculus (Mouse)	732
+Q3U2C5	RN149_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF149 (EC 2.3.2.27) (Goliath-related E3 ubiquitin-protein ligase 4) (RING finger protein 149) (RING-type E3 ubiquitin transferase RNF149)	Rnf149 Greul4	Mus musculus (Mouse)	394
+Q9QYK7	RNF11_MOUSE	reviewed	RING finger protein 11 (NEDD4 WW domain-binding protein 2) (Sid 1669)	Rnf11 N4wbp2 Sid1669	Mus musculus (Mouse)	154
+Q91YL2	RN126_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF126 (EC 2.3.2.27) (RING finger protein 126)	Rnf126	Mus musculus (Mouse)	313
+Q99ML9	RN111_MOUSE	reviewed	E3 ubiquitin-protein ligase Arkadia (EC 2.3.2.27) (RING finger protein 111) (RING-type E3 ubiquitin transferase Arkadia)	Rnf111	Mus musculus (Mouse)	989
+Q8QZS5	RN183_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase RNF183 (EC 2.3.2.27)	Rnf183	Mus musculus (Mouse)	190
+Q9ET26	RN114_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF114 (EC 2.3.2.27) (RING finger protein 114) (RING-type E3 ubiquitin transferase RNF114) (Zinc finger protein 228) (Zinc finger protein 313)	Rnf114 Zfp228 Zfp313 Znf228 Znf313	Mus musculus (Mouse)	229
+Q8BFX1	RN187_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF187 (EC 2.3.2.27) (RING domain AP1 coactivator 1) (RACO-1) (RING finger protein 187) (RING-type E3 ubiquitin transferase RNF187)	Rnf187	Mus musculus (Mouse)	236
+Q9D0C1	RN115_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF115 (EC 2.3.2.27) (RING finger protein 115) (RING-type E3 ubiquitin transferase RNF115) (Rabring 7) (Zinc finger protein 364)	Rnf115 Zfp364 Znf364	Mus musculus (Mouse)	305
+E9Q555	RN213_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF213 (EC 2.3.2.27) (EC 3.6.4.-) (Mysterin) (RING finger protein 213) (RING-type E3 ubiquitin transferase RNF213)	Rnf213 Mystr	Mus musculus (Mouse)	5152
+Q8CBG9	RN170_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF170 (EC 2.3.2.27) (RING finger protein 170) (RING-type E3 ubiquitin transferase RNF170)	Rnf170	Mus musculus (Mouse)	286
+Q9WTV7	RNF12_MOUSE	reviewed	E3 ubiquitin-protein ligase RLIM (EC 2.3.2.27) (LIM domain-interacting RING finger protein) (RING finger LIM domain-binding protein) (R-LIM) (RING finger protein 12) (RING-type E3 ubiquitin transferase RLIM)	Rlim Rnf12	Mus musculus (Mouse)	600
+Q925F4	RNF37_MOUSE	reviewed	RING finger protein 37 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase RNF37) (U-box domain-containing protein 5) (UbcM4-interacting protein 5)	Ubox5 Rnf37 Uip5	Mus musculus (Mouse)	539
+Q8BH75	RNF41_MOUSE	reviewed	E3 ubiquitin-protein ligase NRDP1 (EC 2.3.2.27) (RING finger protein 41) (RING-type E3 ubiquitin transferase NRDP1)	Rnf41 Flrf Nrdp1	Mus musculus (Mouse)	317
+Q9R1W3	RN103_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF103 (EC 2.3.2.27) (KF-1) (mKF-1) (RING finger protein 103) (RING-type E3 ubiquitin transferase RNF103) (Zinc finger protein 103) (Zfp-103)	Rnf103 Zfp103	Mus musculus (Mouse)	683
+Q9D304	RN128_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF128 (EC 2.3.2.27) (Gene related to anergy in lymphocytes protein) (Goliath-related E3 ubiquitin-protein ligase 1) (RING finger protein 128) (RING-type E3 ubiquitin transferase RNF128)	Rnf128 Grail Greul1 MNCb-3816	Mus musculus (Mouse)	428
+Q9CQE0	RN138_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF138 (EC 2.3.2.27) (RING finger protein 138) (RING-type E3 ubiquitin transferase RNF138)	Rnf138 Trif	Mus musculus (Mouse)	245
+Q62191	RO52_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM21 (EC 2.3.2.27) (52 kDa Ro protein) (52 kDa ribonucleoprotein autoantigen Ro/SS-A) (RING-type E3 ubiquitin transferase TRIM21) (Ro(SS-A)) (Sjoegren syndrome type A antigen) (SS-A) (Tripartite motif-containing protein 21)	Trim21 Ro52 Ssa1	Mus musculus (Mouse)	470
+Q9QXE7	TBL1X_MOUSE	reviewed	F-box-like/WD repeat-containing protein TBL1X (Transducin beta-like protein 1X)	Tbl1x Tbl1	Mus musculus (Mouse)	527
+Q01853	TERA_MOUSE	reviewed	Transitional endoplasmic reticulum ATPase (TER ATPase) (EC 3.6.4.6) (15S Mg(2+)-ATPase p97 subunit) (Valosin-containing protein) (VCP)	Vcp	Mus musculus (Mouse)	806
+Q62318	TIF1B_MOUSE	reviewed	Transcription intermediary factor 1-beta (TIF1-beta) (E3 SUMO-protein ligase TRIM28) (EC 2.3.2.27) (KRAB-A-interacting protein) (KRIP-1) (RING-type E3 ubiquitin transferase TIF1-beta) (Tripartite motif-containing protein 28)	Trim28 Kap1 Krip1 Tif1b	Mus musculus (Mouse)	834
+Q9JLV2	TP4AP_MOUSE	reviewed	Short transient receptor potential channel 4-associated protein (Trp4-associated protein) (Trpc4-associated protein) (Protein TAP1) (Rabex-5/Rin2-interacting protein) (TNF-receptor ubiquitous scaffolding/signaling protein) (Protein TRUSS)	Trpc4ap Trrp4ap	Mus musculus (Mouse)	797
+Q80Z37	TOPRS_MOUSE	reviewed	E3 ubiquitin-protein ligase Topors (EC 2.3.2.27) (RING-type E3 ubiquitin transferase Topors) (SUMO1-protein E3 ligase Topors) (Topoisomerase I-binding RING finger protein) (Topoisomerase I-binding arginine/serine-rich protein) (Tumor suppressor p53-binding protein 3) (p53-binding protein 3) (p53BP3)	Topors	Mus musculus (Mouse)	1033
+Q64127	TIF1A_MOUSE	reviewed	Transcription intermediary factor 1-alpha (TIF1-alpha) (EC 2.3.2.27) (E3 ubiquitin-protein ligase Trim24) (RING-type E3 ubiquitin transferase TIF1-alpha) (Tripartite motif-containing protein 24)	Trim24 Tif1 Tif1a	Mus musculus (Mouse)	1051
+Q9Z172	SUMO3_MOUSE	reviewed	Small ubiquitin-related modifier 3 (SUMO-3) (SMT3 homolog 1) (Ubiquitin-like protein SMT3A) (Smt3A)	Sumo3 Smt3a Smt3h1	Mus musculus (Mouse)	110
+Q9R1T2	SAE1_MOUSE	reviewed	SUMO-activating enzyme subunit 1 (Ubiquitin-like 1-activating enzyme E1A) [Cleaved into: SUMO-activating enzyme subunit 1, N-terminally processed]	Sae1 Aos1 Sua1 Ubl1a1 Uble1a	Mus musculus (Mouse)	350
+Q9Z1F9	SAE2_MOUSE	reviewed	SUMO-activating enzyme subunit 2 (EC 2.3.2.-) (Anthracycline-associated resistance ARX) (Ubiquitin-like 1-activating enzyme E1B) (Ubiquitin-like modifier-activating enzyme 2)	Uba2 Sae2 Uble1b	Mus musculus (Mouse)	638
+Q91ZX6	SENP2_MOUSE	reviewed	Sentrin-specific protease 2 (EC 3.4.22.-) (Axam2) (SUMO-1 protease 1) (SuPr-1) (SUMO-1/Smt3-specific isopeptidase 2) (Smt3ip2) (Sentrin/SUMO-specific protease SENP2)	Senp2 Smt3ip2 Supr1	Mus musculus (Mouse)	588
+Q9D2Z4	SENP8_MOUSE	reviewed	Sentrin-specific protease 8 (EC 3.4.22.-) (Deneddylase-1) (NEDD8-specific protease 1) (Sentrin/SUMO-specific protease SENP8)	Senp8 Den1 Nedp1	Mus musculus (Mouse)	221
+P59110	SENP1_MOUSE	reviewed	Sentrin-specific protease 1 (EC 3.4.22.-) (SUMO-1 protease 2) (SuPr-2) (Sentrin/SUMO-specific protease SENP1)	Senp1 Supr2	Mus musculus (Mouse)	640
+Q9CX34	SGT1_MOUSE	reviewed	Protein SGT1 homolog (Suppressor of G2 allele of SKP1 homolog)	Sugt1	Mus musculus (Mouse)	336
+Q69ZI1	SH3R1_MOUSE	reviewed	E3 ubiquitin-protein ligase SH3RF1 (EC 2.3.2.27) (Plenty of SH3s) (Protein POSH) (RING-type E3 ubiquitin transferase SH3RF1) (SH3 domain-containing RING finger protein 1) (SH3 multiple domains protein 2)	Sh3rf1 Kiaa1494 Posh Posh1 Sh3md2	Mus musculus (Mouse)	892
+Q60769	TNAP3_MOUSE	reviewed	Tumor necrosis factor alpha-induced protein 3 (TNF alpha-induced protein 3) (EC 2.3.2.-) (EC 3.4.19.12) (Putative DNA-binding protein A20) (Zinc finger protein A20)	Tnfaip3 Tnfip3	Mus musculus (Mouse)	775
+Q810I2	TRI50_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM50 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM50) (Tripartite motif-containing protein 50)	Trim50	Mus musculus (Mouse)	483
+Q8R0K2	TRI31_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM31 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM31) (Tripartite motif-containing protein 31)	Trim31	Mus musculus (Mouse)	507
+Q8CH72	TRI32_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM32 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM32) (Tripartite motif-containing protein 32)	Trim32	Mus musculus (Mouse)	655
+Q9JIL5	TULP4_MOUSE	reviewed	Tubby-related protein 4 (Tubby superfamily protein) (Tubby-like protein 4)	Tulp4 Tusp	Mus musculus (Mouse)	1547
+Q6PCX9	TRI37_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM37 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM37) (Tripartite motif-containing protein 37)	Trim37 Kiaa0898	Mus musculus (Mouse)	961
+Q3UWA4	TRI40_MOUSE	reviewed	Tripartite motif-containing protein 40 (Probable E3 NEDD8-protein ligase)	Trim40 Gm319	Mus musculus (Mouse)	246
+Q8BGX0	TRI23_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM23 (EC 2.3.2.27) (ADP-ribosylation factor domain-containing protein 1) (GTP-binding protein ARD-1) (RING-type E3 ubiquitin transferase TRIM23) (Tripartite motif-containing protein 23)	Trim23 Arfd1	Mus musculus (Mouse)	574
+Q8K243	TRI68_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM68 (EC 2.3.2.27) (RING finger protein 137) (RING-type E3 ubiquitin transferase TRIM68) (Tripartite motif-containing protein 68)	Trim68 Rnf137	Mus musculus (Mouse)	485
+Q38HM4	TRI63_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM63 (EC 2.3.2.27) (Muscle-specific RING finger protein 1) (MuRF-1) (MuRF1) (Muscle RING finger protein 1) (RING-type E3 ubiquitin transferase TRIM63) (Tripartite motif-containing protein 63)	Trim63 Murf1 Rf1	Mus musculus (Mouse)	350
+Q923T7	TRIM7_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM7 (EC 2.3.2.27) (Glycogenin-interacting protein) (Tripartite motif-containing protein 7)	Trim7 Gnip	Mus musculus (Mouse)	510
+Q99PJ2	TRIM8_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase TRIM8 (EC 2.3.2.27) (Glioblastoma-expressed RING finger protein) (RING finger protein 27) (RING-type E3 ubiquitin transferase TRIM8) (Tripartite motif-containing protein 8)	Trim8 Gerp Rnf27	Mus musculus (Mouse)	551
+Q8BVP1	TRIML_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase TRIML1 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIML1) (Tripartite motif family-like protein 1)	Triml1	Mus musculus (Mouse)	470
+G5E870	TRIPC_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIP12 (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase TRIP12) (Thyroid receptor-interacting protein 12) (TR-interacting protein 12) (TRIP-12)	Trip12	Mus musculus (Mouse)	2025
+Q8VIG6	TRAIP_MOUSE	reviewed	E3 ubiquitin-protein ligase TRAIP (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRAIP) (TRAF-interacting protein)	Traip Trip	Mus musculus (Mouse)	470
+Q80V85	TRI62_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM62 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM62) (Tripartite motif-containing protein 62)	Trim62	Mus musculus (Mouse)	475
+Q9ESN6	TRIM2_MOUSE	reviewed	Tripartite motif-containing protein 2 (EC 2.3.2.27) (E3 ubiquitin-protein ligase TRIM2) (Neural activity-related RING finger protein) (RING-type E3 ubiquitin transferase TRIM2)	Trim2 Kiaa0517 Narf	Mus musculus (Mouse)	744
+Q8K304	TM129_MOUSE	reviewed	E3 ubiquitin-protein ligase TM129 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TM129)	Tmem129	Mus musculus (Mouse)	362
+Q922B6	TRAF7_MOUSE	reviewed	E3 ubiquitin-protein ligase TRAF7 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRAF7) (TNF receptor-associated factor 7)	Traf7	Mus musculus (Mouse)	594
+Q60803	TRAF3_MOUSE	reviewed	TNF receptor-associated factor 3 (EC 2.3.2.27) (CD40 receptor-associated factor 1) (CRAF1) (RING-type E3 ubiquitin transferase TRAF3) (TRAFAMN)	Traf3 Craf1 Trafamn	Mus musculus (Mouse)	567
+Q8C7M3	TRIM9_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM9 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM9) (Tripartite motif-containing protein 9)	Trim9 Kiaa0282	Mus musculus (Mouse)	817
+P39429	TRAF2_MOUSE	reviewed	TNF receptor-associated factor 2 (EC 2.3.2.27) (E3 ubiquitin-protein ligase TRAF2) (RING-type E3 ubiquitin transferase TRAF2)	Traf2	Mus musculus (Mouse)	501
+Q9CYB0	TRI13_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM13 (EC 2.3.2.27) (Putative tumor suppressor RFP2) (RING-type E3 ubiquitin transferase TRIM13) (Ret finger protein 2) (Tripartite motif-containing protein 13)	Trim13 Rfp2	Mus musculus (Mouse)	407
+Q99PQ2	TRI11_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM11 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM11) (Tripartite motif-containing protein 11)	Trim11	Mus musculus (Mouse)	467
+Q80VI1	TRI56_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM56 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM56) (Tripartite motif-containing protein 56)	Trim56	Mus musculus (Mouse)	734
+Q7TPM3	TRI17_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM17 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM17) (Tripartite motif-containing protein 17)	Trim17	Mus musculus (Mouse)	477
+Q5NCC9	TRI58_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM58 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM58) (Tripartite motif-containing protein 58)	Trim58 Gm16	Mus musculus (Mouse)	485
+O70583	TRI18_MOUSE	reviewed	E3 ubiquitin-protein ligase Midline-1 (EC 2.3.2.27) (Midin) (RING finger protein Midline-1) (RING-type E3 ubiquitin transferase Midline-1) (Tripartite motif-containing protein 18)	Mid1 Fxy Trim18	Mus musculus (Mouse)	680
+Q61510	TRI25_MOUSE	reviewed	E3 ubiquitin/ISG15 ligase TRIM25 (EC 6.3.2.n3) (Estrogen-responsive finger protein) (RING-type E3 ubiquitin transferase) (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM25) (Tripartite motif-containing protein 25) (Ubiquitin/ISG15-conjugating enzyme TRIM25) (Zinc finger protein 147)	Trim25 Efp Zfp147 Znf147	Mus musculus (Mouse)	634
+Q80X56	TRI69_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM69 (EC 2.3.2.27) (RING finger B-box coiled-coil transcription factor) (RING finger protein 36) (RING-type E3 ubiquitin transferase TRIM69) (Testis-specific RING finger protein) (Tripartite motif-containing protein 69)	Trim69 Rnf36 Trif	Mus musculus (Mouse)	500
+Q62158	TRI27_MOUSE	reviewed	Zinc finger protein RFP (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM27) (Ret finger protein) (Tripartite motif-containing protein 27)	Trim27 Rfp	Mus musculus (Mouse)	513
+Q9QUS6	TRIM1_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase MID2 (EC 2.3.2.27) (Midline defect 2) (Midline-2) (RING-type E3 ubiquitin transferase MID2) (Tripartite motif-containing protein 1)	Mid2 Fxy2 Trim1	Mus musculus (Mouse)	705
+P70196	TRAF6_MOUSE	reviewed	TNF receptor-associated factor 6 (EC 2.3.2.27) (E3 ubiquitin-protein ligase TRAF6) (RING-type E3 ubiquitin transferase TRAF6)	Traf6	Mus musculus (Mouse)	530
+Q80WG7	TRI36_MOUSE	reviewed	E3 ubiquitin-protein ligase Trim36 (EC 2.3.2.27) (Acrosome RBCC protein) (Haprin) (RING-type E3 ubiquitin transferase TRIM36) (Tripartite motif-containing protein 36)	Trim36	Mus musculus (Mouse)	729
+Q9ESN2	TRI39_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM39 (EC 2.3.2.27) (RING finger protein 23) (RING-type E3 ubiquitin transferase TRIM39) (Testis-abundant finger protein) (Tripartite motif-containing protein 39)	Trim39 Rnf23 Tfp	Mus musculus (Mouse)	488
+Q5NCC3	TRI41_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM41 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM41) (Tripartite motif-containing protein 41)	Trim41	Mus musculus (Mouse)	630
+Q8BGE7	TRIM6_MOUSE	reviewed	Tripartite motif-containing protein 6 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TRIM6)	Trim6	Mus musculus (Mouse)	488
+Q99PP7	TRI33_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM33 (EC 2.3.2.27) (Ectodermin homolog) (RING-type E3 ubiquitin transferase TRIM33) (Transcription intermediary factor 1-gamma) (TIF1-gamma) (Tripartite motif-containing protein 33)	Trim33 Kiaa1113	Mus musculus (Mouse)	1142
+Q9D9R0	RN125_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF125 (EC 2.3.2.27) (RING finger protein 125)	Rnf125	Mus musculus (Mouse)	233
+Q9CWS1	RN135_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF135 (EC 2.3.2.27) (RING finger protein 135) (RING-type E3 ubiquitin transferase RNF135)	Rnf135	Mus musculus (Mouse)	417
+E9QAU8	RN165_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF165 (EC 2.3.2.27) (Arkadia-like protein 2C) (Ark2C) (RING finger protein 165)	Rnf165 Ark2c Gm96	Mus musculus (Mouse)	347
+E9Q7F2	RN169_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF169 (EC 2.3.2.27) (RING finger protein 169) (RING-type E3 ubiquitin transferase RNF169)	Rnf169 Kiaa1991	Mus musculus (Mouse)	694
+O54965	RNF13_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF13 (EC 2.3.2.27) (RING finger protein 13) (RING-type E3 ubiquitin transferase RNF13)	Rnf13 Rzf	Mus musculus (Mouse)	381
+Q9JI90	RNF14_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF14 (EC 2.3.2.31) (Androgen receptor-associated protein 54) (Protein Triad2) (RING finger protein 14)	Rnf14 Ara54 Triad2	Mus musculus (Mouse)	485
+Q8BG47	RN152_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF152 (EC 2.3.2.27) (RING finger protein 152) (RING-type E3 ubiquitin transferase RNF152)	Rnf152	Mus musculus (Mouse)	203
+Q96DY5	RN112_MOUSE	reviewed	RING finger protein 112 (EC 2.3.2.27) (Brain finger protein) (Neurolastin) (Zinc finger protein 179)	Rnf112 Bfp Znf179	Mus musculus (Mouse)	654
+Q3TEL6	RN157_MOUSE	reviewed	E3 ubiquitin ligase Rnf157 (EC 2.3.2.27) (RING finger protein 157) (RING-type E3 ubiquitin transferase Rnf157)	Rnf157 Kiaa1917	Mus musculus (Mouse)	685
+Q5SWK7	RN145_MOUSE	reviewed	RING finger protein 145 (EC 2.3.2.27)	Rnf145	Mus musculus (Mouse)	663
+Q80XJ2	RN168_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF168 (EC 2.3.2.27) (RING finger protein 168) (RING-type E3 ubiquitin transferase RNF168)	Rnf168	Mus musculus (Mouse)	565
+Q9CZW6	RN146_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF146 (EC 2.3.2.27) (Iduna) (RING finger protein 146) (RING-type E3 ubiquitin transferase RNF146)	Rnf146	Mus musculus (Mouse)	359
+F6TQD1	RN212_MOUSE	reviewed	Probable E3 SUMO-protein ligase RNF212 (EC 2.3.2.-) (Probable E3 SUMO-protein transferase RNF212) (RING finger protein 212)	Rnf212	Mus musculus (Mouse)	307
+P58283	RN216_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF216 (EC 2.3.2.27) (RING finger protein 216) (RING-type E3 ubiquitin transferase RNF216) (Triad domain-containing protein 3) (UbcM4-interacting protein 83) (Ubiquitin-conjugating enzyme 7-interacting protein 1)	Rnf216 Triad3 Ubce7ip1 Uip83 Zin	Mus musculus (Mouse)	853
+Q9CY62	RN181_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF181 (EC 2.3.2.27) (RING finger protein 181) (RING-type E3 ubiquitin transferase RNF181)	Rnf181	Mus musculus (Mouse)	165
+Q9DBU5	RNF6_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF6 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase RNF6) (RLIM-like protein)	Rnf6	Mus musculus (Mouse)	667
+Q924T7	RNF31_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF31 (EC 2.3.2.27) (HOIL-1-interacting protein) (HOIP) (Putative Ariadne-like ubiquitin ligase) (PAUL) (RING finger protein 31) (RING-type E3 ubiquitin transferase RNF31)	Rnf31 Paul	Mus musculus (Mouse)	1066
+Q99KR6	RNF34_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF34 (EC 2.3.2.27) (Phafin-1) (RING finger protein 34) (RING-type E3 ubiquitin transferase RNF34)	Rnf34	Mus musculus (Mouse)	376
+Q9DCN7	RNFT1_MOUSE	reviewed	E3 ubiquitin-protein ligase RNFT1 (EC 2.3.2.27) (RING finger and transmembrane domain-containing protein 1)	Rnft1	Mus musculus (Mouse)	395
+O35730	RING1_MOUSE	reviewed	E3 ubiquitin-protein ligase RING1 (EC 2.3.2.27) (Polycomb complex protein RING1) (RING finger protein 1) (RING-type E3 ubiquitin transferase RING1) (Transcription repressor Ring1A)	Ring1 Ring1A Rnf1	Mus musculus (Mouse)	406
+Q8CB27	OTU1_MOUSE	reviewed	Ubiquitin thioesterase OTU1 (EC 3.4.19.12)	Yod1	Mus musculus (Mouse)	343
+Q8K2H2	OTU6B_MOUSE	reviewed	Deubiquitinase OTUD6B (OTU domain-containing protein 6B) (EC 3.4.19.12)	Otud6b	Mus musculus (Mouse)	294
+B2RUR8	OTU7B_MOUSE	reviewed	OTU domain-containing protein 7B (EC 3.4.19.12) (Cellular zinc finger anti-NF-kappa-B protein) (Zinc finger A20 domain-containing protein 1) (Zinc finger protein Cezanne)	Otud7b	Mus musculus (Mouse)	840
+Q7TQI3	OTUB1_MOUSE	reviewed	Ubiquitin thioesterase OTUB1 (EC 3.4.19.12) (Deubiquitinating enzyme OTUB1) (OTU domain-containing ubiquitin aldehyde-binding protein 1) (Otubain-1) (Ubiquitin-specific-processing protease OTUB1)	Otub1	Mus musculus (Mouse)	271
+B2RRE7	OTUD4_MOUSE	reviewed	OTU domain-containing protein 4 (EC 3.4.19.12)	Otud4 Kiaa1046	Mus musculus (Mouse)	1107
+O08919	NUMBL_MOUSE	reviewed	Numb-like protein	Numbl Nbl	Mus musculus (Mouse)	604
+P46935	NEDD4_MOUSE	reviewed	E3 ubiquitin-protein ligase NEDD4 (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase NEDD4) (Neural precursor cell expressed developmentally down-regulated protein 4) (NEDD-4)	Nedd4 Kiaa0093 Nedd-4 Nedd4-1 Nedd4a	Mus musculus (Mouse)	887
+P29595	NEDD8_MOUSE	reviewed	NEDD8 (Neddylin) (Neural precursor cell expressed developmentally down-regulated protein 8) (NEDD-8) (Ubiquitin-like protein Nedd8)	Nedd8 Nedd-8	Mus musculus (Mouse)	81
+Q9D0S4	NEUL2_MOUSE	reviewed	Neuralized-like protein 2	Neurl2 Ozz	Mus musculus (Mouse)	285
+Q9CPR8	NSE3_MOUSE	reviewed	Non-structural maintenance of chromosomes element 3 homolog (Non-SMC element 3 homolog) (MAGE-G1 antigen) (Necdin-like protein 2)	Nsmce3 Mageg1 Ndnl2	Mus musculus (Mouse)	279
+Q80T85	DCAF5_MOUSE	reviewed	DDB1- and CUL4-associated factor 5 (WD repeat-containing protein 22)	Dcaf5 Kiaa1824 Wdr22	Mus musculus (Mouse)	946
+Q059Y8	DCST1_MOUSE	reviewed	E3 ubiquitin-protein ligase DCST1 (EC 2.3.2.27) (DC-STAMP domain-containing protein 1) (RING-type E3 ubiquitin transferase)	Dcst1	Mus musculus (Mouse)	732
+Q8VE73	CUL7_MOUSE	reviewed	Cullin-7 (CUL-7) (p185) (p193)	Cul7 Kiaa0076	Mus musculus (Mouse)	1689
+Q8BGZ3	DCA12_MOUSE	reviewed	DDB1- and CUL4-associated factor 12 (WD repeat-containing protein 40A)	Dcaf12 Kiaa1892 Wdr40a	Mus musculus (Mouse)	453
+Q9DC22	DCAF6_MOUSE	reviewed	DDB1- and CUL4-associated factor 6 (IQ motif and WD repeat-containing protein 1) (Nuclear receptor interaction protein) (NRIP)	Dcaf6 Iqwd1	Mus musculus (Mouse)	876
+Q9QZ73	DCNL1_MOUSE	reviewed	DCN1-like protein 1 (DCUN1 domain-containing protein 1) (Defective in cullin neddylation protein 1-like protein 1) (Testis-specific protein 3)	Dcun1d1 Dcun1l1 Rp42 Tes3	Mus musculus (Mouse)	259
+Q9D0A0	DET1_MOUSE	reviewed	DET1 homolog (De-etiolated-1 homolog)	Det1	Mus musculus (Mouse)	550
+Q3V0Q1	DYH12_MOUSE	reviewed	Dynein heavy chain 12, axonemal (Axonemal beta dynein heavy chain 12) (Axonemal dynein heavy chain 12-like protein) (Axonemal dynein heavy chain 7-like protein) (Ciliary dynein heavy chain 12)	Dnah12 Dnah12l Dnah7l Dnahc12 Dnahc7l	Mus musculus (Mouse)	3086
+Q3TLR7	DTL_MOUSE	reviewed	Denticleless protein homolog (Lethal(2) denticleless protein homolog) (Meth A retinoic acid-regulated nuclear matrix-associated protein) (Meth A RAMP) (Retinoic acid-regulated nuclear matrix-associated protein)	Dtl Cdt2 L2dtl Ramp	Mus musculus (Mouse)	729
+Q8CDU4	DRC6_MOUSE	reviewed	Dynein regulatory complex subunit 6 (F-box and leucine-rich repeat protein 13) (F-box/LRR-repeat protein 13)	Fbxl13 Drc6	Mus musculus (Mouse)	790
+Q9JJ66	CDC20_MOUSE	reviewed	Cell division cycle protein 20 homolog (mmCdc20) (p55CDC)	Cdc20	Mus musculus (Mouse)	499
+Q99M54	CDCA3_MOUSE	reviewed	Cell division cycle-associated protein 3 (Gene-rich cluster protein C8) (Trigger of mitotic entry protein 1) (TOME-1)	Cdca3 C8 Grcc8 Tome1	Mus musculus (Mouse)	266
+Q8K2Q0	COMD9_MOUSE	reviewed	COMM domain-containing protein 9	Commd9	Mus musculus (Mouse)	198
+Q8R395	COMD5_MOUSE	reviewed	COMM domain-containing protein 5	Commd5	Mus musculus (Mouse)	224
+Q9CXW3	CYBP_MOUSE	reviewed	Calcyclin-binding protein (CacyBP) (Siah-interacting protein)	Cacybp Sip	Mus musculus (Mouse)	229
+Q62225	CISH_MOUSE	reviewed	Cytokine-inducible SH2-containing protein (CIS) (CIS-1) (Suppressor of cytokine signaling) (SOCS)	Cish Cis	Mus musculus (Mouse)	257
+Q9CZG3	COMD8_MOUSE	reviewed	COMM domain-containing protein 8	Commd8	Mus musculus (Mouse)	183
+Q63829	COMD3_MOUSE	reviewed	COMM domain-containing protein 3 (Bmi-1 upstream gene protein) (Bup protein)	Commd3 Bup	Mus musculus (Mouse)	195
+Q9R1A8	COP1_MOUSE	reviewed	E3 ubiquitin-protein ligase COP1 (EC 2.3.2.27) (Constitutive photomorphogenesis protein 1 homolog) (mCOP1) (RING finger and WD repeat domain protein 2) (RING-type E3 ubiquitin transferase RFWD2)	Cop1 Rfwd2 RNF200	Mus musculus (Mouse)	733
+Q9WTX6	CUL1_MOUSE	reviewed	Cullin-1 (CUL-1)	Cul1	Mus musculus (Mouse)	776
+Q9JLV5	CUL3_MOUSE	reviewed	Cullin-3 (CUL-3)	Cul3	Mus musculus (Mouse)	768
+Q3TCH7	CUL4A_MOUSE	reviewed	Cullin-4A (CUL-4A)	Cul4a	Mus musculus (Mouse)	759
+A2A432	CUL4B_MOUSE	reviewed	Cullin-4B (CUL-4B)	Cul4b mKIAA0695	Mus musculus (Mouse)	970
+Q5U4C9	DYRK2_MOUSE	reviewed	Dual specificity tyrosine-phosphorylation-regulated kinase 2 (EC 2.7.12.1)	Dyrk2	Mus musculus (Mouse)	599
+Q8CCE9	E4F1_MOUSE	reviewed	Transcription factor E4F1 (EC 2.3.2.27) (E4F transcription factor 1) (Putative E3 ubiquitin-protein ligase E4F1) (RING-type E3 ubiquitin transferase E4F1) (Transcription factor E4F) (Transcription factor phi AP3) (p120E4F)	E4f1	Mus musculus (Mouse)	783
+P08152	EGR2_MOUSE	reviewed	E3 SUMO-protein ligase EGR2 (EC 2.3.2.-) (E3 SUMO-protein transferase ERG2) (Early growth response protein 2) (EGR-2) (Zinc finger protein Krox-20)	Egr2 Egr-2 Krox-20 Zfp-25	Mus musculus (Mouse)	470
+Q9DCH4	EIF3F_MOUSE	reviewed	Eukaryotic translation initiation factor 3 subunit F (eIF3f) (Deubiquitinating enzyme eIF3f) (EC 3.4.19.12) (Eukaryotic translation initiation factor 3 subunit 5) (eIF-3-epsilon) (eIF3 p47)	Eif3f Eif3s5	Mus musculus (Mouse)	361
+Q8K2I9	FBH1_MOUSE	reviewed	F-box DNA helicase 1 (EC 3.6.4.12) (F-box only protein 18)	Fbh1 Fbx18 Fbxo18	Mus musculus (Mouse)	1042
+Q8VDH1	FBX21_MOUSE	reviewed	F-box only protein 21	Fbxo21 Fbx21 Kiaa0875	Mus musculus (Mouse)	627
+Q5NBU5	FBX39_MOUSE	reviewed	F-box only protein 39	Fbxo39	Mus musculus (Mouse)	443
+Q9D2Y6	FBX25_MOUSE	reviewed	F-box only protein 25	Fbxo25 Fbx25	Mus musculus (Mouse)	357
+Q6DIA9	FBX27_MOUSE	reviewed	F-box only protein 27	Fbxo27	Mus musculus (Mouse)	280
+Q8BK26	FBX44_MOUSE	reviewed	F-box only protein 44 (F-box only protein 6a)	Fbxo44 Fbxo6a	Mus musculus (Mouse)	255
+Q9CPU7	FBX32_MOUSE	reviewed	F-box only protein 32 (Atrogin-1) (Muscle atrophy F-box protein) (MAFbx)	Fbxo32	Mus musculus (Mouse)	355
+Q8C2S5	FBXL5_MOUSE	reviewed	F-box/LRR-repeat protein 5 (F-box and leucine-rich repeat protein 5)	Fbxl5	Mus musculus (Mouse)	690
+Q80XI1	FBX34_MOUSE	reviewed	F-box only protein 34	Fbxo34	Mus musculus (Mouse)	695
+Q5BJ29	FBXL7_MOUSE	reviewed	F-box/LRR-repeat protein 7 (F-box and leucine-rich repeat protein 7)	Fbxl7 Kiaa0840	Mus musculus (Mouse)	491
+Q3U7U3	FBX7_MOUSE	reviewed	F-box only protein 7	Fbxo7	Mus musculus (Mouse)	523
+Q78JE5	FBX22_MOUSE	reviewed	F-box only protein 22	Fbxo22 Fbx22	Mus musculus (Mouse)	402
+Q6PDJ6	FBX42_MOUSE	reviewed	F-box only protein 42	Fbxo42	Mus musculus (Mouse)	717
+L7N1X6	FBW15_MOUSE	reviewed	F-box/WD repeat-containing protein 15	Fbxw15 Fbxo12J	Mus musculus (Mouse)	466
+Q8BIG4	FBX28_MOUSE	reviewed	F-box only protein 28	Fbxo28 D1Ertd578e Kiaa0483	Mus musculus (Mouse)	368
+Q80UW2	FBX2_MOUSE	reviewed	F-box only protein 2	Fbxo2 Fbs1 Fbx2	Mus musculus (Mouse)	297
+Q8BJL1	FBX30_MOUSE	reviewed	F-box only protein 30 (Muscle ubiquitin ligase of SCF complex in atrophy-1) (MUSA1)	Fbxo30	Mus musculus (Mouse)	746
+Q8C4V4	FBXL3_MOUSE	reviewed	F-box/LRR-repeat protein 3 (F-box and leucine-rich repeat protein 3A) (F-box/LRR-repeat protein 3A) (Protein after-hours) (Protein overtime)	Fbxl3 Afh Fbl3a Fbxl3a Ovtm	Mus musculus (Mouse)	428
+Q5SRY7	FBW1B_MOUSE	reviewed	F-box/WD repeat-containing protein 11 (F-box and WD repeats protein beta-TrCP2) (F-box/WD repeat-containing protein 1B) (Homologous to Slimb protein) (HOS)	Fbxw11 Btrcp2 Fbw1b Fbxw1b	Mus musculus (Mouse)	542
+Q9CQ24	FBX36_MOUSE	reviewed	F-box only protein 36	Fbxo36	Mus musculus (Mouse)	188
+Q8VBV4	FBXW7_MOUSE	reviewed	F-box/WD repeat-containing protein 7 (F-box and WD-40 domain-containing protein 7) (F-box protein FBW7) (F-box protein Fbxw6) (F-box-WD40 repeat protein 6) (SEL-10)	Fbxw7 Fbw7 Fbwd6 Fbxw6	Mus musculus (Mouse)	710
+Q8BIA4	FBXW8_MOUSE	reviewed	F-box/WD repeat-containing protein 8 (F-box and WD-40 domain-containing protein 8)	Fbxw8	Mus musculus (Mouse)	598
+Q8CFD5	ERCC8_MOUSE	reviewed	DNA excision repair protein ERCC-8 (Cockayne syndrome WD repeat protein CSA homolog)	Ercc8 Ckn1 Csa	Mus musculus (Mouse)	397
+Q8BMI0	FBX38_MOUSE	reviewed	F-box only protein 38 (Modulator of KLF7 activity) (MoKA)	Fbxo38	Mus musculus (Mouse)	1194
+P62932	FBX40_MOUSE	reviewed	F-box only protein 40	Fbxo40	Mus musculus (Mouse)	710
+Q9D417	FBX24_MOUSE	reviewed	F-box only protein 24	Fbxo24 Fbx24	Mus musculus (Mouse)	589
+Q8BK06	FBX9_MOUSE	reviewed	F-box only protein 9	Fbxo9 MNCb-2471	Mus musculus (Mouse)	437
+Q8C9S8	ATG4A_MOUSE	reviewed	Cysteine protease ATG4A (EC 3.4.22.-) (AUT-like 2 cysteine endopeptidase) (Autophagin-2) (Autophagy-related cysteine endopeptidase 2) (Autophagy-related protein 4 homolog A)	Atg4a Apg4a Autl2	Mus musculus (Mouse)	396
+Q9CVD2	ATX3_MOUSE	reviewed	Ataxin-3 (EC 3.4.19.12) (Machado-Joseph disease protein 1 homolog)	Atxn3 Mjd	Mus musculus (Mouse)	355
+Q3UI43	BABA1_MOUSE	reviewed	BRISC and BRCA1-A complex member 1 (Mediator of RAP80 interactions and targeting subunit of 40 kDa) (New component of the BRCA1-A complex)	Babam1 Merit40 Nba1	Mus musculus (Mouse)	333
+Q8K3W0	BABA2_MOUSE	reviewed	BRISC and BRCA1-A complex member 2 (BRCA1-A complex subunit BRE) (BRCA1/BRCA2-containing complex subunit 45) (Brain and reproductive organ-expressed protein)	Babam2 Bre	Mus musculus (Mouse)	383
+Q8BGV7	BACD1_MOUSE	reviewed	BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 1 (BTB/POZ domain-containing protein KCTD13) (Polymerase delta-interacting protein 1)	Kctd13 Poldip1	Mus musculus (Mouse)	329
+Q99PU7	BAP1_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase BAP1 (EC 3.4.19.12) (BRCA1-associated protein 1) (Ubiquitin C-terminal hydrolase X4) (UCH-X4)	Bap1 Kiaa0272	Mus musculus (Mouse)	728
+Q9Z2A5	ATE1_MOUSE	reviewed	Arginyl-tRNA--protein transferase 1 (Arginyltransferase 1) (R-transferase 1) (EC 2.3.2.8) (Arginine-tRNA--protein transferase 1)	Ate1	Mus musculus (Mouse)	516
+Q9CPX6	ATG3_MOUSE	reviewed	Ubiquitin-like-conjugating enzyme ATG3 (EC 2.3.2.-) (Autophagy-related protein 3) (APG3-like)	Atg3 Apg3l	Mus musculus (Mouse)	314
+Q9CQY1	ATG12_MOUSE	reviewed	Ubiquitin-like protein ATG12 (Autophagy-related protein 12) (APG12-like)	Atg12 Apg12 Apg12l	Mus musculus (Mouse)	141
+Q8R1P4	ATG10_MOUSE	reviewed	Ubiquitin-like-conjugating enzyme ATG10 (EC 2.3.2.-) (Autophagy-related protein 10) (APG10-like) (mAPG10)	Atg10 Apg10l	Mus musculus (Mouse)	215
+P70295	AUP1_MOUSE	reviewed	Ancient ubiquitous protein 1	Aup1	Mus musculus (Mouse)	410
+Q91ZT9	ASB8_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 8 (ASB-8)	Asb8	Mus musculus (Mouse)	288
+Q91ZU1	ASB6_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 6 (ASB-6)	Asb6	Mus musculus (Mouse)	418
+Q8BGV9	ATG4D_MOUSE	reviewed	Cysteine protease ATG4D (EC 3.4.22.-) (AUT-like 4 cysteine endopeptidase) (Autophagin-4) (Autophagy-related cysteine endopeptidase 4) (Autophagy-related protein 4 homolog D) [Cleaved into: Cysteine protease ATG4D, mitochondrial]	Atg4d Apg4d Autl4	Mus musculus (Mouse)	474
+Q9D906	ATG7_MOUSE	reviewed	Ubiquitin-like modifier-activating enzyme ATG7 (ATG12-activating enzyme E1 ATG7) (Autophagy-related protein 7) (APG7-like) (mAGP7) (Ubiquitin-activating enzyme E1-like protein)	Atg7 Apg7l	Mus musculus (Mouse)	698
+Q8K2H6	APC10_MOUSE	reviewed	Anaphase-promoting complex subunit 10 (APC10) (Cyclosome subunit 10)	Anapc10 Apc10	Mus musculus (Mouse)	185
+Q8BTZ4	APC5_MOUSE	reviewed	Anaphase-promoting complex subunit 5 (APC5) (Cyclosome subunit 5)	Anapc5 MNCb-2778	Mus musculus (Mouse)	740
+Q9CPV2	APC16_MOUSE	reviewed	Anaphase-promoting complex subunit 16 (APC16) (Cyclosome subunit 16)	Anapc16 D10Ertd641e	Mus musculus (Mouse)	110
+Q8CHG5	AREL1_MOUSE	reviewed	Apoptosis-resistant E3 ubiquitin protein ligase 1 (EC 2.3.2.26) (Apoptosis-resistant HECT-type E3 ubiquitin transferase 1)	Arel1 Kiaa0317	Mus musculus (Mouse)	823
+Q9D738	ASB12_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 12 (ASB-12)	Asb12	Mus musculus (Mouse)	308
+Q8VBX0	ASB13_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 13 (ASB-13)	Asb13	Mus musculus (Mouse)	278
+Q91ZT8	ASB9_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 9 (ASB-9)	Asb9	Mus musculus (Mouse)	290
+Q8VHS6	ASB15_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 15 (ASB-15)	Asb15	Mus musculus (Mouse)	583
+Q8VHS5	ASB16_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 16 (ASB-16)	Asb16	Mus musculus (Mouse)	453
+Q9WV71	ASB4_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 4 (ASB-4)	Asb4	Mus musculus (Mouse)	426
+Q8VHP9	ASB17_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 17 (ASB-17)	Asb17	Mus musculus (Mouse)	295
+Q8VHA6	ASB18_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 18 (ASB-18)	Asb18	Mus musculus (Mouse)	467
+Q91ZU0	ASB7_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 7 (ASB-7)	Asb7	Mus musculus (Mouse)	318
+Q8BGE6	ATG4B_MOUSE	reviewed	Cysteine protease ATG4B (EC 3.4.22.-) (AUT-like 1 cysteine endopeptidase) (Autophagin-1) (Autophagy-related cysteine endopeptidase 1) (Autophagy-related protein 4 homolog B)	Atg4b Apg4b Autl1 Kiaa0943	Mus musculus (Mouse)	393
+Q9WV74	ASB1_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 1 (ASB-1)	Asb1	Mus musculus (Mouse)	336
+P59598	ASXL1_MOUSE	reviewed	Putative Polycomb group protein ASXL1 (Additional sex combs-like protein 1)	Asxl1 Kiaa0978	Mus musculus (Mouse)	1514
+Q9Z1K5	ARI1_MOUSE	reviewed	E3 ubiquitin-protein ligase ARIH1 (EC 2.3.2.31) (Protein ariadne-1 homolog) (ARI-1) (RING-type E3 ubiquitin transferase ARIH1) (UbcH7-binding protein) (UbcM4-interacting protein 77) (Ubiquitin-conjugating enzyme E2-binding protein 1)	Arih1 Ari Ubch7bp Uip77	Mus musculus (Mouse)	555
+Q91ZT7	ASB10_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 10 (ASB-10)	Asb10	Mus musculus (Mouse)	467
+Q9CQ31	ASB11_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 11 (ASB-11)	Asb11	Mus musculus (Mouse)	323
+Q8K0L0	ASB2_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 2 (ASB-2)	Asb2	Mus musculus (Mouse)	634
+Q9WV72	ASB3_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 3 (ASB-3)	Asb3	Mus musculus (Mouse)	525
+Q9D1A4	ASB5_MOUSE	reviewed	Ankyrin repeat and SOCS box protein 5 (ASB-5)	Asb5	Mus musculus (Mouse)	329
+Q9Z1K6	ARI2_MOUSE	reviewed	E3 ubiquitin-protein ligase ARIH2 (ARI-2) (Protein ariadne-2 homolog) (EC 2.3.2.31) (RING-type E3 ubiquitin transferase ARIH2) (Triad1 protein) (UbcM4-interacting protein 48)	Arih2 Ari2 Triad1 Uip48	Mus musculus (Mouse)	492
+Q922M3	BACD3_MOUSE	reviewed	BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 3 (mBACURD3) (BTB/POZ domain-containing protein KCTD10)	Kctd10	Mus musculus (Mouse)	315
+O70445	BARD1_MOUSE	reviewed	BRCA1-associated RING domain protein 1 (BARD-1) (EC 2.3.2.27) (RING-type E3 ubiquitin transferase BARD1)	Bard1	Mus musculus (Mouse)	765
+Q5DTM8	BRE1A_MOUSE	reviewed	E3 ubiquitin-protein ligase BRE1A (BRE1-A) (EC 2.3.2.27) (RING finger protein 20) (RING-type E3 ubiquitin transferase BRE1A)	Rnf20 Bre1a Kiaa4116	Mus musculus (Mouse)	973
+Q3U319	BRE1B_MOUSE	reviewed	E3 ubiquitin-protein ligase BRE1B (BRE1-B) (EC 2.3.2.27) (RING finger protein 40) (RING-type E3 ubiquitin transferase BRE1B)	Rnf40 Bre1b Kiaa0661	Mus musculus (Mouse)	1001
+Q6ZQ38	CAND1_MOUSE	reviewed	Cullin-associated NEDD8-dissociated protein 1 (Cullin-associated and neddylation-dissociated protein 1) (p120 CAND1)	Cand1 D10Ertd516e Kiaa0829	Mus musculus (Mouse)	1230
+Q99MP8	BRAP_MOUSE	reviewed	BRCA1-associated protein (EC 2.3.2.27) (BRAP2) (Impedes mitogenic signal propagation) (IMP) (RING-type E3 ubiquitin transferase BRAP2)	Brap	Mus musculus (Mouse)	591
+O70479	BACD2_MOUSE	reviewed	BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2 (BTB/POZ domain-containing protein TNFAIP1) (Tumor necrosis factor, alpha-induced protein 1, endothelial)	Tnfaip1 Edp1	Mus musculus (Mouse)	316
+A2AWP0	BIRC7_MOUSE	reviewed	Baculoviral IAP repeat-containing protein 7 (EC 2.3.2.27) (Livin) (RING-type E3 ubiquitin transferase BIRC7) [Cleaved into: Baculoviral IAP repeat-containing protein 7 30 kDa subunit (Truncated livin) (p30-Livin) (tLivin)]	Birc7 Livin	Mus musculus (Mouse)	285
+Q7M757	BRC3L_MOUSE	reviewed	Lys-63-specific deubiquitinase BRCC36-like (EC 3.4.19.-)	C6.1al Gm5136	Mus musculus (Mouse)	291
+Q6ZQ73	CAND2_MOUSE	reviewed	Cullin-associated NEDD8-dissociated protein 2 (Cullin-associated and neddylation-dissociated protein 2) (TBP-interacting protein of 120 kDa B) (TBP-interacting protein 120B) (p120 CAND2)	Cand2 Kiaa0667 Tip120b	Mus musculus (Mouse)	1235
+Q62210	BIRC2_MOUSE	reviewed	Baculoviral IAP repeat-containing protein 2 (EC 2.3.2.27) (Cellular inhibitor of apoptosis 1) (C-IAP1) (Inhibitor of apoptosis protein 2) (mIAP2) (RING-type E3 ubiquitin transferase BIRC2)	Birc2	Mus musculus (Mouse)	612
+O08863	BIRC3_MOUSE	reviewed	Baculoviral IAP repeat-containing protein 3 (EC 2.3.2.27) (Cellular inhibitor of apoptosis 2) (C-IAP2) (Inhibitor of apoptosis protein 1) (mIAP1) (RING-type E3 ubiquitin transferase BIRC3)	Birc3	Mus musculus (Mouse)	600
+O88738	BIRC6_MOUSE	reviewed	Baculoviral IAP repeat-containing protein 6 (EC 2.3.2.27) (BIR repeat-containing ubiquitin-conjugating enzyme) (BRUCE) (RING-type E3 ubiquitin transferase BIRC6) (Ubiquitin-conjugating BIR domain enzyme apollon) (APOLLON)	Birc6 Kiaa1289	Mus musculus (Mouse)	4882
+P48754	BRCA1_MOUSE	reviewed	Breast cancer type 1 susceptibility protein homolog (EC 2.3.2.27) (RING-type E3 ubiquitin transferase BRCA1)	Brca1	Mus musculus (Mouse)	1812
+P58544	BTBD1_MOUSE	reviewed	BTB/POZ domain-containing protein 1 (Glucose signal-repressing protein)	Btbd1 Gsrp	Mus musculus (Mouse)	488
+P22682	CBL_MOUSE	reviewed	E3 ubiquitin-protein ligase CBL (EC 2.3.2.27) (Casitas B-lineage lymphoma proto-oncogene) (Proto-oncogene c-Cbl) (RING-type E3 ubiquitin transferase CBL) (Signal transduction protein CBL)	Cbl	Mus musculus (Mouse)	913
+P62869	ELOB_MOUSE	reviewed	Elongin-B (EloB) (Elongin 18 kDa subunit) (RNA polymerase II transcription factor SIII subunit B) (SIII p18) (Transcription elongation factor B polypeptide 2)	Elob Tceb2	Mus musculus (Mouse)	118
+Q7TPV2	DZIP3_MOUSE	reviewed	E3 ubiquitin-protein ligase DZIP3 (EC 2.3.2.27) (DAZ-interacting protein 3 homolog) (RING-type E3 ubiquitin transferase DZIP3)	Dzip3 Kiaa0675	Mus musculus (Mouse)	1204
+Q8R3P2	DTX2_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase DTX2 (EC 2.3.2.27) (Protein deltex-2) (Deltex2) (mDTX2) (RING-type E3 ubiquitin transferase DTX2)	Dtx2	Mus musculus (Mouse)	619
+Q3UIR3	DTX3L_MOUSE	reviewed	E3 ubiquitin-protein ligase DTX3L (EC 2.3.2.27) (Protein deltex-3-like) (RING-type E3 ubiquitin transferase DTX3L)	Dtx3l Bbap	Mus musculus (Mouse)	748
+Q80V91	DTX3_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase DTX3 (EC 2.3.2.27) (Protein deltex-3) (Deltex3) (mDTX3) (RING-type E3 ubiquitin transferase DTX3)	Dtx3	Mus musculus (Mouse)	347
+Q6PDK8	DTX4_MOUSE	reviewed	E3 ubiquitin-protein ligase DTX4 (EC 2.3.2.27) (Protein deltex-4) (Deltex4) (RING-type E3 ubiquitin transferase DTX4)	Dtx4	Mus musculus (Mouse)	616
+P83940	ELOC_MOUSE	reviewed	Elongin-C (EloC) (Elongin 15 kDa subunit) (RNA polymerase II transcription factor SIII subunit C) (SIII p15) (Stromal membrane-associated protein SMAP1B homolog) (Transcription elongation factor B polypeptide 1)	Eloc Tceb1	Mus musculus (Mouse)	112
+Q99J79	DDB2_MOUSE	reviewed	DNA damage-binding protein 2 (Damage-specific DNA-binding protein 2)	Ddb2	Mus musculus (Mouse)	432
+Q9D291	DESI2_MOUSE	reviewed	Deubiquitinase DESI2 (EC 3.4.19.12) (Desumoylating isopeptidase 2) (DeSI-2) (PPPDE peptidase domain-containing protein 1) (Protein FAM152A)	Desi2 Fam152a Pppde1	Mus musculus (Mouse)	194
+Q91VU6	DCA11_MOUSE	reviewed	DDB1- and CUL4-associated factor 11 (WD repeat-containing protein 23)	Dcaf11 D14Ucla1 Wdr23	Mus musculus (Mouse)	549
+A2AKB9	DCA10_MOUSE	reviewed	DDB1- and CUL4-associated factor 10 (WD repeat-containing protein 32)	Dcaf10 Wdr32	Mus musculus (Mouse)	566
+Q6PFH3	DCA15_MOUSE	reviewed	DDB1- and CUL4-associated factor 15	Dcaf15	Mus musculus (Mouse)	600
+Q9CXX9	CUED2_MOUSE	reviewed	CUE domain-containing protein 2	Cuedc2	Mus musculus (Mouse)	284
+Q9D4H8	CUL2_MOUSE	reviewed	Cullin-2 (CUL-2)	Cul2	Mus musculus (Mouse)	745
+Q80TR8	DCAF1_MOUSE	reviewed	DDB1- and CUL4-associated factor 1 (Serine/threonine-protein kinase VPRBP) (EC 2.7.11.1)	Dcaf1 Kiaa0800 Vprbp	Mus musculus (Mouse)	1506
+Q8N7N5	DCAF8_MOUSE	reviewed	DDB1- and CUL4-associated factor 8 (WD repeat-containing protein 42A)	Dcaf8 D1Ucla4 H326 Wdr42a	Mus musculus (Mouse)	591
+Q3U1J4	DDB1_MOUSE	reviewed	DNA damage-binding protein 1 (DDB p127 subunit) (Damage-specific DNA-binding protein 1) (UV-damaged DNA-binding factor)	Ddb1	Mus musculus (Mouse)	1140
+Q80TQ2	CYLD_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase CYLD (EC 3.4.19.12) (Deubiquitinating enzyme CYLD) (Ubiquitin thioesterase CYLD) (Ubiquitin-specific-processing protease CYLD)	Cyld Cyld1 Kiaa0849	Mus musculus (Mouse)	952
+Q6PAC3	DCA13_MOUSE	reviewed	DDB1- and CUL4-associated factor 13 (WD repeat and SOF domain-containing protein 1)	Dcaf13 Gm83 Wdsof1	Mus musculus (Mouse)	445
+Q3TUL7	DCA17_MOUSE	reviewed	DDB1- and CUL4-associated factor 17	Dcaf17	Mus musculus (Mouse)	519
+P61963	DCAF7_MOUSE	reviewed	DDB1- and CUL4-associated factor 7 (WD repeat-containing protein 68) (WD repeat-containing protein An11 homolog)	Dcaf7 Han11 Wdr68	Mus musculus (Mouse)	342
+Q8BZJ7	DCNL2_MOUSE	reviewed	DCN1-like protein 2 (DCUN1 domain-containing protein 2) (Defective in cullin neddylation protein 1-like protein 2)	Dcun1d2 Dcun1l2	Mus musculus (Mouse)	259
+Q9D9Z5	DDA1_MOUSE	reviewed	DET1- and DDB1-associated protein 1	Dda1	Mus musculus (Mouse)	102
+Q9D5V5	CUL5_MOUSE	reviewed	Cullin-5 (CUL-5)	Cul5	Mus musculus (Mouse)	780
+Q80TT8	CUL9_MOUSE	reviewed	Cullin-9 (CUL-9) (p53-associated parkin-like cytoplasmic protein)	Cul9 Kiaa0708 Parc	Mus musculus (Mouse)	1865
+Q9QZM8	FBX17_MOUSE	reviewed	F-box only protein 17 (F-box only protein 26)	Fbxo17 Fbx17 Fbxo26	Mus musculus (Mouse)	286
+Q8BH16	FBXL2_MOUSE	reviewed	F-box/LRR-repeat protein 2 (F-box and leucine-rich repeat protein 2)	Fbxl2	Mus musculus (Mouse)	423
+Q8CHQ0	FBX4_MOUSE	reviewed	F-box only protein 4	Fbxo4 Fbx4	Mus musculus (Mouse)	385
+Q8CIG9	FBXL8_MOUSE	reviewed	F-box/LRR-repeat protein 8 (F-box and leucine-rich repeat protein 8) (F-box protein FBL8)	Fbxl8 Fbl8	Mus musculus (Mouse)	374
+Q8C0T1	FM1AB_MOUSE	reviewed	Protein fem-1 homolog A-B (FEM1a-B) (FEM1-alpha-B)	Fem1ab	Mus musculus (Mouse)	654
+Q9CR14	FANCL_MOUSE	reviewed	E3 ubiquitin-protein ligase FANCL (EC 2.3.2.27) (Fanconi anemia group L protein homolog) (Proliferation of germ cells protein) (RING-type E3 ubiquitin transferase FANCL)	Fancl Phf9 Pog	Mus musculus (Mouse)	375
+Q5SUS0	FBW10_MOUSE	reviewed	F-box/WD repeat-containing protein 10 (F-box and WD-40 domain-containing protein 10)	Fbxw10	Mus musculus (Mouse)	1030
+Q8BG80	FBX46_MOUSE	reviewed	F-box only protein 46 (F-box only protein 34-like)	Fbxo46 Fbx46 Fbxo34l	Mus musculus (Mouse)	603
+Q3ULA2	FBW1A_MOUSE	reviewed	F-box/WD repeat-containing protein 1A (Beta-TrCP protein E3RS-IkappaB) (Beta-transducin repeat-containing protein) (Beta-TrCP) (E3RSIkappaB) (mE3RS-IkappaB) (F-box and WD repeats protein beta-TrCP) (HOS) (Ubiquitin ligase FWD1) (pIkappaB-E3 receptor subunit)	Btrc Fbw1 Fbxw1 Fwd1 Kiaa4123	Mus musculus (Mouse)	605
+Q3TQF0	FBX31_MOUSE	reviewed	F-box only protein 31	Fbxo31 MNCb-2609	Mus musculus (Mouse)	507
+Q7TSG3	FBX5_MOUSE	reviewed	F-box only protein 5 (Early mitotic inhibitor 1)	Fbxo5 Emi1	Mus musculus (Mouse)	421
+Q7TQF2	FBX10_MOUSE	reviewed	F-box only protein 10	Fbxo10 Gm634	Mus musculus (Mouse)	950
+Q9QXW0	FBXL6_MOUSE	reviewed	F-box/LRR-repeat protein 6 (F-box and leucine-rich repeat protein 6) (F-box protein FBL6)	Fbxl6 Fbl6 MNCb-1275	Mus musculus (Mouse)	535
+Q8CEF1	FEM1C_MOUSE	reviewed	Protein fem-1 homolog C (FEM1c) (FEM1-gamma)	Fem1c Kiaa1785	Mus musculus (Mouse)	617
+Q9Z2G1	FM1AA_MOUSE	reviewed	Protein fem-1 homolog A-A (FEM1a-A) (FEM1-alpha-A)	Fem1aa Fem1a	Mus musculus (Mouse)	654
+Q7TPD1	FBX11_MOUSE	reviewed	F-box only protein 11	Fbxo11	Mus musculus (Mouse)	930
+Q9QZN0	FBX15_MOUSE	reviewed	F-box only protein 15	Fbxo15 Fbx15	Mus musculus (Mouse)	433
+Q9QZM9	FBX16_MOUSE	reviewed	F-box only protein 16	Fbxo16 Fbx16	Mus musculus (Mouse)	334
+Q8K3B1	FBSP1_MOUSE	reviewed	F-box/SPRY domain-containing protein 1 (F-box only protein 45) (mFbxo45)	Fbxo45	Mus musculus (Mouse)	286
+Q9DC63	FBX3_MOUSE	reviewed	F-box only protein 3	Fbxo3 Fba Fbx3	Mus musculus (Mouse)	480
+Q6NS60	FBX41_MOUSE	reviewed	F-box only protein 41	Fbxo41 D6Ertd538e Kiaa1940	Mus musculus (Mouse)	873
+Q8CDI2	FBX43_MOUSE	reviewed	F-box only protein 43 (Endogenous meiotic inhibitor 2)	Fbxo43 Emi2	Mus musculus (Mouse)	640
+A2A6H3	FBX47_MOUSE	reviewed	F-box only protein 47	Fbxo47	Mus musculus (Mouse)	451
+Q8BH70	FBXL4_MOUSE	reviewed	F-box/LRR-repeat protein 4 (F-box and leucine-rich repeat protein 4)	Fbxl4	Mus musculus (Mouse)	621
+Q8VE08	FBX33_MOUSE	reviewed	F-box only protein 33 (AIG30-12-1)	Fbxo33	Mus musculus (Mouse)	562
+Q9QZN4	FBX6_MOUSE	reviewed	F-box only protein 6 (F-box only protein 6b) (F-box protein that recognizes sugar chains 2) (F-box/G-domain protein 2)	Fbxo6 Fbs2 Fbxo6b	Mus musculus (Mouse)	295
+Q60584	FBXW2_MOUSE	reviewed	F-box/WD repeat-containing protein 2 (F-box and WD-40 domain-containing protein 2) (Protein MD6)	Fbxw2	Mus musculus (Mouse)	422
+Q9JMJ2	FBXW4_MOUSE	reviewed	F-box/WD repeat-containing protein 4 (F-box and WD-40 domain-containing protein 4) (Protein hagoromo)	Fbxw4 Fbw4	Mus musculus (Mouse)	410
+Q9QXW2	FBXW5_MOUSE	reviewed	F-box/WD repeat-containing protein 5 (F-box and WD-40 domain-containing protein 5)	Fbxw5 Fbw5	Mus musculus (Mouse)	573
+Q9Z2G0	FEM1B_MOUSE	reviewed	Protein fem-1 homolog B (FEM1b) (FEM1-beta) (Fem-1-like death receptor-binding protein alpha) (Fem-1-like in apoptotic pathway protein alpha) (F1A-alpha) (mt-Fem)	Fem1b F1aa Kiaa0396	Mus musculus (Mouse)	627
+Q8BID8	FXL14_MOUSE	reviewed	F-box/LRR-repeat protein 14 (F-box and leucine-rich repeat protein 14)	Fbxl14 Fbl14 Ppa	Mus musculus (Mouse)	400
+Q8C7B6	FXL22_MOUSE	reviewed	F-box and leucine-rich protein 22	Fbxl22	Mus musculus (Mouse)	236
+Q9CZV8	FXL20_MOUSE	reviewed	F-box/LRR-repeat protein 20 (F-box and leucine-rich repeat protein 20) (F-box/LRR-repeat protein 2-like)	Fbxl20 Fbl2	Mus musculus (Mouse)	436
+Q8BFZ4	FXL21_MOUSE	reviewed	F-box/LRR-repeat protein 21 (F-box and leucine-rich repeat protein 21) (F-box and leucine-rich repeat protein 3B) (F-box/LRR-repeat protein 3B)	Fbxl21 Fbl21 Fbxl3b	Mus musculus (Mouse)	434
+Q9WUD1	CHIP_MOUSE	reviewed	STIP1 homology and U box-containing protein 1 (EC 2.3.2.27) (Carboxy terminus of Hsp70-interacting protein) (E3 ubiquitin-protein ligase CHIP) (RING-type E3 ubiquitin transferase CHIP)	Stub1 Chip	Mus musculus (Mouse)	304
+D3Z3K2	CIP1_MOUSE	reviewed	E3 ubiquitin-protein ligase CCNB1IP1 (EC 2.3.2.27) (Cyclin-B1-interacting protein 1) (RING-type E3 ubiquitin transferase CCNB1IP1)	Ccnb1ip1 Gm288 Hei10 Mei4	Mus musculus (Mouse)	276
+Q8C7D2	CRBN_MOUSE	reviewed	Protein cereblon (Protein PiL)	Crbn	Mus musculus (Mouse)	445
+Q8JZY2	COMDA_MOUSE	reviewed	COMM domain-containing protein 10 (Down-regulated in W/WV mouse stomach 2) (mDRWMS2)	Commd10	Mus musculus (Mouse)	202
+Q8BXC6	COMD2_MOUSE	reviewed	COMM domain-containing protein 2	Commd2	Mus musculus (Mouse)	199
+Q9CQ02	COMD4_MOUSE	reviewed	COMM domain-containing protein 4	Commd4	Mus musculus (Mouse)	199
+Q3V4B5	COMD6_MOUSE	reviewed	COMM domain-containing protein 6	Commd6	Mus musculus (Mouse)	87
+Q8BG94	COMD7_MOUSE	reviewed	COMM domain-containing protein 7	Commd7	Mus musculus (Mouse)	200
+Q8K4M5	COMD1_MOUSE	reviewed	COMM domain-containing protein 1 (Protein Murr1)	Commd1 Murr1	Mus musculus (Mouse)	188
+Q8BT14	CNOT4_MOUSE	reviewed	CCR4-NOT transcription complex subunit 4 (EC 2.3.2.27) (CCR4-associated factor 4) (E3 ubiquitin-protein ligase CNOT4) (Potential transcriptional repressor NOT4Hp) (RING-type E3 ubiquitin transferase CNOT4)	Cnot4 Not4	Mus musculus (Mouse)	575
+Q9WUB0	HOIL1_MOUSE	reviewed	RanBP-type and C3HC4-type zinc finger-containing protein 1 (EC 2.3.2.27) (Heme-oxidized IRP2 ubiquitin ligase 1 homolog) (HOIL-1) (RING-type E3 ubiquitin transferase HOIL-1) (UbcM4-interacting protein 28) (Ubiquitin-conjugating enzyme 7-interacting protein 3)	Rbck1 Rbck Ubce7ip3 Uip28	Mus musculus (Mouse)	508
+Q7TMY8	HUWE1_MOUSE	reviewed	E3 ubiquitin-protein ligase HUWE1 (EC 2.3.2.26) (E3Histone) (HECT, UBA and WWE domain-containing protein 1) (HECT-type E3 ubiquitin transferase HUWE1) (Upstream regulatory element-binding protein 1) (URE-B1) (URE-binding protein 1)	Huwe1 Kiaa0312 Ureb1	Mus musculus (Mouse)	4377
+Q8R3Y8	I2BP1_MOUSE	reviewed	Interferon regulatory factor 2-binding protein 1 (IRF-2-binding protein 1) (IRF-2BP1) (Probable E3 ubiquitin-protein ligase IRF2BP1) (EC 2.3.2.27) (Probable RING-type E3 ubiquitin transferase IRF2BP1)	Irf2bp1	Mus musculus (Mouse)	584
+Q99N64	GMCL2_MOUSE	reviewed	Germ cell-less protein-like 2 (BTB domain containing 35, family member 1) (Germ cell-less protein-like 1-like) (mGclh)	Gmcl2 Btbd35f1 Gmcl1l Gmcl1p1	Mus musculus (Mouse)	498
+Q8VEM1	GOLI_MOUSE	reviewed	E3 ubiquitin-protein ligase RNF130 (EC 2.3.2.27) (G1-related zinc finger protein) (Goliath homolog) (RING finger protein 130) (RING-type E3 ubiquitin transferase RNF130)	Rnf130 G1rp	Mus musculus (Mouse)	419
+A2RT62	FXL16_MOUSE	reviewed	F-box/LRR-repeat protein 16 (F-box and leucine-rich repeat protein 16)	Fbxl16	Mus musculus (Mouse)	479
+Q9QZN1	FXL17_MOUSE	reviewed	F-box/LRR-repeat protein 17 (F-box and leucine-rich repeat protein 17) (F-box only protein 13)	Fbxl17 Fbl17 Fbx13 Fbxo13	Mus musculus (Mouse)	701
+Q6PB97	FXL19_MOUSE	reviewed	F-box/LRR-repeat protein 19 (F-box and leucine-rich repeat protein 19)	Fbxl19	Mus musculus (Mouse)	674
+Q8C863	ITCH_MOUSE	reviewed	E3 ubiquitin-protein ligase Itchy (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase Itchy homolog)	Itch	Mus musculus (Mouse)	864
+Q3URF8	KCD21_MOUSE	reviewed	BTB/POZ domain-containing protein KCTD21 (KCASH2 protein) (Potassium channel tetramerization domain-containing protein 21)	Kctd21	Mus musculus (Mouse)	260
+Q64339	ISG15_MOUSE	reviewed	Ubiquitin-like protein ISG15 (Interferon-induced 15 kDa protein) (Interferon-induced 17 kDa protein) (IP17) (Ubiquitin cross-reactive protein)	Isg15 G1p2 Ucrp	Mus musculus (Mouse)	161
+Q9DBJ6	JOS1_MOUSE	reviewed	Josephin-1 (EC 3.4.19.12) (Josephin domain-containing protein 1)	Josd1	Mus musculus (Mouse)	202
+Q6P1G2	KDM2B_MOUSE	reviewed	Lysine-specific demethylase 2B (EC 1.14.11.27) (F-box and leucine-rich repeat protein 10) (F-box protein FBL10) (F-box/LRR-repeat protein 10) (JmjC domain-containing histone demethylation protein 1B) ([Histone-H3]-lysine-36 demethylase 1B)	Kdm2b Fbl10 Fbxl10 Jhdm1b Kiaa3014	Mus musculus (Mouse)	1309
+Q6ZQF7	JADE2_MOUSE	reviewed	E3 ubiquitin-protein ligase Jade-2 (EC 2.3.2.27) (Jade family PHD finger protein 2) (PHD finger protein 15)	Jade2 Kiaa0239 Phf15	Mus musculus (Mouse)	829
+Q9CR30	JOS2_MOUSE	reviewed	Josephin-2 (EC 3.4.19.12) (Josephin domain-containing protein 2)	Josd2	Mus musculus (Mouse)	188
+Q80UN1	KCTD9_MOUSE	reviewed	BTB/POZ domain-containing protein KCTD9	Kctd9	Mus musculus (Mouse)	339
+Q3UQV5	KBTB8_MOUSE	reviewed	Kelch repeat and BTB domain-containing protein 8	Kbtbd8 Kiaa1842	Mus musculus (Mouse)	599
+Q8C828	KBTBD_MOUSE	reviewed	Kelch repeat and BTB domain-containing protein 13	Kbtbd13	Mus musculus (Mouse)	458
+Q80TF4	KLH13_MOUSE	reviewed	Kelch-like protein 13 (BTB and kelch domain-containing protein 2)	Klhl13 Bklhd2 Kiaa1309	Mus musculus (Mouse)	654
+Q8BFQ9	KLH42_MOUSE	reviewed	Kelch-like protein 42 (Cullin-3-binding protein 9) (Ctb9) (Kelch domain-containing protein 5)	Klhl42 Kiaa1340 Klhdc5	Mus musculus (Mouse)	493
+Q8K1C9	LRC41_MOUSE	reviewed	Leucine-rich repeat-containing protein 41 (Protein Muf1)	Lrrc41 Muf1	Mus musculus (Mouse)	807
+Q9QZ04	MAGL2_MOUSE	reviewed	MAGE-like protein 2 (Protein nS7)	Magel2	Mus musculus (Mouse)	1284
+Q8BQR7	MAGBI_MOUSE	reviewed	Melanoma-associated antigen B18 (MAGE-B18 antigen)	Mageb18	Mus musculus (Mouse)	327
+Q8BZM0	KLH12_MOUSE	reviewed	Kelch-like protein 12 (CUL3-interacting protein 1)	Klhl12 C3ip1	Mus musculus (Mouse)	568
+A2AAX3	KLH15_MOUSE	reviewed	Kelch-like protein 15	Klhl15	Mus musculus (Mouse)	604
+E0CZ16	KLHL3_MOUSE	reviewed	Kelch-like protein 3	Klhl3	Mus musculus (Mouse)	587
+Q3U410	KLH21_MOUSE	reviewed	Kelch-like protein 21	Klhl21	Mus musculus (Mouse)	597
+Q99JN2	KLH22_MOUSE	reviewed	Kelch-like protein 22	Klhl22	Mus musculus (Mouse)	634
+Q80ZI6	LRSM1_MOUSE	reviewed	E3 ubiquitin-protein ligase LRSAM1 (EC 2.3.2.27) (Leucine-rich repeat and sterile alpha motif-containing protein 1) (RING-type E3 ubiquitin transferase LRSAM1) (Tsg101-associated ligase)	Lrsam1	Mus musculus (Mouse)	727
+Q6A009	LTN1_MOUSE	reviewed	E3 ubiquitin-protein ligase listerin (EC 2.3.2.27) (RING finger protein 160) (RING-type E3 ubiquitin transferase listerin) (Zinc finger protein 294) (Zfp-294)	Ltn1 Kiaa0714 Lister Rnf160 Zfp294 Znf294	Mus musculus (Mouse)	1767
+O70263	LNX1_MOUSE	reviewed	E3 ubiquitin-protein ligase LNX (EC 2.3.2.27) (Ligand of Numb protein X 1) (Ligand of Numb-binding protein 1) (Numb-binding protein 1) (RING-type E3 ubiquitin transferase LNX)	Lnx1 Lnx	Mus musculus (Mouse)	728
+Q76LS9	MINY1_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase MINDY-1 (EC 3.4.19.12) (Deubiquitinating enzyme MINDY-1) (NF-E2 inducible protein) (Protein FAM63A)	Mindy1 Fam63a Ni	Mus musculus (Mouse)	468
+Q9QXP6	MKRN1_MOUSE	reviewed	E3 ubiquitin-protein ligase makorin-1 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase makorin-1)	Mkrn1	Mus musculus (Mouse)	481
+Q91VR7	MLP3A_MOUSE	reviewed	Microtubule-associated proteins 1A/1B light chain 3A (Autophagy-related protein LC3 A) (Autophagy-related ubiquitin-like modifier LC3 A) (MAP1 light chain 3-like protein 1) (MAP1A/MAP1B light chain 3 A) (MAP1A/MAP1B LC3 A) (Microtubule-associated protein 1 light chain 3 alpha)	Map1lc3a	Mus musculus (Mouse)	121
+Q8R516	MIB2_MOUSE	reviewed	E3 ubiquitin-protein ligase MIB2 (EC 2.3.2.27) (Dystrophin-like protein) (Dyslike) (Mind bomb homolog 2) (Mind bomb-2) (RING-type E3 ubiquitin transferase MIB2) (Skeletrophin)	Mib2 Skd	Mus musculus (Mouse)	973
+Q6PDI6	MINY2_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase MINDY-2 (EC 3.4.19.12) (Deubiquitinating enzyme MINDY-2) (Protein FAM63B)	Mindy2 Fam63b Kiaa1164	Mus musculus (Mouse)	601
+Q60764	MKRN3_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase makorin-3 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase makorin-3) (Zinc finger protein 127)	Mkrn3 Zfp127 Znf127	Mus musculus (Mouse)	544
+Q80SY4	MIB1_MOUSE	reviewed	E3 ubiquitin-protein ligase MIB1 (EC 2.3.2.27) (DAPK-interacting protein 1) (DIP-1) (Mind bomb homolog 1) (RING-type E3 ubiquitin transferase MIB1)	Mib1 Dip1 Kiaa1323 Mib	Mus musculus (Mouse)	1006
+Q9CQV6	MLP3B_MOUSE	reviewed	Microtubule-associated proteins 1A/1B light chain 3B (Autophagy-related protein LC3 B) (Autophagy-related ubiquitin-like modifier LC3 B) (MAP1 light chain 3-like protein 2) (MAP1A/MAP1B light chain 3 B) (MAP1A/MAP1B LC3 B) (Microtubule-associated protein 1 light chain 3 beta)	Map1lc3b Map1alc3 Map1lc3	Mus musculus (Mouse)	125
+Q9D074	MGRN1_MOUSE	reviewed	E3 ubiquitin-protein ligase MGRN1 (EC 2.3.2.27) (Mahogunin RING finger protein 1) (RING-type E3 ubiquitin transferase MGRN1)	Mgrn1 Kiaa0544	Mus musculus (Mouse)	532
+Q6NZQ8	MARH1_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH1 (EC 2.3.2.27) (Membrane-associated RING finger protein 1) (Membrane-associated RING-CH protein I) (MARCH-I) (RING-type E3 ubiquitin transferase MARCH1)	March1	Mus musculus (Mouse)	289
+Q6PCZ4	MAGE1_MOUSE	reviewed	Melanoma-associated antigen E1 (Alpha-dystrobrevin-associated MAGE Protein) (DAMAGE) (MAGE-E1 antigen)	Magee1	Mus musculus (Mouse)	918
+Q2TBA3	MALT1_MOUSE	reviewed	Mucosa-associated lymphoid tissue lymphoma translocation protein 1 homolog (EC 3.4.22.-) (Paracaspase)	Malt1	Mus musculus (Mouse)	832
+Q99M02	MARH2_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH2 (EC 2.3.2.27) (Membrane-associated RING finger protein 2) (Membrane-associated RING-CH protein II) (MARCH-II) (RING-type E3 ubiquitin transferase MARCH2)	March2	Mus musculus (Mouse)	246
+Q3TZ87	MARH9_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH9 (EC 2.3.2.27) (Membrane-associated RING finger protein 9) (Membrane-associated RING-CH protein IX) (MARCH-IX) (RING-type E3 ubiquitin transferase MARCH9)	March9	Mus musculus (Mouse)	348
+Q8CBH7	MARHB_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH11 (EC 2.3.2.27) (Membrane-associated RING finger protein 11) (Membrane-associated RING-CH protein XI) (MARCH-XI) (RING-type E3 ubiquitin transferase MARCH11)	March11	Mus musculus (Mouse)	400
+Q6ZQ89	MARH6_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH6 (EC 2.3.2.27) (Membrane-associated RING finger protein 6) (Membrane-associated RING-CH protein VI) (MARCH-VI) (RING-type E3 ubiquitin transferase MARCH6)	March6 Kiaa0597	Mus musculus (Mouse)	909
+Q9QYH6	MAGD1_MOUSE	reviewed	Melanoma-associated antigen D1 (Dlxin-1) (MAGE-D1 antigen) (Neurotrophin receptor-interacting MAGE homolog)	Maged1 Nrage	Mus musculus (Mouse)	775
+Q80TE3	MARH4_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH4 (EC 2.3.2.27) (Membrane-associated RING finger protein 4) (Membrane-associated RING-CH protein IV) (MARCH-IV) (RING-type E3 ubiquitin transferase MARCH4)	March4 Kiaa1399	Mus musculus (Mouse)	409
+Q9DBD2	MARH8_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH8 (EC 2.3.2.27) (Cellular modulator of immune recognition) (c-MIR) (Membrane-associated RING finger protein 8) (Membrane-associated RING-CH protein VIII) (MARCH-VIII) (RING-type E3 ubiquitin transferase MARCH8)	March8 Mir	Mus musculus (Mouse)	286
+Q3KNM2	MARH5_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH5 (EC 2.3.2.27) (Membrane-associated RING finger protein 5) (Membrane-associated RING-CH protein V) (MARCH-V) (RING-type E3 ubiquitin transferase MARCH5)	March5	Mus musculus (Mouse)	278
+P23804	MDM2_MOUSE	reviewed	E3 ubiquitin-protein ligase Mdm2 (EC 2.3.2.27) (Double minute 2 protein) (Oncoprotein Mdm2) (RING-type E3 ubiquitin transferase Mdm2) (p53-binding protein Mdm2)	Mdm2	Mus musculus (Mouse)	489
+Q8BRX9	MARH3_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH3 (EC 2.3.2.27) (Membrane-associated RING finger protein 3) (Membrane-associated RING-CH protein III) (MARCH-III) (RING-type E3 ubiquitin transferase MARCH3)	March3	Mus musculus (Mouse)	218
+Q9WV66	MARH7_MOUSE	reviewed	E3 ubiquitin-protein ligase MARCH7 (EC 2.3.2.27) (Axotrophin) (Membrane-associated RING finger protein 7) (Membrane-associated RING-CH protein VII) (MARCH-VII) (RING-type E3 ubiquitin transferase MARCH7)	March7 Axot	Mus musculus (Mouse)	693
+Q9D7W5	MED8_MOUSE	reviewed	Mediator of RNA polymerase II transcription subunit 8 (Activator-recruited cofactor 32 kDa component) (ARC32) (Mediator complex subunit 8)	Med8 MNCb-2386	Mus musculus (Mouse)	268
+Q8BNL5	KCTD6_MOUSE	reviewed	BTB/POZ domain-containing protein KCTD6	Kctd6	Mus musculus (Mouse)	237
+P59997	KDM2A_MOUSE	reviewed	Lysine-specific demethylase 2A (EC 1.14.11.27) (F-box and leucine-rich repeat protein 11) (F-box/LRR-repeat protein 11) (JmjC domain-containing histone demethylation protein 1A) ([Histone-H3]-lysine-36 demethylase 1A)	Kdm2a Fbxl11 Jhdm1a Kiaa1004	Mus musculus (Mouse)	1161
+Q9D5V2	KLH10_MOUSE	reviewed	Kelch-like protein 10	Klhl10	Mus musculus (Mouse)	608
+Q9D783	KLH40_MOUSE	reviewed	Kelch-like protein 40 (Kelch repeat and BTB domain-containing protein 5)	Klhl40 Kbtbd5	Mus musculus (Mouse)	621
+P59280	KLHL8_MOUSE	reviewed	Kelch-like protein 8	Klhl8	Mus musculus (Mouse)	629
+Q6ZPT1	KLHL9_MOUSE	reviewed	Kelch-like protein 9	Klhl9 Kiaa1354	Mus musculus (Mouse)	617
+Q80UY2	KCMF1_MOUSE	reviewed	E3 ubiquitin-protein ligase KCMF1 (EC 2.3.2.27) (Differentially expressed in branching tubulogenesis 91) (Debt-91) (RING-type E3 ubiquitin transferase KCMF1)	Kcmf1 Debt91	Mus musculus (Mouse)	381
+Q8K485	KCD11_MOUSE	reviewed	BTB/POZ domain-containing protein KCTD11 (KCASH1 protein) (Potassium channel tetramerization domain-containing protein 11) (RING-type E3 ubiquitin transferase subunit KCTD11)	Kctd11 Ren	Mus musculus (Mouse)	232
+Q9Z2X8	KEAP1_MOUSE	reviewed	Kelch-like ECH-associated protein 1 (Cytosolic inhibitor of Nrf2) (INrf2)	Keap1 Inrf2 Kiaa0132	Mus musculus (Mouse)	624
+Q8R2P1	KLH25_MOUSE	reviewed	Kelch-like protein 25 (Ectoderm-neural cortex protein 2) (ENC-2)	Klhl25 Enc2	Mus musculus (Mouse)	589
+Q1PSW8	LIN41_MOUSE	reviewed	E3 ubiquitin-protein ligase TRIM71 (EC 2.3.2.27) (Protein lin-41 homolog) (mLin41) (RING-type E3 ubiquitin transferase TRIM71) (Tripartite motif-containing protein 71)	Trim71 Gm1127 Lin41	Mus musculus (Mouse)	855
+Q8VCK5	KLH20_MOUSE	reviewed	Kelch-like protein 20 (Kelch-like ECT2-interacting protein)	Klhl20 Kiaa4210 Kleip	Mus musculus (Mouse)	604
+Q8BUL5	KLHL7_MOUSE	reviewed	Kelch-like protein 7	Klhl7	Mus musculus (Mouse)	586
+Q8BRG6	KLH24_MOUSE	reviewed	Kelch-like protein 24 (Kainate receptor-interacting protein for GluR6) (KRIP6)	Klhl24	Mus musculus (Mouse)	600
+Q8CE33	KLH11_MOUSE	reviewed	Kelch-like protein 11	Klhl11	Mus musculus (Mouse)	709
+Q6TDP3	KLH17_MOUSE	reviewed	Kelch-like protein 17 (Actinfilin)	Klhl17	Mus musculus (Mouse)	640
+Q8R124	KLH36_MOUSE	reviewed	Kelch-like protein 36	Klhl36	Mus musculus (Mouse)	613
+Q8JZP3	KLHL2_MOUSE	reviewed	Kelch-like protein 2	Klhl2	Mus musculus (Mouse)	593
+Q6PCN7	HLTF_MOUSE	reviewed	Helicase-like transcription factor (EC 2.3.2.27) (EC 3.6.4.-) (P113) (RING-type E3 ubiquitin transferase HLTF) (SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 3) (Sucrose nonfermenting protein 2-like 3) (TNF-response element-binding protein)	Hltf Smarca3 Snf2l3 Zbu1	Mus musculus (Mouse)	1003
+Q5RJY2	G2E3_MOUSE	reviewed	G2/M phase-specific E3 ubiquitin-protein ligase (EC 2.3.2.26) (G2/M phase-specific HECT-type E3 ubiquitin transferase)	G2e3 Kiaa1333	Mus musculus (Mouse)	716
+Q91W61	FXL15_MOUSE	reviewed	F-box/LRR-repeat protein 15 (F-box only protein 37)	Fbxl15 Fbxo37	Mus musculus (Mouse)	300
+Q8CA72	GAN_MOUSE	reviewed	Gigaxonin	Gan	Mus musculus (Mouse)	597
+Q9R1K5	FZR1_MOUSE	reviewed	Fizzy-related protein homolog (Fzr) (Cdh1/Hct1 homolog)	Fzr1 Fyr Fzr	Mus musculus (Mouse)	493
+Q9EPX5	FXL12_MOUSE	reviewed	F-box/LRR-repeat protein 12 (F-box and leucine-rich repeat protein 12) (F-box protein FBL12)	Fbxl12 Fbl12	Mus musculus (Mouse)	326
+Q4U2R1	HERC2_MOUSE	reviewed	E3 ubiquitin-protein ligase HERC2 (EC 2.3.2.26) (HECT domain and RCC1-like domain-containing protein 2) (HECT-type E3 ubiquitin transferase HERC2)	Herc2 Jdf2 Kiaa0393 Rjs	Mus musculus (Mouse)	4836
+F2Z461	HERC6_MOUSE	reviewed	E3 ISG15--protein ligase Herc6 (EC 2.3.2.-)	Herc6	Mus musculus (Mouse)	1003
+Q05A36	MEX3C_MOUSE	reviewed	RNA-binding E3 ubiquitin-protein ligase MEX3C (EC 2.3.2.27) (RING finger and KH domain-containing protein 2) (RING-type E3 ubiquitin transferase MEX3C)	Mex3c Rkhd2	Mus musculus (Mouse)	652
+Q9ERV1	MKRN2_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase makorin-2 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase makorin-2)	Mkrn2	Mus musculus (Mouse)	416
+Q69ZF8	MSL2_MOUSE	reviewed	E3 ubiquitin-protein ligase MSL2 (EC 2.3.2.-) (E3 ubiquitin-protein transferase MSL2) (Male-specific lethal 2-like 1) (MSL2-like 1) (Male-specific lethal-2 homolog) (MSL-2) (Male-specific lethal-2 homolog 1) (RING finger protein 184)	Msl2 Kiaa1585 Msl2l1 Rnf184	Mus musculus (Mouse)	577
+Q8VCM5	MUL1_MOUSE	reviewed	Mitochondrial ubiquitin ligase activator of NFKB 1 (EC 2.3.2.27) (E3 ubiquitin-protein ligase MUL1) (Growth inhibition and death E3 ligase) (RING-type E3 ubiquitin transferase NFKB 1)	Mul1 Gide	Mus musculus (Mouse)	352
+Q9CV28	MINY3_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase MINDY-3 (EC 3.4.19.12) (Deubiquitinating enzyme MINDY-3) (Protein CARP)	MINDY3 Carp Fam188a	Mus musculus (Mouse)	444
+Q3UQI9	MINY4_MOUSE	reviewed	Probable ubiquitin carboxyl-terminal hydrolase MINDY-4 (EC 3.4.19.12) (Probable deubiquitinating enzyme MINDY-4)	Mindy4 Fam188b	Mus musculus (Mouse)	744
+Q9R049	AMFR_MOUSE	reviewed	E3 ubiquitin-protein ligase AMFR (EC 2.3.2.27) (Autocrine motility factor receptor) (AMF receptor) (RING-type E3 ubiquitin transferase AMFR)	Amfr	Mus musculus (Mouse)	643
+Q8BZQ7	ANC2_MOUSE	reviewed	Anaphase-promoting complex subunit 2 (APC2) (Cyclosome subunit 2)	Anapc2	Mus musculus (Mouse)	837
+Q9D8C3	ALG13_MOUSE	reviewed	Putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13 (EC 2.4.1.141) (EC 3.4.19.12) (Asparagine-linked glycosylation 13 homolog) (Glycosyltransferase 28 domain-containing protein 1) (UDP-N-acetylglucosamine transferase subunit ALG13 homolog)	Alg13 Glt28d1	Mus musculus (Mouse)	1166
+Q9CPX9	APC11_MOUSE	reviewed	Anaphase-promoting complex subunit 11 (APC11) (Cyclosome subunit 11)	Anapc11	Mus musculus (Mouse)	84
+Q9WVM3	APC7_MOUSE	reviewed	Anaphase-promoting complex subunit 7 (APC7) (Cyclosome subunit 7) (Prediabetic NOD sera-reactive autoantigen)	Anapc7 Apc7	Mus musculus (Mouse)	565
+Q91W96	APC4_MOUSE	reviewed	Anaphase-promoting complex subunit 4 (APC4) (Cyclosome subunit 4)	Anapc4 D5Ertd249e	Mus musculus (Mouse)	807
+Q8R034	APC13_MOUSE	reviewed	Anaphase-promoting complex subunit 13 (APC13) (Cyclosome subunit 13)	Anapc13	Mus musculus (Mouse)	74
+P53995	APC1_MOUSE	reviewed	Anaphase-promoting complex subunit 1 (APC1) (Cyclosome subunit 1) (Mitotic checkpoint regulator) (Testis-specific gene 24 protein)	Anapc1 Mcpr Tsg24	Mus musculus (Mouse)	1944
+Q64364	ARF_MOUSE	reviewed	Tumor suppressor ARF (Alternative reading frame) (ARF) (Cyclin-dependent kinase inhibitor 2A) (p19ARF)	Cdkn2a	Mus musculus (Mouse)	169
+P61080	UB2D1_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 D1 (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme D1) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme D1) (Ubiquitin carrier protein D1) (Ubiquitin-conjugating enzyme E2(17)KB 1) (Ubiquitin-conjugating enzyme E2-17 kDa 1) (Ubiquitin-protein ligase D1)	Ube2d1	Mus musculus (Mouse)	147
+Q6ZWZ2	UB2R2_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 R2 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme R2) (Ubiquitin carrier protein R2) (Ubiquitin-conjugating enzyme E2-CDC34B) (Ubiquitin-protein ligase R2)	Ube2r2 Cdc34b Ubc3b	Mus musculus (Mouse)	238
+P52482	UB2E1_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 E1 (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme E1) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme E1) (UbcM3) (Ubiquitin carrier protein E1) (Ubiquitin-protein ligase E1)	Ube2e1 Ubce5 Ubcm3	Mus musculus (Mouse)	193
+P31254	UBA1Y_MOUSE	reviewed	Ubiquitin-like modifier-activating enzyme 1 Y (EC 6.2.1.45) (Ubiquitin-activating enzyme E1) (Ubiquitin-activating enzyme E1 Y)	Uba1y Sby Ube1ay Ube1y Ube1y1	Mus musculus (Mouse)	1058
+Q9CQ37	UBE2T_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 T (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme T) (Ubiquitin carrier protein T) (Ubiquitin-protein ligase T)	Ube2t	Mus musculus (Mouse)	204
+Q6ZPJ3	UBE2O_MOUSE	reviewed	(E3-independent) E2 ubiquitin-conjugating enzyme UBE2O (EC 2.3.2.24) (E2/E3 hybrid ubiquitin-protein ligase UBE2O) (Ubiquitin carrier protein O) (Ubiquitin-conjugating enzyme E2 O) (Ubiquitin-conjugating enzyme E2 of 230 kDa) (Ubiquitin-conjugating enzyme E2-230K) (Ubiquitin-protein ligase O)	Ube2o Kiaa1734	Mus musculus (Mouse)	1288
+E9Q9U0	U17PB_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 17-like protein B (USP17-B) (EC 3.4.19.12) (Deubiquitinating enzyme 1A)	Usp17lb Dub1a	Mus musculus (Mouse)	468
+P62254	UB2G1_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 G1 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme G1) (E217K) (UBC7) (Ubiquitin carrier protein G1) (Ubiquitin-protein ligase G1) [Cleaved into: Ubiquitin-conjugating enzyme E2 G1, N-terminally processed]	Ube2g1 Ube2g	Mus musculus (Mouse)	170
+Q8VDI7	UBAC1_MOUSE	reviewed	Ubiquitin-associated domain-containing protein 1 (UBA domain-containing protein 1) (E3 ubiquitin-protein ligase subunit KPC2) (Kip1 ubiquitination-promoting complex protein 2)	Ubac1 Kpc2 Ubadc1	Mus musculus (Mouse)	409
+P61082	UBC12_MOUSE	reviewed	NEDD8-conjugating enzyme Ubc12 (EC 2.3.2.-) (NEDD8 carrier protein) (Ubiquitin-conjugating enzyme E2 M)	Ube2m Ubc-rs2 Ubc12	Mus musculus (Mouse)	183
+P68037	UB2L3_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 L3 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme L3) (UbcM4) (Ubiquitin carrier protein L3) (Ubiquitin-protein ligase L3)	Ube2l3 Ubce7	Mus musculus (Mouse)	154
+Q7TSS2	UB2Q1_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 Q1 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme Q1) (Galactosyl transferase-associated protein) (GTAP) (Ubiquitin carrier protein Q1) (Ubiquitin-protein ligase Q1)	Ube2q1 Ube2q	Mus musculus (Mouse)	422
+Q9D1C1	UBE2C_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 C (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme C) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme C) (UbcH10) (Ubiquitin carrier protein C) (Ubiquitin-protein ligase C)	Ube2c Ubch10	Mus musculus (Mouse)	179
+Q3UE37	UBE2Z_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 Z (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme Z) (Uba6-specific E2 conjugating enzyme 1) (Use1) (Ubiquitin carrier protein Z) (Ubiquitin-protein ligase Z)	Ube2z D11Moh35	Mus musculus (Mouse)	356
+P61087	UBE2K_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 K (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme K) (Huntingtin-interacting protein 2) (HIP-2) (Ubiquitin carrier protein) (Ubiquitin-conjugating enzyme E2-25 kDa) (Ubiquitin-conjugating enzyme E2(25K)) (Ubiquitin-conjugating enzyme E2-25K) (Ubiquitin-protein ligase)	Ube2k Hip2	Mus musculus (Mouse)	200
+P63072	UBD_MOUSE	reviewed	Ubiquitin D (Diubiquitin) (Ubiquitin-like protein FAT10)	Ubd Fat10	Mus musculus (Mouse)	162
+Q80U95	UBE3C_MOUSE	reviewed	Ubiquitin-protein ligase E3C (EC 2.3.2.26) (HECT-type ubiquitin transferase E3C)	Ube3c Kiaa0010 Kiaa10	Mus musculus (Mouse)	1083
+E9Q735	UBE4A_MOUSE	reviewed	Ubiquitin conjugation factor E4 A (EC 2.3.2.-)	Ube4a Ufd2b	Mus musculus (Mouse)	1028
+Q5I043	UBP28_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 28 (EC 3.4.19.12) (Deubiquitinating enzyme 28) (Ubiquitin thioesterase 28) (Ubiquitin-specific-processing protease 28)	Usp28 Kiaa1515	Mus musculus (Mouse)	1051
+Q9JKB1	UCHL3_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase isozyme L3 (UCH-L3) (EC 3.4.19.12) (Ubiquitin thioesterase L3)	Uchl3	Mus musculus (Mouse)	230
+P58321	UCHL4_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase isozyme L4 (UCH-L4) (EC 3.4.19.12) (Ubiquitin thioesterase L4)	Uchl4	Mus musculus (Mouse)	233
+Q5FWH2	UNKL_MOUSE	reviewed	Putative E3 ubiquitin-protein ligase UNKL (EC 2.3.2.-) (RING finger protein unkempt-like)	Unkl	Mus musculus (Mouse)	727
+O88196	TTC3_MOUSE	reviewed	E3 ubiquitin-protein ligase TTC3 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase TTC3) (TPR repeat protein D) (Mtprd)	Ttc3 Kiaa4119	Mus musculus (Mouse)	1979
+Q8BX13	UBE3D_MOUSE	reviewed	E3 ubiquitin-protein ligase E3D (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase E3D) (UbcH10-binding protein with a HECT-like domain) (Ubiquitin-conjugating enzyme E2C-binding protein)	Ube3d H10bh Ube2cbp	Mus musculus (Mouse)	368
+Q9CZY3	UB2V1_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 variant 1 (UEV-1) (CROC-1)	Ube2v1 Croc1	Mus musculus (Mouse)	147
+Q9CY34	UB2FA_MOUSE	reviewed	NEDD8-conjugating enzyme UBE2F (EC 2.3.2.-) (NEDD8 carrier protein UBE2F) (NEDD8 protein ligase UBE2F) (NEDD8-conjugating enzyme 2) (RING-type E3 NEDD8 transferase UBE2F) (Ubiquitin-conjugating enzyme E2 F)	Ube2f Ube2fa	Mus musculus (Mouse)	185
+Q3UWQ3	UB2FB_MOUSE	reviewed	NEDD8-conjugating enzyme UBE2F-B (EC 2.3.2.-) (NEDD8 carrier protein UBE2F-B) (NEDD8 protein ligase UBE2F-B) (RING-type E3 NEDD8 transferase UBE2F-B) (Ubiquitin-conjugating enzyme E2 F-B)	Ube2fb Gm5434	Mus musculus (Mouse)	185
+Q9JJZ4	UB2J1_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 J1 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme J1) (Non-canonical ubiquitin-conjugating enzyme 1) (NCUBE-1)	Ube2j1 Ncube1	Mus musculus (Mouse)	318
+Q9QZU9	UB2L6_MOUSE	reviewed	Ubiquitin/ISG15-conjugating enzyme E2 L6 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme L6) (UbcM8) (Ubiquitin carrier protein L6) (Ubiquitin-protein ligase L6)	Ube2l6 Ubce8	Mus musculus (Mouse)	153
+P62257	UBE2H_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 H (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme H) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme H) (UBCH2) (Ubiquitin carrier protein H) (Ubiquitin-conjugating enzyme E2-20K) (Ubiquitin-protein ligase H)	Ube2h	Mus musculus (Mouse)	183
+O08759	UBE3A_MOUSE	reviewed	Ubiquitin-protein ligase E3A (EC 2.3.2.26) (HECT-type ubiquitin transferase E3A) (Oncogenic protein-associated protein E6-AP)	Ube3a	Mus musculus (Mouse)	870
+P35123	UBP4_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 4 (EC 3.4.19.12) (Deubiquitinating enzyme 4) (Ubiquitin thioesterase 4) (Ubiquitin-specific-processing protease 4) (Ubiquitous nuclear protein)	Usp4 Unp	Mus musculus (Mouse)	962
+Q6P8X6	UBP50_MOUSE	reviewed	Putative ubiquitin carboxyl-terminal hydrolase 50 (EC 3.4.19.12) (Deubiquitinating enzyme 50) (Ubiquitin thioesterase 50) (Ubiquitin-specific-processing protease 50)	Usp50	Mus musculus (Mouse)	390
+Q8BUM9	UBP43_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 43 (EC 3.4.19.12) (Deubiquitinating enzyme 43) (Ubiquitin thioesterase 43) (Ubiquitin-specific-processing protease 43)	Usp43	Mus musculus (Mouse)	1132
+Q9ES63	UBP29_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 29 (EC 3.4.19.12) (Deubiquitinating enzyme 29) (Ubiquitin thioesterase 29) (Ubiquitin-specific-processing protease 29)	Usp29	Mus musculus (Mouse)	869
+Q6WKZ8	UBR2_MOUSE	reviewed	E3 ubiquitin-protein ligase UBR2 (EC 2.3.2.27) (N-recognin-2) (RING-type E3 ubiquitin transferase UBR2) (Ubiquitin-protein ligase E3-alpha-2) (Ubiquitin-protein ligase E3-alpha-II)	Ubr2 Kiaa0349	Mus musculus (Mouse)	1755
+O88623	UBP2_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 2 (EC 3.4.19.12) (41 kDa ubiquitin-specific protease) (Deubiquitinating enzyme 2) (Ubiquitin thioesterase 2) (Ubiquitin-specific-processing protease 2)	Usp2 Ubp41 MNCb-0190	Mus musculus (Mouse)	613
+Q3UN04	UBP30_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 30 (EC 3.4.19.12) (Deubiquitinating enzyme 30) (Ubiquitin thioesterase 30) (Ubiquitin-specific-processing protease 30) (Ub-specific protease 30)	Usp30	Mus musculus (Mouse)	517
+Q3U1V6	UEVLD_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 variant 3 (UEV-3) (EV and lactate/malate dehydrogenase domain-containing protein)	Uevld Attp Uev3	Mus musculus (Mouse)	471
+Q7TMI3	UHRF2_MOUSE	reviewed	E3 ubiquitin-protein ligase UHRF2 (EC 2.3.2.27) (NIRF) (Np95-like ring finger protein) (Nuclear protein 97) (Nuclear zinc finger protein Np97) (RING-type E3 ubiquitin transferase UHRF2) (Ubiquitin-like PHD and RING finger domain-containing protein 2) (Ubiquitin-like-containing PHD and RING finger domains protein 2)	Uhrf2 Nirf	Mus musculus (Mouse)	803
+G5E8G2	U17PD_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 17-like protein D (EC 3.4.19.12) (Deubiquitinating enzyme 2A)	Usp17ld Dub2a	Mus musculus (Mouse)	545
+Q6ZWY6	U2D2B_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 D2B (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme D2B) (Ubiquitin carrier protein D2B) (Ubiquitin-protein ligase D2B)	Ube2d2b	Mus musculus (Mouse)	147
+Q9JMA1	UBP14_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 14 (EC 3.4.19.12) (Deubiquitinating enzyme 14) (Ubiquitin thioesterase 14) (Ubiquitin-specific-processing protease 14)	Usp14	Mus musculus (Mouse)	493
+Q9WTV6	UBP18_MOUSE	reviewed	Ubl carboxyl-terminal hydrolase 18 (EC 3.4.19.-) (43 kDa ISG15-specific protease) (ISG15-specific-processing protease) (Ubl thioesterase 18)	Usp18 Ubp43	Mus musculus (Mouse)	368
+Q3UJD6	UBP19_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 19 (EC 3.4.19.12) (Deubiquitinating enzyme 19) (Ubiquitin thioesterase 19) (Ubiquitin-specific-processing protease 19)	Usp19 Kiaa0891	Mus musculus (Mouse)	1360
+Q99PL6	UBXN6_MOUSE	reviewed	UBX domain-containing protein 6 (UBX domain-containing protein 1)	Ubxn6 Ubxd1 Ubxdc2	Mus musculus (Mouse)	442
+Q9QZL6	UBP21_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 21 (EC 3.4.19.12) (Deubiquitinating enzyme 21) (Ubiquitin thioesterase 21) (Ubiquitin-specific-processing protease 21)	Usp21 Usp23	Mus musculus (Mouse)	566
+Q8CEG8	UBP27_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 27 (EC 3.4.19.12) (Deubiquitinating enzyme 27) (Ubiquitin thioesterase 27) (Ubiquitin-specific-processing protease 27) (X-linked ubiquitin carboxyl-terminal hydrolase 27)	Usp27 Usp27x	Mus musculus (Mouse)	438
+Q9WUP7	UCHL5_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase isozyme L5 (UCH-L5) (EC 3.4.19.12) (Ubiquitin C-terminal hydrolase UCH37) (Ubiquitin thioesterase L5)	Uchl5 Uch37	Mus musculus (Mouse)	329
+Q80TP3	UBR5_MOUSE	reviewed	E3 ubiquitin-protein ligase UBR5 (EC 2.3.2.26) (E3 ubiquitin-protein ligase, HECT domain-containing 1) (HECT-type E3 ubiquitin transferase UBR5) (Hyperplastic discs protein homolog)	Ubr5 Edd Edd1 Kiaa0896	Mus musculus (Mouse)	2792
+Q8BU04	UBR7_MOUSE	reviewed	Putative E3 ubiquitin-protein ligase UBR7 (EC 2.3.2.27) (N-recognin-7) (RING-type E3 ubiquitin transferase UBR7)	Ubr7	Mus musculus (Mouse)	425
+Q8R5K2	UBP33_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 33 (EC 3.4.19.12) (Deubiquitinating enzyme 33) (Ubiquitin thioesterase 33) (Ubiquitin-specific-processing protease 33) (VHL-interacting deubiquitinating enzyme 1)	Usp33 Vdu1	Mus musculus (Mouse)	909
+Q6ZQ93	UBP34_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 34 (EC 3.4.19.12) (Deubiquitinating enzyme 34) (Ubiquitin thioesterase 34) (Ubiquitin-specific-processing protease 34)	Usp34 Kiaa0570 Murr2	Mus musculus (Mouse)	3582
+Q9CR09	UFC1_MOUSE	reviewed	Ubiquitin-fold modifier-conjugating enzyme 1 (Ufm1-conjugating enzyme 1)	Ufc1	Mus musculus (Mouse)	167
+Q8VDF2	UHRF1_MOUSE	reviewed	E3 ubiquitin-protein ligase UHRF1 (EC 2.3.2.27) (Nuclear protein 95) (Nuclear zinc finger protein Np95) (RING-type E3 ubiquitin transferase UHRF1) (Ubiquitin-like PHD and RING finger domain-containing protein 1) (mUhrf1) (Ubiquitin-like-containing PHD and RING finger domains protein 1)	Uhrf1 Np95	Mus musculus (Mouse)	782
+Q9CZP0	UFSP1_MOUSE	reviewed	Ufm1-specific protease 1 (UfSP1) (EC 3.4.22.-)	Ufsp1 D5Ertd655e	Mus musculus (Mouse)	217
+P63147	UBE2B_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 B (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme B) (E214K) (RAD6 homolog B) (HR6B) (mHR6B) (Ubiquitin carrier protein B) (Ubiquitin-protein ligase B)	Ube2b Rad6b	Mus musculus (Mouse)	152
+Q91W67	UBL7_MOUSE	reviewed	Ubiquitin-like protein 7	Ubl7	Mus musculus (Mouse)	380
+P52479	UBP10_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 10 (EC 3.4.19.12) (Deubiquitinating enzyme 10) (Ubiquitin thioesterase 10) (Ubiquitin-specific-processing protease 10)	Usp10 Kiaa0190 Ode-1 Uchrp	Mus musculus (Mouse)	792
+Q8R5H1	UBP15_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 15 (EC 3.4.19.12) (Deubiquitinating enzyme 15) (Ubiquitin thioesterase 15) (Ubiquitin-specific-processing protease 15)	Usp15 Kiaa0529	Mus musculus (Mouse)	981
+Q99MX1	UBP26_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 26 (EC 3.4.19.12) (Deubiquitinating enzyme 26) (Ubiquitin thioesterase 26) (Ubiquitin-specific-processing protease 26)	Usp26	Mus musculus (Mouse)	835
+B1AQJ2	UBP36_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 36 (EC 3.4.19.12) (Deubiquitinating enzyme 36) (Ubiquitin thioesterase 36) (Ubiquitin-specific-processing protease 36)	Usp36 Kiaa1453	Mus musculus (Mouse)	1098
+Q91W36	UBP3_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 3 (EC 3.4.19.12) (Deubiquitinating enzyme 3) (Ubiquitin thioesterase 3) (Ubiquitin-specific-processing protease 3)	Usp3	Mus musculus (Mouse)	520
+Q8BJQ2	UBP1_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 1 (EC 3.4.19.12) (Deubiquitinating enzyme 1) (Ubiquitin thioesterase 1) (Ubiquitin-specific-processing protease 1)	Usp1	Mus musculus (Mouse)	784
+B2RQC2	UBP42_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 42 (EC 3.4.19.12) (Deubiquitinating enzyme 42) (Ubiquitin thioesterase 42) (Ubiquitin-specific-processing protease 42)	Usp42	Mus musculus (Mouse)	1324
+Q8C6M1	UBP20_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 20 (EC 3.4.19.12) (Deubiquitinating enzyme 20) (Ubiquitin thioesterase 20) (Ubiquitin-specific-processing protease 20) (VHL-interacting deubiquitinating enzyme 2)	Usp20 Kiaa1003 Vdu2	Mus musculus (Mouse)	916
+Q8C2S0	UBP44_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 44 (EC 3.4.19.12) (Deubiquitinating enzyme 44) (Ubiquitin thioesterase 44) (Ubiquitin-specific-processing protease 44)	Usp44	Mus musculus (Mouse)	711
+Q8K387	UBP45_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 45 (EC 3.4.19.12) (Deubiquitinating enzyme 45) (Ubiquitin thioesterase 45) (Ubiquitin-specific-processing protease 45)	Usp45	Mus musculus (Mouse)	813
+P62069	UBP46_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 46 (EC 3.4.19.12) (Deubiquitinating enzyme 46) (Ubiquitin thioesterase 46) (Ubiquitin-specific-processing protease 46)	Usp46	Mus musculus (Mouse)	366
+Q8BY87	UBP47_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 47 (EC 3.4.19.12) (Deubiquitinating enzyme 47) (Ubiquitin thioesterase 47) (Ubiquitin-specific-processing protease 47)	Usp47	Mus musculus (Mouse)	1376
+Q3V0C5	UBP48_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 48 (EC 3.4.19.12) (Deubiquitinating enzyme 48) (Ubiquitin thioesterase 48) (Ubiquitin-specific-processing protease 48)	Usp48 Kiaa4202	Mus musculus (Mouse)	1052
+O70481	UBR1_MOUSE	reviewed	E3 ubiquitin-protein ligase UBR1 (EC 2.3.2.27) (N-recognin-1) (RING-type E3 ubiquitin transferase UBR1) (Ubiquitin-protein ligase E3-alpha-1) (Ubiquitin-protein ligase E3-alpha-I)	Ubr1	Mus musculus (Mouse)	1757
+Q5U430	UBR3_MOUSE	reviewed	E3 ubiquitin-protein ligase UBR3 (EC 2.3.2.27) (N-recognin-3) (RING-type E3 ubiquitin transferase UBR3) (Ubiquitin-protein ligase E3-alpha-3) (Ubiquitin-protein ligase E3-alpha-III) (Zinc finger protein 650)	Ubr3 Kiaa2024 Zfp650 Znf650	Mus musculus (Mouse)	1889
+A2AN08	UBR4_MOUSE	reviewed	E3 ubiquitin-protein ligase UBR4 (EC 2.3.2.27) (N-recognin-4) (RING-type E3 ubiquitin transferase UBR4) (Zinc finger UBR1-type protein 1) (p600)	Ubr4 Kiaa0462 Zubr1	Mus musculus (Mouse)	5180
+P61961	UFM1_MOUSE	reviewed	Ubiquitin-fold modifier 1	Ufm1	Mus musculus (Mouse)	85
+Q61068	U17PA_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 17-like protein A (USP17-A) (EC 3.4.19.12) (Deubiquitinating enzyme 1) (Ubiquitin carboxyl-terminal hydrolase DUB-1) (Ubiquitin thioesterase DUB-1) (Ubiquitin-specific-processing protease DUB-1)	Usp17la Dub-1 Dub1	Mus musculus (Mouse)	526
+Q9EPV8	UBL5_MOUSE	reviewed	Ubiquitin-like protein 5	Ubl5	Mus musculus (Mouse)	73
+Q80U87	UBP8_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12) (Deubiquitinating enzyme 8) (Ubiquitin isopeptidase Y) (mUBPy) (Ubiquitin thioesterase 8) (Ubiquitin-specific-processing protease 8)	Usp8 Kiaa0055 Ubpy	Mus musculus (Mouse)	1080
+Q80YR4	ZN598_MOUSE	reviewed	E3 ubiquitin-protein ligase ZNF598 (EC 2.3.2.27) (Zinc finger protein 598)	Znf598 Zfp598	Mus musculus (Mouse)	908
+Q71FD5	ZNRF2_MOUSE	reviewed	E3 ubiquitin-protein ligase ZNRF2 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase ZNRF2) (Zinc/RING finger protein 2)	Znrf2	Mus musculus (Mouse)	238
+Q9D9X6	ZSWM2_MOUSE	reviewed	E3 ubiquitin-protein ligase Zswim2 (EC 2.3.2.27) (MEKK1-related protein X) (MEX) (RING-type E3 ubiquitin transferase Zswim2) (ZZ-type zinc finger-containing protein 2) (Zinc finger SWIM domain-containing protein 2)	Zswim2	Mus musculus (Mouse)	631
+Q7M760	ZRAN1_MOUSE	reviewed	Ubiquitin thioesterase Zranb1 (EC 3.4.19.12) (Zinc finger Ran-binding domain-containing protein 1)	Zranb1 Trabid	Mus musculus (Mouse)	708
+A2BFL2	ZY11A_MOUSE	reviewed	Protein zyg-11 homolog A	Zyg11a	Mus musculus (Mouse)	627
+Q3UFS0	ZY11B_MOUSE	reviewed	Protein zyg-11 homolog B	Zyg11b Kiaa1730	Mus musculus (Mouse)	744
+Q9CR50	ZN363_MOUSE	reviewed	RING finger and CHY zinc finger domain-containing protein 1 (EC 2.3.2.27) (Androgen receptor N-terminal-interacting protein) (CH-rich-interacting match with PLAG1) (E3 ubiquitin-protein ligase Pirh2) (RING-type E3 ubiquitin transferase RCHY1) (Zinc finger protein 363)	Rchy1 Arnip Chimp Zfp363 Znf363	Mus musculus (Mouse)	261
+Q62511	ZFP91_MOUSE	reviewed	E3 ubiquitin-protein ligase ZFP91 (EC 2.3.2.27) (Penta Zf protein) (RING-type E3 ubiquitin transferase ZFP91) (Zinc finger protein 91 homolog) (Zfp-91) (Zinc finger protein PZF)	Zfp91 Pzf	Mus musculus (Mouse)	572
+Q80ZJ6	ZER1_MOUSE	reviewed	Protein zer-1 homolog (Zyg-11 homolog B-like protein)	Zer1 Zyg Zyg11bl	Mus musculus (Mouse)	779
+Q8C0P7	ZN451_MOUSE	reviewed	E3 SUMO-protein ligase ZNF451 (EC 2.3.2.-) (E3 SUMO-protein transferase ZNF451) (Zinc finger protein 451)	Znf451 Zfp451	Mus musculus (Mouse)	1056
+Q91V17	ZNRF1_MOUSE	reviewed	E3 ubiquitin-protein ligase ZNRF1 (EC 2.3.2.27) (Nerve injury-induced gene 283 protein) (RING-type E3 ubiquitin transferase ZNRF1) (Zinc/RING finger protein 1)	Znrf1 Nin283	Mus musculus (Mouse)	227
+Q8K4P8	HECW1_MOUSE	reviewed	E3 ubiquitin-protein ligase HECW1 (EC 2.3.2.26) (HECT, C2 and WW domain-containing protein 1) (HECT-type E3 ubiquitin transferase HECW1) (NEDD4-like E3 ubiquitin-protein ligase 1) (mNEDL1)	Hecw1 Kiaa0322 Nedl1	Mus musculus (Mouse)	1604
+Q6I6G8	HECW2_MOUSE	reviewed	E3 ubiquitin-protein ligase HECW2 (EC 2.3.2.26) (HECT, C2 and WW domain-containing protein 2) (HECT-type E3 ubiquitin transferase HECW2) (NEDD4-like E3 ubiquitin-protein ligase 2)	Hecw2 Kiaa1301 Nedl2	Mus musculus (Mouse)	1578
+Q3U0D9	HACE1_MOUSE	reviewed	E3 ubiquitin-protein ligase HACE1 (EC 2.3.2.26) (HECT domain and ankyrin repeat-containing E3 ubiquitin-protein ligase 1) (HECT-type E3 ubiquitin transferase HACE1)	Hace1 Kiaa1320	Mus musculus (Mouse)	909
+Q8CDU6	HECD2_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase HECTD2 (EC 2.3.2.26) (HECT domain-containing protein 2) (HECT-type E3 ubiquitin transferase HECTD2)	Hectd2	Mus musculus (Mouse)	774
+Q6PAV2	HERC4_MOUSE	reviewed	Probable E3 ubiquitin-protein ligase HERC4 (EC 2.3.2.26) (HECT domain and RCC1-like domain-containing protein 4) (HECT-type E3 ubiquitin transferase HERC4)	Herc4	Mus musculus (Mouse)	1057
+Q9JIY2	HAKAI_MOUSE	reviewed	E3 ubiquitin-protein ligase Hakai (EC 2.3.2.27) (Casitas B-lineage lymphoma-transforming sequence-like protein 1) (c-Cbl-like protein 1) (E-cadherin binding protein E7) (RING-type E3 ubiquitin transferase Hakai)	Cbll1 Hakai	Mus musculus (Mouse)	491
+Q69ZR2	HECD1_MOUSE	reviewed	E3 ubiquitin-protein ligase HECTD1 (EC 2.3.2.26) (HECT domain-containing protein 1) (HECT-type E3 ubiquitin transferase HECTD1) (Protein open mind)	Hectd1 Kiaa1131 Opm	Mus musculus (Mouse)	2618
+Q3U487	HECD3_MOUSE	reviewed	E3 ubiquitin-protein ligase HECTD3 (EC 2.3.2.26) (HECT domain-containing protein 3) (HECT-type E3 ubiquitin transferase HECTD3)	Hectd3	Mus musculus (Mouse)	861
+Q8BH57	WDR48_MOUSE	reviewed	WD repeat-containing protein 48 (USP1-associated factor 1)	Wdr48 Kiaa1449 Uaf1	Mus musculus (Mouse)	676
+Q9D2P4	URM1_MOUSE	reviewed	Ubiquitin-related modifier 1	Urm1	Mus musculus (Mouse)	101
+Q8CDG3	VCIP1_MOUSE	reviewed	Deubiquitinating protein VCIP135 (EC 3.4.19.12) (Valosin-containing protein p97/p47 complex-interacting protein 1) (Valosin-containing protein p97/p47 complex-interacting protein p135)	Vcpip1 Vcip135	Mus musculus (Mouse)	1220
+O88878	ZFAN5_MOUSE	reviewed	AN1-type zinc finger protein 5 (Zinc finger A20 domain-containing protein 2) (Zinc finger protein 216)	Zfand5 Za20d2 Zfp216 Znf216	Mus musculus (Mouse)	213
+Q5SSZ7	ZNRF3_MOUSE	reviewed	E3 ubiquitin-protein ligase ZNRF3 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase ZNRF3) (Zinc/RING finger protein 3)	Znrf3	Mus musculus (Mouse)	913
+G5E8I7	U17LC_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 17-like protein C (EC 3.4.19.12) (Deubiquitinating enzyme 2)	Usp17lc DUB-2 Dub2 Usp17l5	Mus musculus (Mouse)	545
+Q60989	XIAP_MOUSE	reviewed	E3 ubiquitin-protein ligase XIAP (EC 2.3.2.27) (Baculoviral IAP repeat-containing protein 4) (IAP homolog A) (Inhibitor of apoptosis protein 3) (IAP-3) (mIAP-3) (mIAP3) (RING-type E3 ubiquitin transferase XIAP) (X-linked inhibitor of apoptosis protein) (X-linked IAP)	Xiap Aipa Api3 Birc4 Miha	Mus musculus (Mouse)	496
+O54927	WSB1_MOUSE	reviewed	WD repeat and SOCS box-containing protein 1 (WSB-1)	Wsb1	Mus musculus (Mouse)	421
+O54929	WSB2_MOUSE	reviewed	WD repeat and SOCS box-containing protein 2 (WSB-2) (SOCS box-containing WD protein SWiP-2)	Wsb2 Swip2	Mus musculus (Mouse)	404
+P40338	VHL_MOUSE	reviewed	von Hippel-Lindau disease tumor suppressor (pVHL)	Vhl Vhlh	Mus musculus (Mouse)	181
+Q9D7H2	WDR5B_MOUSE	reviewed	WD repeat-containing protein 5B	Wdr5b	Mus musculus (Mouse)	328
+P70398	USP9X_MOUSE	reviewed	Probable ubiquitin carboxyl-terminal hydrolase FAF-X (EC 3.4.19.12) (Deubiquitinating enzyme FAF-X) (Fat facets homolog) (Fat facets protein-related, X-linked) (Ubiquitin carboxyl-terminal hydrolase FAM) (Ubiquitin thioesterase FAF-X) (Ubiquitin-specific protease 9, X chromosome) (Ubiquitin-specific-processing protease FAF-X)	Usp9x Fafl Fam	Mus musculus (Mouse)	2559
+Q80ZK9	WDTC1_MOUSE	reviewed	WD and tetratricopeptide repeats protein 1	Wdtc1 Gm695	Mus musculus (Mouse)	677
+Q8BZZ3	WWP1_MOUSE	reviewed	NEDD4-like E3 ubiquitin-protein ligase WWP1 (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase WWP1) (WW domain-containing protein 1)	Wwp1	Mus musculus (Mouse)	918
+Q9DBH0	WWP2_MOUSE	reviewed	NEDD4-like E3 ubiquitin-protein ligase WWP2 (EC 2.3.2.26) (HECT-type E3 ubiquitin transferase WWP2) (WW domain-containing protein 2)	Wwp2	Mus musculus (Mouse)	870
+P61079	UB2D3_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 D3 (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme D3) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme D3) (Ubiquitin carrier protein D3) (Ubiquitin-conjugating enzyme E2(17)KB 3) (Ubiquitin-conjugating enzyme E2-17 kDa 3) (Ubiquitin-protein ligase D3)	Ube2d3	Mus musculus (Mouse)	147
+Q91W82	UB2E2_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 E2 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme E2) (Ubiquitin carrier protein E2) (Ubiquitin-protein ligase E2)	Ube2e2	Mus musculus (Mouse)	201
+Q9D2M8	UB2V2_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 variant 2 (Ubc-like protein MMS2)	Ube2v2 Mms2 Uev2	Mus musculus (Mouse)	145
+Q8C7R4	UBA6_MOUSE	reviewed	Ubiquitin-like modifier-activating enzyme 6 (Ubiquitin-activating enzyme 6) (EC 6.2.1.45) (Ubiquitin-activating enzyme E1-like protein 2) (E1-L2)	Uba6 Ube1l2	Mus musculus (Mouse)	1053
+P60605	UB2G2_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 G2 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme G2) (Ubiquitin carrier protein G2) (Ubiquitin-protein ligase G2)	Ube2g2	Mus musculus (Mouse)	165
+Q02053	UBA1_MOUSE	reviewed	Ubiquitin-like modifier-activating enzyme 1 (EC 6.2.1.45) (Ubiquitin-activating enzyme E1) (Ubiquitin-activating enzyme E1 X) (Ubiquitin-like modifier-activating enzyme 1 X)	Uba1 Sbx Ube1 Ube1ax Ube1x	Mus musculus (Mouse)	1058
+Q8K2Z8	UB2Q2_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 Q2 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme Q2) (Ubiquitin carrier protein Q2) (Ubiquitin-protein ligase Q2)	Ube2q2	Mus musculus (Mouse)	378
+P61089	UBE2N_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 N (EC 2.3.2.23) (Bendless-like ubiquitin-conjugating enzyme) (E2 ubiquitin-conjugating enzyme N) (Ubc13) (Ubiquitin carrier protein N) (Ubiquitin-protein ligase N)	Ube2n Blu	Mus musculus (Mouse)	152
+Q99K23	UFSP2_MOUSE	reviewed	Ufm1-specific protease 2 (UfSP2) (EC 3.4.22.-)	Ufsp2	Mus musculus (Mouse)	461
+A0PJN4	U2QL1_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2Q-like protein 1 (EC 2.3.2.23) (E2Q-like ubiquitin-conjugating enzyme 1)	Ube2ql1	Mus musculus (Mouse)	161
+P62838	UB2D2_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 D2 (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme D2) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme D2) (Ubiquitin carrier protein D2) (Ubiquitin-conjugating enzyme E2(17)KB 2) (Ubiquitin-conjugating enzyme E2-17 kDa 2) (Ubiquitin-protein ligase D2)	Ube2d2 Ubc4 Ubch4 Ubch5b Ube2d2a	Mus musculus (Mouse)	147
+P52483	UB2E3_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 E3 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme E3) (UbcM2) (Ubiquitin carrier protein E3) (Ubiquitin-conjugating enzyme E2-23 kDa) (Ubiquitin-protein ligase E3)	Ube2e3 Ubce4 Ubcm2	Mus musculus (Mouse)	207
+Q6P073	UB2J2_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 J2 (EC 2.3.2.23) (Non-canonical ubiquitin-conjugating enzyme 2) (NCUBE-2)	Ube2j2 Ncube2	Mus musculus (Mouse)	259
+P63280	UBC9_MOUSE	reviewed	SUMO-conjugating enzyme UBC9 (EC 2.3.2.-) (RING-type E3 SUMO transferase UBC9) (SUMO-protein ligase) (Ubiquitin carrier protein 9) (mUBC9) (Ubiquitin carrier protein I) (Ubiquitin-conjugating enzyme E2 I) (Ubiquitin-protein ligase I)	Ube2i Ubc9 Ubce2i Ubce9	Mus musculus (Mouse)	158
+Q8VE47	UBA5_MOUSE	reviewed	Ubiquitin-like modifier-activating enzyme 5 (Ubiquitin-activating enzyme 5) (UFM1-activating enzyme) (Ubiquitin-activating enzyme E1 domain-containing protein 1)	Uba5 Ube1dc1	Mus musculus (Mouse)	403
+Q8CFI2	UB2R1_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 R1 (EC 2.3.2.23) ((E3-independent) E2 ubiquitin-conjugating enzyme R1) (EC 2.3.2.24) (E2 ubiquitin-conjugating enzyme R1) (Ubiquitin-conjugating enzyme E2-32 kDa complementing) (Ubiquitin-conjugating enzyme E2-CDC34) (Ubiquitin-protein ligase R1)	Cdc34 Ubch3 Ube2r1	Mus musculus (Mouse)	235
+Q9Z255	UBE2A_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 A (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme A) (RAD6 homolog A) (HR6A) (mHR6A) (Ubiquitin carrier protein A) (Ubiquitin-protein ligase A)	Ube2a Rad6a	Mus musculus (Mouse)	152
+Q9ES00	UBE4B_MOUSE	reviewed	Ubiquitin conjugation factor E4 B (EC 2.3.2.27) (RING-type E3 ubiquitin transferase E4 B) (Ubiquitin fusion degradation protein 2)	Ube4b Ufd2 Ufd2a	Mus musculus (Mouse)	1173
+Q921J4	UBE2S_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 S (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme S) (Ubiquitin carrier protein S) (Ubiquitin-conjugating enzyme E2-24 kDa) (Ubiquitin-conjugating enzyme E2-EPF5) (Ubiquitin-protein ligase S)	Ube2s E2epf	Mus musculus (Mouse)	223
+B1AY13	UBP24_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 24 (EC 3.4.19.12) (Deubiquitinating enzyme 24) (Ubiquitin thioesterase 24) (Ubiquitin-specific-processing protease 24)	Usp24	Mus musculus (Mouse)	2617
+P57080	UBP25_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 25 (EC 3.4.19.12) (Deubiquitinating enzyme 25) (Ubiquitin thioesterase 25) (Ubiquitin-specific-processing protease 25) (mUSP25)	Usp25	Mus musculus (Mouse)	1055
+Q6P9L4	UBP49_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 49 (EC 3.4.19.12) (Deubiquitinating enzyme 49) (Ubiquitin thioesterase 49) (Ubiquitin-specific-processing protease 49)	Usp49	Mus musculus (Mouse)	685
+Q5BKP2	UBP13_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 13 (EC 3.4.19.12) (Deubiquitinating enzyme 13) (Ubiquitin thioesterase 13) (Ubiquitin-specific-processing protease 13)	Usp13	Mus musculus (Mouse)	858
+Q8C0R0	UBP37_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 37 (EC 3.4.19.12) (Deubiquitinating enzyme 37) (Ubiquitin thioesterase 37) (Ubiquitin-specific-processing protease 37)	Usp37 Kiaa1594	Mus musculus (Mouse)	979
+Q8BW70	UBP38_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 38 (EC 3.4.19.12) (Deubiquitinating enzyme 38) (Ubiquitin thioesterase 38) (Ubiquitin-specific-processing protease 38)	Usp38	Mus musculus (Mouse)	1042
+Q8BWR4	UBP40_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 40 (EC 3.4.19.12) (Deubiquitinating enzyme 40) (Ubiquitin thioesterase 40) (Ubiquitin-specific-processing protease 40)	Usp40	Mus musculus (Mouse)	1235
+B1AY15	UBP51_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 51 (EC 3.4.19.12) (Deubiquitinating enzyme 51)	Usp51	Mus musculus (Mouse)	661
+P56399	UBP5_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 5 (EC 3.4.19.12) (Deubiquitinating enzyme 5) (Isopeptidase T) (Ubiquitin thioesterase 5) (Ubiquitin-specific-processing protease 5)	Usp5 Isot	Mus musculus (Mouse)	858
+Q6A4J8	UBP7_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 7 (EC 3.4.19.12) (Deubiquitinating enzyme 7) (Herpesvirus-associated ubiquitin-specific protease) (mHAUSP) (Ubiquitin thioesterase 7) (Ubiquitin-specific-processing protease 7)	Usp7 Hausp	Mus musculus (Mouse)	1103
+Q8CCJ3	UFL1_MOUSE	reviewed	E3 UFM1-protein ligase 1 (EC 2.3.2.-) (E3 UFM1-protein transferase 1)	Ufl1 Kiaa0776	Mus musculus (Mouse)	793
+P70362	UFD1_MOUSE	reviewed	Ubiquitin recognition factor in ER-associated degradation protein 1 (Ubiquitin fusion degradation protein 1 homolog) (UB fusion protein 1)	Ufd1 Ufd1l	Mus musculus (Mouse)	307
+Q7M764	U17PE_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 17-like protein E (USP17-E) (EC 3.4.19.12) (Deubiquitinating enzyme 17-like protein 2) (Deubiquitinating protein 3) (DUB-3) (Deubiquitinating protein 6) (Ubiquitin carboxyl-terminal hydrolase 17-like protein 2) (Ubiquitin thioesterase 17-like protein 2) (Ubiquitin-specific-processing protease 17-like protein 2)	Usp17le Dub3 Dub6 Usp17 Usp17l2	Mus musculus (Mouse)	540
+Q8C878	UBA3_MOUSE	reviewed	NEDD8-activating enzyme E1 catalytic subunit (EC 6.2.1.-) (NEDD8-activating enzyme E1C) (Ubiquitin-activating enzyme E1C) (Ubiquitin-like modifier-activating enzyme 3) (Ubiquitin-activating enzyme 3)	Uba3 Ube1c	Mus musculus (Mouse)	462
+Q8VDW4	UBE2W_MOUSE	reviewed	Ubiquitin-conjugating enzyme E2 W (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme W) (N-terminal E2 ubiquitin-conjugating enzyme) (EC 2.3.2.25) (N-terminus-conjugating E2) (Ubiquitin carrier protein W) (Ubiquitin-protein ligase W)	Ube2w	Mus musculus (Mouse)	151
+Q9ES34	UBE3B_MOUSE	reviewed	Ubiquitin-protein ligase E3B (EC 2.3.2.26) (HECT-type ubiquitin transferase E3B)	Ube3b	Mus musculus (Mouse)	1070
+Q99K46	UBP11_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 11 (EC 3.4.19.12) (Deubiquitinating enzyme 11) (Ubiquitin thioesterase 11) (Ubiquitin-specific-processing protease 11)	Usp11	Mus musculus (Mouse)	921
+Q5DU02	UBP22_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 22 (EC 3.4.19.12) (Deubiquitinating enzyme 22) (Ubiquitin thioesterase 22) (Ubiquitin-specific-processing protease 22)	Usp22 Kiaa1063	Mus musculus (Mouse)	525
+Q9D9M2	UBP12_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 12 (EC 3.4.19.12) (Deubiquitinating enzyme 12) (Ubiquitin thioesterase 12) (Ubiquitin-hydrolyzing enzyme 1) (Ubiquitin-specific-processing protease 12)	Usp12 Ubh1	Mus musculus (Mouse)	370
+Q99LG0	UBP16_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 16 (EC 3.4.19.12) (Deubiquitinating enzyme 16) (Ubiquitin thioesterase 16) (Ubiquitin-specific-processing protease 16)	Usp16	Mus musculus (Mouse)	825
+Q9R0P9	UCHL1_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase isozyme L1 (UCH-L1) (EC 3.4.19.12) (EC 6.-.-.-) (Neuron cytoplasmic protein 9.5) (PGP 9.5) (PGP9.5) (Ubiquitin thioesterase L1)	Uchl1	Mus musculus (Mouse)	223
+Q8VBW6	ULA1_MOUSE	reviewed	NEDD8-activating enzyme E1 regulatory subunit (Amyloid beta precursor protein-binding protein 1, 59 kDa) (APP-BP1) (Amyloid protein-binding protein 1)	Nae1 Appbp1	Mus musculus (Mouse)	534
+F8WIE5	F8WIE5_MOUSE	unreviewed	E3 ubiquitin-protein ligase HECTD1	Hectd1	Mus musculus (Mouse)	2610
+Q9CYM1	Q9CYM1_MOUSE	unreviewed	Uncharacterized protein	Herc3	Mus musculus (Mouse)	913
+Q3V2N4	Q3V2N4_MOUSE	unreviewed	Uncharacterized protein	Ube2h	Mus musculus (Mouse)	183
+Q80W01	Q80W01_MOUSE	unreviewed	AU042671 protein (Fragment)	Hectd4 AU042671 Gm15800	Mus musculus (Mouse)	298
+Q8BWQ9	Q8BWQ9_MOUSE	unreviewed	Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12)	Uchl3	Mus musculus (Mouse)	211
+A0A286YE31	A0A286YE31_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 E1 (Fragment)	Ube2e1	Mus musculus (Mouse)	148
+Q3UWQ1	Q3UWQ1_MOUSE	unreviewed	Uncharacterized protein	Ube2c	Mus musculus (Mouse)	179
+Q641N8	Q641N8_MOUSE	unreviewed	Nedd4l protein (Fragment)	Nedd4l	Mus musculus (Mouse)	875
+Q9ERK8	Q9ERK8_MOUSE	unreviewed	Ubiquitin-conjugating enzyme MHR6BN	Hr6bn	Mus musculus (Mouse)	148
+A0A1W2P892	A0A1W2P892_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 R1 (Fragment)	Cdc34	Mus musculus (Mouse)	86
+A0A1Y7VJ05	A0A1Y7VJ05_MOUSE	unreviewed	E3 ubiquitin-protein ligase HECW1 (Fragment)	Hecw1	Mus musculus (Mouse)	1177
+G3UZL6	G3UZL6_MOUSE	unreviewed	SUMO-conjugating enzyme UBC9	Ube2i	Mus musculus (Mouse)	101
+D6RES1	D6RES1_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 G1	Ube2g1	Mus musculus (Mouse)	99
+A0A140T8I4	A0A140T8I4_MOUSE	unreviewed	Cell division cycle 34B	Cdc34b	Mus musculus (Mouse)	237
+A0A0U1RQ75	A0A0U1RQ75_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 S (Fragment)	Ube2s	Mus musculus (Mouse)	46
+A0A2I3BQS6	A0A2I3BQS6_MOUSE	unreviewed	E3 ubiquitin-protein ligase UBR5	Ubr5	Mus musculus (Mouse)	2798
+F7CLE5	F7CLE5_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12) (Fragment)	Usp45	Mus musculus (Mouse)	210
+E9Q7E5	E9Q7E5_MOUSE	unreviewed	G2/M phase-specific E3 ubiquitin-protein ligase	G2e3	Mus musculus (Mouse)	622
+E9Q2H1	E9Q2H1_MOUSE	unreviewed	E3 ubiquitin-protein ligase UBR5	Ubr5	Mus musculus (Mouse)	2792
+Q3UV52	Q3UV52_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Wwp1	Mus musculus (Mouse)	918
+Q8BNS1	Q8BNS1_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Ube3a	Mus musculus (Mouse)	34
+Q6PDJ9	Q6PDJ9_MOUSE	unreviewed	AU042671 protein (Fragment)	Hectd4 AU042671 Gm15800	Mus musculus (Mouse)	1062
+A0A0N4SW02	A0A0N4SW02_MOUSE	unreviewed	Hect domain and RLD 3 (Fragment)	Herc3	Mus musculus (Mouse)	97
+J3QSN2	J3QSN2_MOUSE	unreviewed	Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12)	Usp13	Mus musculus (Mouse)	857
+E9Q4D8	E9Q4D8_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12) (Fragment)	Usp45	Mus musculus (Mouse)	257
+Q80TB1	Q80TB1_MOUSE	unreviewed	MKIAA1625 protein (Fragment)	Smurf1 mKIAA1625	Mus musculus (Mouse)	222
+D3Z4U3	D3Z4U3_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 K	Ube2k	Mus musculus (Mouse)	157
+G3UYP0	G3UYP0_MOUSE	unreviewed	SUMO-conjugating enzyme UBC9 (Fragment)	Ube2i	Mus musculus (Mouse)	103
+E0CZE0	E0CZE0_MOUSE	unreviewed	NEDD8-activating enzyme E1 regulatory subunit	Nae1	Mus musculus (Mouse)	510
+E9PZP8	E9PZP8_MOUSE	unreviewed	HECT and RLD domain-containing E3 ubiquitin protein ligase family member 1	Herc1	Mus musculus (Mouse)	4859
+F7CDT0	F7CDT0_MOUSE	unreviewed	NEDD8-conjugating enzyme Ubc12 (Fragment)	Ube2m	Mus musculus (Mouse)	171
+G3UZX2	G3UZX2_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 G2 (Fragment)	Ube2g2	Mus musculus (Mouse)	71
+A2A4Z1	A2A4Z1_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 C	Ube2c	Mus musculus (Mouse)	171
+G3UZA7	G3UZA7_MOUSE	unreviewed	Small ubiquitin-related modifier (SUMO)	Sumo3	Mus musculus (Mouse)	113
+Q8BYZ5	Q8BYZ5_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Hectd4 AU042671 Gm15800	Mus musculus (Mouse)	383
+A0A0R4J029	A0A0R4J029_MOUSE	unreviewed	Autophagy-related 10 (Yeast), isoform CRA_a (Ubiquitin-like-conjugating enzyme ATG10)	Atg10 mCG_113985	Mus musculus (Mouse)	211
+Q6ZWQ6	Q6ZWQ6_MOUSE	unreviewed	Huntingtin interacting protein 2, isoform CRA_e	Ube2k Hip2 mCG_10263	Mus musculus (Mouse)	200
+B2RTM4	B2RTM4_MOUSE	unreviewed	Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12)	Uchl4 mCG_12794	Mus musculus (Mouse)	233
+A2AFH2	A2AFH2_MOUSE	unreviewed	Similar to ubiquitin-conjugating enzyme E2D 2 (Ubiquitin-conjugating enzyme E2D N-terminal-like 2)	Ube2dnl2 4930524E20Rik MGC58426 mCG_148138	Mus musculus (Mouse)	155
+Q3UEV2	Q3UEV2_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.27)	Siah2 mCG_126862	Mus musculus (Mouse)	325
+Q4FCQ7	Q4FCQ7_MOUSE	unreviewed	Arginyl-tRNA--protein transferase 1 (Arginyltransferase 1) (R-transferase 1) (EC 2.3.2.8) (Arginine-tRNA--protein transferase 1)	Ate1 Ate1-3	Mus musculus (Mouse)	509
+G3X9H8	G3X9H8_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Nedd4l mCG_131856	Mus musculus (Mouse)	855
+D3Z0Y8	D3Z0Y8_MOUSE	unreviewed	Ubiquitin thioesterase (EC 3.4.19.12)	Otub2	Mus musculus (Mouse)	323
+A2AHZ2	A2AHZ2_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.27)	Siah1b mCG_115797	Mus musculus (Mouse)	282
+B2RPZ5	B2RPZ5_MOUSE	unreviewed	Hectd2 protein (Probable E3 ubiquitin-protein ligase HECTD2)	Hectd2	Mus musculus (Mouse)	775
+Q3U5V6	Q3U5V6_MOUSE	unreviewed	Uncharacterized protein	Ube2d3	Mus musculus (Mouse)	147
+Q3UFQ4	Q3UFQ4_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2D 1, UBC4/5 homolog (Yeast), isoform CRA_b	Ube2d1 mCG_17825	Mus musculus (Mouse)	147
+A2RTT4	A2RTT4_MOUSE	unreviewed	MCG4297 (Ubiquitin-conjugating enzyme E2N)	Ube2n mCG_4297	Mus musculus (Mouse)	152
+B2RWG3	B2RWG3_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.27)	Siah3 Gm912	Mus musculus (Mouse)	268
+A0A0U1RQ37	A0A0U1RQ37_MOUSE	unreviewed	MCG20927, isoform CRA_b (Ubiquitin-conjugating enzyme E2 S)	Ube2s mCG_20927	Mus musculus (Mouse)	226
+Q3U431	Q3U431_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2G 2, isoform CRA_b	Ube2g2 mCG_3379	Mus musculus (Mouse)	165
+B9EHN0	B9EHN0_MOUSE	unreviewed	Ubiquitin-activating enzyme E1, Chr X (Ubiquitin-like modifier activating enzyme 1)	Uba1 Ube1x mCG_126518	Mus musculus (Mouse)	1058
+I3RSH5	I3RSH5_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Wwp2 mCG_9353	Mus musculus (Mouse)	870
+G5E876	G5E876_MOUSE	unreviewed	Hect domain and RLD 3 (Hect domain and RLD 3, isoform CRA_a)	Herc3 mCG_123509	Mus musculus (Mouse)	913
+Q3TXI7	Q3TXI7_MOUSE	unreviewed	E3 ubiquitin-protein ligase WWP2 short isoform (NEDD4-like E3 ubiquitin-protein ligase WWP2)	Wwp2	Mus musculus (Mouse)	431
+G5E919	G5E919_MOUSE	unreviewed	NEDD8-conjugating enzyme Ubc12 (Ubiquitin-conjugating enzyme E2M (UBC12 homolog, yeast), isoform CRA_b)	Ube2m mCG_140150	Mus musculus (Mouse)	86
+Q3UT95	Q3UT95_MOUSE	unreviewed	MCG121966	Ube2d2a mCG_121966	Mus musculus (Mouse)	147
+A2RSE4	A2RSE4_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2B, RAD6 homology (S. cerevisiae) (Ubiquitin-conjugating enzyme E2B, RAD6 homology (S. cerevisiae), isoform CRA_b)	Ube2b mCG_6978	Mus musculus (Mouse)	152
+Q4QQL2	Q4QQL2_MOUSE	unreviewed	MCG22362, isoform CRA_a (Ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast))	Ube2d3 mCG_22362	Mus musculus (Mouse)	147
+Q3UCS1	Q3UCS1_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2A, RAD6 homolog (S. cerevisiae), isoform CRA_c	Ube2a mCG_11559	Mus musculus (Mouse)	152
+Q561N4	Q561N4_MOUSE	unreviewed	MCG1032217 (MCG131170) (Ubiquitin-conjugating enzyme E2L 3)	Ube2l3 mCG_1032217 mCG_131170	Mus musculus (Mouse)	154
+A0A1S6GWH5	A0A1S6GWH5_MOUSE	unreviewed	Uncharacterized protein	Uba1	Mus musculus (Mouse)	1118
+B9EKB3	B9EKB3_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Wwp1	Mus musculus (Mouse)	918
+Q9CU76	Q9CU76_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Huwe1 Ureb1	Mus musculus (Mouse)	159
+Q80WX3	Q80WX3_MOUSE	unreviewed	Smurf2 protein (Fragment)	Smurf2	Mus musculus (Mouse)	133
+Q3UGL0	Q3UGL0_MOUSE	unreviewed	Uncharacterized protein	Arel1 1110018G07Rik	Mus musculus (Mouse)	823
+Q80U90	Q80U90_MOUSE	unreviewed	MKIAA0032 protein (Fragment)	mKIAA0032	Mus musculus (Mouse)	938
+F6QWP5	F6QWP5_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12) (Fragment)	Usp20	Mus musculus (Mouse)	143
+Q7TMG3	Q7TMG3_MOUSE	unreviewed	Wwp1 protein (Fragment)	Wwp1	Mus musculus (Mouse)	252
+Q9D1S1	Q9D1S1_MOUSE	unreviewed	Uncharacterized protein	Ube2d3	Mus musculus (Mouse)	147
+A0A0H2UKB8	A0A0H2UKB8_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12)	Usp33	Mus musculus (Mouse)	897
+Q3TUV9	Q3TUV9_MOUSE	unreviewed	Uncharacterized protein	Ube2a	Mus musculus (Mouse)	143
+A0A1D5RM92	A0A1D5RM92_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Wwp2	Mus musculus (Mouse)	824
+Q3TQK9	Q3TQK9_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Nedd4l	Mus musculus (Mouse)	896
+A0A286YCM8	A0A286YCM8_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Nedd4l	Mus musculus (Mouse)	835
+A0A0J9YU07	A0A0J9YU07_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 K	Ube2k	Mus musculus (Mouse)	149
+Q6P289	Q6P289_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Itch	Mus musculus (Mouse)	806
+A0A1L1SQ41	A0A1L1SQ41_MOUSE	unreviewed	Arginyl-tRNA--protein transferase 1 (Arginyltransferase 1) (R-transferase 1) (EC 2.3.2.8) (Arginine-tRNA--protein transferase 1)	Ate1	Mus musculus (Mouse)	559
+E9PYW4	E9PYW4_MOUSE	unreviewed	E3 ubiquitin-protein ligase RNF168 (EC 2.3.2.27) (RING finger protein 168) (RING-type E3 ubiquitin transferase RNF168)	Rnf168 RNF168	Mus musculus (Mouse)	567
+C6EQH4	C6EQH4_MOUSE	unreviewed	ASL1/Ube3a fusion protein	Ube3a	Mus musculus (Mouse)	51
+A0A0J9YUN2	A0A0J9YUN2_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 A	Ube2a	Mus musculus (Mouse)	119
+Q6ZQ86	Q6ZQ86_MOUSE	unreviewed	MKIAA0614 protein (Fragment)	Hectd4 AU042671 Gm15800 mKIAA0614	Mus musculus (Mouse)	1159
+E0CXC2	E0CXC2_MOUSE	unreviewed	E3 ubiquitin-protein ligase RNF8 (EC 2.3.2.27) (RING finger protein 8) (RING-type E3 ubiquitin transferase RNF8)	Gm28043 RNF8 Rnf8	Mus musculus (Mouse)	719
+Q6NV63	Q6NV63_MOUSE	unreviewed	Breast cancer type 1 susceptibility protein homolog (EC 2.3.2.27)	Brca1	Mus musculus (Mouse)	1811
+Q9Z1D2	Q9Z1D2_MOUSE	unreviewed	Breast cancer type 1 susceptibility protein homolog (EC 2.3.2.27)	Brca1 BRCA1	Mus musculus (Mouse)	1812
+A0A1W2P7U1	A0A1W2P7U1_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 R1	Cdc34	Mus musculus (Mouse)	190
+Q6P066	Q6P066_MOUSE	unreviewed	Smurf2 protein (Fragment)	Smurf2	Mus musculus (Mouse)	190
+A0A0G2JE32	A0A0G2JE32_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 D3 (Fragment)	Ube2d3	Mus musculus (Mouse)	132
+Q8CFQ0	Q8CFQ0_MOUSE	unreviewed	Hect domain and RLD 3	Herc3	Mus musculus (Mouse)	1050
+E9Q8W9	E9Q8W9_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12)	Usp3	Mus musculus (Mouse)	482
+Q3UJU3	Q3UJU3_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Wwp2	Mus musculus (Mouse)	824
+Q80TK2	Q80TK2_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12) (Fragment)	mKIAA1097	Mus musculus (Mouse)	837
+Q8VH44	Q8VH44_MOUSE	unreviewed	Ubiquitin-conjugating enzyme (Fragment)	Mhr6a	Mus musculus (Mouse)	81
+A0A0U1RNG9	A0A0U1RNG9_MOUSE	unreviewed	E3 ubiquitin-protein ligase HERC2 (Fragment)	Herc2	Mus musculus (Mouse)	167
+Q5DTH1	Q5DTH1_MOUSE	unreviewed	MKIAA4216 protein (Fragment)	Ube3a mKIAA4216	Mus musculus (Mouse)	906
+A0A0J9YUW6	A0A0J9YUW6_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 A (Fragment)	Ube2a	Mus musculus (Mouse)	110
+Q3UT93	Q3UT93_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.27) (Fragment)	Siah2	Mus musculus (Mouse)	376
+Q8BSC0	Q8BSC0_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Smurf1	Mus musculus (Mouse)	355
+Q9D466	Q9D466_MOUSE	unreviewed	Small ubiquitin-related modifier (SUMO)	4933411G06Rik	Mus musculus (Mouse)	117
+Q5EBQ8	Q5EBQ8_MOUSE	unreviewed	Hectd1 protein (Fragment)	Hectd1	Mus musculus (Mouse)	119
+E9PYU8	E9PYU8_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Smurf1	Mus musculus (Mouse)	757
+Q8BQD5	Q8BQD5_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Hecw2 Nedl2	Mus musculus (Mouse)	40
+I7ENE7	I7ENE7_MOUSE	unreviewed	Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12) (Fragment)	Uchl1	Mus musculus (Mouse)	147
+D6RHQ6	D6RHQ6_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12)	Usp16	Mus musculus (Mouse)	334
+A0A087WPV1	A0A087WPV1_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 T (Fragment)	Ube2t	Mus musculus (Mouse)	74
+F6WMC0	F6WMC0_MOUSE	unreviewed	NEDD8-conjugating enzyme Ubc12 (Fragment)	Ube2m	Mus musculus (Mouse)	172
+Q3TT00	Q3TT00_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12)	Usp3	Mus musculus (Mouse)	482
+Q3U3Y1	Q3U3Y1_MOUSE	unreviewed	Uncharacterized protein	Arel1 1110018G07Rik	Mus musculus (Mouse)	823
+A0A1W2P7U9	A0A1W2P7U9_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 R1 (Fragment)	Cdc34	Mus musculus (Mouse)	162
+C6EQH2	C6EQH2_MOUSE	unreviewed	ASL1/Herc2 fusion protein		Mus musculus (Mouse)	4746
+Q3TVL4	Q3TVL4_MOUSE	unreviewed	E3 ubiquitin-protein ligase Mdm2 (EC 2.3.2.27)	Mdm2	Mus musculus (Mouse)	489
+Q9D7F5	Q9D7F5_MOUSE	unreviewed	Uncharacterized protein	Ube2d3	Mus musculus (Mouse)	147
+E9Q7C2	E9Q7C2_MOUSE	unreviewed	G2/M phase-specific E3 ubiquitin-protein ligase	G2e3	Mus musculus (Mouse)	739
+A0A2I3BQ39	A0A2I3BQ39_MOUSE	unreviewed	Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12) (Fragment)	Uchl3	Mus musculus (Mouse)	265
+A0A0J9YVG1	A0A0J9YVG1_MOUSE	unreviewed	Ubiquitin-protein ligase E3A (Fragment)	Ube3a	Mus musculus (Mouse)	143
+Q3V3H6	Q3V3H6_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12) (Fragment)	Usp22	Mus musculus (Mouse)	248
+Q3TCH2	Q3TCH2_MOUSE	unreviewed	Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12) (Fragment)	Uchl1	Mus musculus (Mouse)	225
+Q4FCQ6	Q4FCQ6_MOUSE	unreviewed	Arginyl-tRNA--protein transferase 1 (Arginyltransferase 1) (R-transferase 1) (EC 2.3.2.8) (Arginine-tRNA--protein transferase 1)	Ate1 Ate1-4	Mus musculus (Mouse)	509
+Q3TIH9	Q3TIH9_MOUSE	unreviewed	Uncharacterized protein	Ube2l3	Mus musculus (Mouse)	154
+Q4VBD0	Q4VBD0_MOUSE	unreviewed	Herc1 protein (Fragment)	Herc1	Mus musculus (Mouse)	108
+C4IXT3	C4IXT3_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12) (Fragment)	Usp27x	Mus musculus (Mouse)	733
+A0A087WRV6	A0A087WRV6_MOUSE	unreviewed	E3 ubiquitin-protein ligase TRIP12 (Fragment)	Trip12	Mus musculus (Mouse)	830
+Q05CE4	Q05CE4_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Wwp1	Mus musculus (Mouse)	787
+H3BL23	H3BL23_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 E2 (Fragment)	Ube2e2	Mus musculus (Mouse)	146
+H3BL69	H3BL69_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 E2 (Fragment)	Ube2e2	Mus musculus (Mouse)	167
+Q569X0	Q569X0_MOUSE	unreviewed	E3 ubiquitin-protein ligase Mdm2 (EC 2.3.2.27)	Mdm2	Mus musculus (Mouse)	487
+J3QNU1	J3QNU1_MOUSE	unreviewed	Arginyl-tRNA--protein transferase 1 (Arginyltransferase 1) (R-transferase 1) (EC 2.3.2.8) (Arginine-tRNA--protein transferase 1)	Ate1	Mus musculus (Mouse)	509
+A2AFQ0	A2AFQ0_MOUSE	unreviewed	E3 ubiquitin-protein ligase HUWE1	Huwe1	Mus musculus (Mouse)	4378
+A0A0G2JGL0	A0A0G2JGL0_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 D3	Ube2d3	Mus musculus (Mouse)	148
+Q4JG03	Q4JG03_MOUSE	unreviewed	Mcl-1 ubiquitin ligase	Huwe1 Mule	Mus musculus (Mouse)	4378
+Q3TL77	Q3TL77_MOUSE	unreviewed	Uncharacterized protein	Ube2k Hip2	Mus musculus (Mouse)	174
+Q8R0U4	Q8R0U4_MOUSE	unreviewed	Ube3b protein (Fragment)	Ube3b	Mus musculus (Mouse)	399
+Q8C5S2	Q8C5S2_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Hectd1	Mus musculus (Mouse)	308
+A0A0U1RQ22	A0A0U1RQ22_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 S (Fragment)	Ube2s	Mus musculus (Mouse)	151
+Q9QX59	Q9QX59_MOUSE	unreviewed	Ubc7p homolog	Ube2g2	Mus musculus (Mouse)	148
+A0A087WP01	A0A087WP01_MOUSE	unreviewed	Cell division cycle 34B	Cdc34b Cdc34-ps	Mus musculus (Mouse)	233
+A2AFH1	A2AFH1_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2D N-terminal-like 1	Ube2dnl1 Ube2dnl	Mus musculus (Mouse)	155
+Q9CT73	Q9CT73_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Wwp2	Mus musculus (Mouse)	108
+Q3UK27	Q3UK27_MOUSE	unreviewed	NEDD8-activating enzyme E1 regulatory subunit	Nae1 Appbp1	Mus musculus (Mouse)	534
+Q9CSE3	Q9CSE3_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Smurf2	Mus musculus (Mouse)	258
+Q4QQN3	Q4QQN3_MOUSE	unreviewed	AU042671 protein (Fragment)	Hectd4 AU042671 Gm15800	Mus musculus (Mouse)	321
+Q3TPQ9	Q3TPQ9_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Ube3a	Mus musculus (Mouse)	233
+A0JNZ0	A0JNZ0_MOUSE	unreviewed	Nedd4 protein	Nedd4	Mus musculus (Mouse)	198
+A0A087WNZ7	A0A087WNZ7_MOUSE	unreviewed	E3 ubiquitin-protein ligase TRIP12	Trip12	Mus musculus (Mouse)	1992
+Q80YP1	Q80YP1_MOUSE	unreviewed	Arginyl-tRNA--protein transferase 1 (Arginyltransferase 1) (R-transferase 1) (EC 2.3.2.8) (Arginine-tRNA--protein transferase 1)	Ate1	Mus musculus (Mouse)	516
+D3YXD1	D3YXD1_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 E2 (Fragment)	Ube2e2	Mus musculus (Mouse)	181
+G3UXT9	G3UXT9_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12)	Usp13	Mus musculus (Mouse)	534
+A0A0J9YUY4	A0A0J9YUY4_MOUSE	unreviewed	Ubiquitin-protein ligase E3A (Fragment)	Ube3a	Mus musculus (Mouse)	192
+D3YVU1	D3YVU1_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12)	Usp16	Mus musculus (Mouse)	754
+Q8BYX4	Q8BYX4_MOUSE	unreviewed	Uncharacterized protein (Fragment)	Hectd4 AU042671 Gm15800	Mus musculus (Mouse)	827
+Q8CBQ0	Q8CBQ0_MOUSE	unreviewed	Uncharacterized protein		Mus musculus (Mouse)	233
+E9PXB7	E9PXB7_MOUSE	unreviewed	E3 ubiquitin-protein ligase NEDD4-like	Nedd4l	Mus musculus (Mouse)	976
+A0A0G2JEN5	A0A0G2JEN5_MOUSE	unreviewed	E3 ubiquitin-protein ligase SMURF1 (Fragment)	Smurf1	Mus musculus (Mouse)	309
+Q4FJY2	Q4FJY2_MOUSE	unreviewed	Ube2l6 protein	Ube2l6	Mus musculus (Mouse)	152
+A0A1W2P8B1	A0A1W2P8B1_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2 R1 (Fragment)	Cdc34	Mus musculus (Mouse)	159
+H9KV10	H9KV10_MOUSE	unreviewed	E3 ubiquitin-protein ligase HACE1 (Fragment)	Hace1	Mus musculus (Mouse)	300
+H9KV09	H9KV09_MOUSE	unreviewed	E3 ubiquitin-protein ligase HACE1 (Fragment)	Hace1	Mus musculus (Mouse)	329
+Q80UV2	Q80UV2_MOUSE	unreviewed	AU042671 protein	Hectd4 AU042671 Gm15800	Mus musculus (Mouse)	533
+E9Q2E4	E9Q2E4_MOUSE	unreviewed	HECT domain E3 ubiquitin protein ligase 4	Hectd4	Mus musculus (Mouse)	4418
+Q91Z48	Q91Z48_MOUSE	unreviewed	Hectd1 protein (Fragment)	Hectd1	Mus musculus (Mouse)	149
+E9Q4K9	E9Q4K9_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Smurf1	Mus musculus (Mouse)	728
+Q571M5	Q571M5_MOUSE	unreviewed	MKIAA4011 protein (Fragment)	Itch mKIAA4011	Mus musculus (Mouse)	876
+Q3UWG7	Q3UWG7_MOUSE	unreviewed	Uncharacterized protein	Ube2g2	Mus musculus (Mouse)	303
+A2A4Z0	A2A4Z0_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2C	Ube2c mCG_17518	Mus musculus (Mouse)	179
+A6H6S0	A6H6S0_MOUSE	unreviewed	Hect domain and RLD 3 (Hect domain and RLD 3, isoform CRA_b)	Herc3 mCG_123509	Mus musculus (Mouse)	1050
+Q5F239	Q5F239_MOUSE	unreviewed	Ubiquitin-conjugating enzyme E2G 1 (UBC7 homolog, C. elegans), isoform CRA_a	Ube2g1 mCG_6661	Mus musculus (Mouse)	170
+Q541Z5	Q541Z5_MOUSE	unreviewed	MCG10035	Ube2e1 mCG_10035	Mus musculus (Mouse)	193
+B2RSC8	B2RSC8_MOUSE	unreviewed	E3 ubiquitin-protein ligase (EC 2.3.2.26)	Nedd4 mCG_8038	Mus musculus (Mouse)	887
+Q3U4W8	Q3U4W8_MOUSE	unreviewed	Ubiquitin carboxyl-terminal hydrolase (EC 3.4.19.12)	Usp5	Mus musculus (Mouse)	835
+Q8C9A6	Q8C9A6_MOUSE	unreviewed	Ubiquitinyl hydrolase 1 (EC 3.4.19.12)	Usp20	Mus musculus (Mouse)	210

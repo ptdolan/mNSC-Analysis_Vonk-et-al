@@ -1,0 +1,112 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+P62192	PRS4_MOUSE	reviewed	26S proteasome regulatory subunit 4 (P26s4) (26S proteasome AAA-ATPase subunit RPT2) (Proteasome 26S subunit ATPase 1)	Psmc1	Mus musculus (Mouse)	440
+P54728	RD23B_MOUSE	reviewed	UV excision repair protein RAD23 homolog B (HR23B) (mHR23B) (XP-C repair-complementing complex 58 kDa protein) (p58)	Rad23b Mhr23b	Mus musculus (Mouse)	416
+P28076	PSB9_MOUSE	reviewed	Proteasome subunit beta type-9 (EC 3.4.25.1) (LMP-2d) (Low molecular mass protein 2) (Macropain chain 7) (Multicatalytic endopeptidase complex chain 7) (Proteasome chain 7) (Proteasome subunit beta-1i) (Really interesting new gene 12 protein)	Psmb9 Lmp2 Ring12	Mus musculus (Mouse)	219
+P99026	PSB4_MOUSE	reviewed	Proteasome subunit beta type-4 (EC 3.4.25.1) (Low molecular mass protein 3) (Macropain beta chain) (Multicatalytic endopeptidase complex beta chain) (Proteasome beta chain) (Proteasome chain 3)	Psmb4 Lmp3	Mus musculus (Mouse)	264
+O55234	PSB5_MOUSE	reviewed	Proteasome subunit beta type-5 (EC 3.4.25.1) (Macropain epsilon chain) (Multicatalytic endopeptidase complex epsilon chain) (Proteasome chain 6) (Proteasome epsilon chain) (Proteasome subunit X)	Psmb5	Mus musculus (Mouse)	264
+Q5SSW2	PSME4_MOUSE	reviewed	Proteasome activator complex subunit 4 (Proteasome activator PA200) (Protein TEMO)	Psme4 Kiaa0077	Mus musculus (Mouse)	1843
+P62196	PRS8_MOUSE	reviewed	26S proteasome regulatory subunit 8 (26S proteasome AAA-ATPase subunit RPT6) (Proteasome 26S subunit ATPase 5) (Proteasome subunit p45) (p45/SUG) (mSUG1)	Psmc5 Sug1	Mus musculus (Mouse)	406
+Q9R1P4	PSA1_MOUSE	reviewed	Proteasome subunit alpha type-1 (EC 3.4.25.1) (Macropain subunit C2) (Multicatalytic endopeptidase complex subunit C2) (Proteasome component C2) (Proteasome nu chain)	Psma1	Mus musculus (Mouse)	263
+Q9QUM9	PSA6_MOUSE	reviewed	Proteasome subunit alpha type-6 (EC 3.4.25.1) (Macropain iota chain) (Multicatalytic endopeptidase complex iota chain) (Proteasome iota chain)	Psma6	Mus musculus (Mouse)	246
+O35955	PSB10_MOUSE	reviewed	Proteasome subunit beta type-10 (EC 3.4.25.1) (Low molecular mass protein 10) (Macropain subunit MECl-1) (Multicatalytic endopeptidase complex subunit MECl-1) (Proteasome MECl-1) (Proteasome subunit beta-2i)	Psmb10 Lmp10 Mecl1	Mus musculus (Mouse)	273
+P28063	PSB8_MOUSE	reviewed	Proteasome subunit beta type-8 (EC 3.4.25.1) (Low molecular mass protein 7) (Macropain subunit C13) (Multicatalytic endopeptidase complex subunit C13) (Proteasome component C13) (Proteasome subunit beta-5i)	Psmb8 Lmp7 Mc13	Mus musculus (Mouse)	276
+Q9JKV1	ADRM1_MOUSE	reviewed	Proteasomal ubiquitin receptor ADRM1 (110 kDa cell membrane glycoprotein) (Gp110) (Adhesion-regulating molecule 1) (ARM-1) (Rpn13 homolog)	Adrm1 Gp110	Mus musculus (Mouse)	407
+O08759	UBE3A_MOUSE	reviewed	Ubiquitin-protein ligase E3A (EC 2.3.2.26) (HECT-type ubiquitin transferase E3A) (Oncogenic protein-associated protein E6-AP)	Ube3a	Mus musculus (Mouse)	870
+Q8R317	UBQL1_MOUSE	reviewed	Ubiquilin-1 (Protein linking IAP with cytoskeleton 1) (PLIC-1)	Ubqln1 Plic1	Mus musculus (Mouse)	582
+Q9WUP7	UCHL5_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase isozyme L5 (UCH-L5) (EC 3.4.19.12) (Ubiquitin C-terminal hydrolase UCH37) (Ubiquitin thioesterase L5)	Uchl5 Uch37	Mus musculus (Mouse)	329
+P49722	PSA2_MOUSE	reviewed	Proteasome subunit alpha type-2 (EC 3.4.25.1) (Macropain subunit C3) (Multicatalytic endopeptidase complex subunit C3) (Proteasome component C3)	Psma2 Lmpc3	Mus musculus (Mouse)	234
+O35226	PSMD4_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 4 (26S proteasome regulatory subunit RPN10) (26S proteasome regulatory subunit S5A) (Multiubiquitin chain-binding protein)	Psmd4 Mcb1	Mus musculus (Mouse)	376
+Q6PDI5	ECM29_MOUSE	reviewed	Proteasome adapter and scaffold protein ECM29 (Proteasome-associated protein ECM29 homolog)	Ecpas Ecm29 Kiaa0368	Mus musculus (Mouse)	1840
+Q9Z2U0	PSA7_MOUSE	reviewed	Proteasome subunit alpha type-7 (EC 3.4.25.1) (Proteasome subunit RC6-1)	Psma7	Mus musculus (Mouse)	248
+P54726	RD23A_MOUSE	reviewed	UV excision repair protein RAD23 homolog A (HR23A) (mHR23A)	Rad23a Mhr23a	Mus musculus (Mouse)	363
+P61290	PSME3_MOUSE	reviewed	Proteasome activator complex subunit 3 (11S regulator complex subunit gamma) (REG-gamma) (Activator of multicatalytic protease subunit 3) (Ki nuclear autoantigen) (Proteasome activator 28 subunit gamma) (PA28g) (PA28gamma)	Psme3	Mus musculus (Mouse)	254
+O09061	PSB1_MOUSE	reviewed	Proteasome subunit beta type-1 (EC 3.4.25.1) (Macropain subunit C5) (Multicatalytic endopeptidase complex subunit C5) (Proteasome component C5) (Proteasome gamma chain)	Psmb1	Mus musculus (Mouse)	240
+Q60692	PSB6_MOUSE	reviewed	Proteasome subunit beta type-6 (EC 3.4.25.1) (Low molecular mass protein 19) (Macropain delta chain) (Multicatalytic endopeptidase complex delta chain) (Proteasome delta chain) (Proteasome subunit Y)	Psmb6 Lmp19	Mus musculus (Mouse)	238
+Q9JMA1	UBP14_MOUSE	reviewed	Ubiquitin carboxyl-terminal hydrolase 14 (EC 3.4.19.12) (Deubiquitinating enzyme 14) (Ubiquitin thioesterase 14) (Ubiquitin-specific-processing protease 14)	Usp14	Mus musculus (Mouse)	493
+O70435	PSA3_MOUSE	reviewed	Proteasome subunit alpha type-3 (EC 3.4.25.1) (Macropain subunit C8) (Multicatalytic endopeptidase complex subunit C8) (Proteasome component C8) (Proteasome subunit K)	Psma3	Mus musculus (Mouse)	255
+Q8BG41	PSB11_MOUSE	reviewed	Proteasome subunit beta type-11 (EC 3.4.25.1) (Proteasome subunit beta-5t)	Psmb11	Mus musculus (Mouse)	302
+O88685	PRS6A_MOUSE	reviewed	26S proteasome regulatory subunit 6A (26S proteasome AAA-ATPase subunit RPT5) (Proteasome 26S subunit ATPase 3) (Tat-binding protein 1) (TBP-1)	Psmc3 Tbp1	Mus musculus (Mouse)	442
+Q9D8W5	PSD12_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 12 (26S proteasome regulatory subunit RPN5) (26S proteasome regulatory subunit p55)	Psmd12	Mus musculus (Mouse)	456
+Q8BG32	PSD11_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 11 (26S proteasome regulatory subunit RPN6) (26S proteasome regulatory subunit S9) (26S proteasome regulatory subunit p44.5)	Psmd11	Mus musculus (Mouse)	422
+Q9CWH6	PSMA8_MOUSE	reviewed	Proteasome subunit alpha-type 7-like (EC 3.4.25.1)	Psma8 Psma7l	Mus musculus (Mouse)	250
+Q9CX56	PSMD8_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 8 (26S proteasome regulatory subunit RPN12) (26S proteasome regulatory subunit S14)	Psmd8	Mus musculus (Mouse)	353
+Q99JI4	PSMD6_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 6 (26S proteasome regulatory subunit RPN7) (26S proteasome regulatory subunit S10) (p42A)	Psmd6	Mus musculus (Mouse)	389
+P26516	PSMD7_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 7 (26S proteasome regulatory subunit RPN8) (26S proteasome regulatory subunit S12) (Mov34 protein) (Proteasome subunit p40)	Psmd7 Mov-34 Mov34	Mus musculus (Mouse)	321
+Q8BHL8	PSMF1_MOUSE	reviewed	Proteasome inhibitor PI31 subunit	Psmf1	Mus musculus (Mouse)	271
+P97371	PSME1_MOUSE	reviewed	Proteasome activator complex subunit 1 (11S regulator complex subunit alpha) (REG-alpha) (Activator of multicatalytic protease subunit 1) (Proteasome activator 28 subunit alpha) (PA28a) (PA28alpha)	Psme1	Mus musculus (Mouse)	249
+Q9R1P0	PSA4_MOUSE	reviewed	Proteasome subunit alpha type-4 (EC 3.4.25.1) (Macropain subunit C9) (Multicatalytic endopeptidase complex subunit C9) (Proteasome component C9) (Proteasome subunit L)	Psma4	Mus musculus (Mouse)	261
+Q9Z2U1	PSA5_MOUSE	reviewed	Proteasome subunit alpha type-5 (EC 3.4.25.1) (Macropain zeta chain) (Multicatalytic endopeptidase complex zeta chain) (Proteasome zeta chain)	Psma5	Mus musculus (Mouse)	241
+P97372	PSME2_MOUSE	reviewed	Proteasome activator complex subunit 2 (11S regulator complex subunit beta) (REG-beta) (Activator of multicatalytic protease subunit 2) (Proteasome activator 28 subunit beta) (PA28b) (PA28beta)	Psme2 Pa28b1	Mus musculus (Mouse)	239
+P46471	PRS7_MOUSE	reviewed	26S proteasome regulatory subunit 7 (26S proteasome AAA-ATPase subunit RPT1) (Proteasome 26S subunit ATPase 2) (Protein MSS1)	Psmc2 Mss1	Mus musculus (Mouse)	433
+P70195	PSB7_MOUSE	reviewed	Proteasome subunit beta type-7 (EC 3.4.25.1) (Macropain chain Z) (Multicatalytic endopeptidase complex chain Z) (Proteasome subunit Z)	Psmb7 Mmc14	Mus musculus (Mouse)	277
+P62334	PRS10_MOUSE	reviewed	26S proteasome regulatory subunit 10B (26S proteasome AAA-ATPase subunit RPT4) (Proteasome 26S subunit ATPase 6) (Proteasome subunit p42)	Psmc6 Sug2	Mus musculus (Mouse)	389
+O35593	PSDE_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 14 (EC 3.4.19.-) (26S proteasome regulatory subunit RPN11) (MAD1)	Psmd14 Pad1	Mus musculus (Mouse)	310
+Q3TXS7	PSMD1_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 1 (26S proteasome regulatory subunit RPN2) (26S proteasome regulatory subunit S1)	Psmd1	Mus musculus (Mouse)	953
+Q8VDM4	PSMD2_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 2 (26S proteasome regulatory subunit RPN1) (26S proteasome regulatory subunit S2) (26S proteasome subunit p97)	Psmd2	Mus musculus (Mouse)	908
+P14685	PSMD3_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 3 (26S proteasome regulatory subunit RPN3) (26S proteasome regulatory subunit S3) (Proteasome subunit p58) (Transplantation antigen P91A) (Tum-P91A antigen)	Psmd3 P91a Tstap91a	Mus musculus (Mouse)	530
+Q9R1P3	PSB2_MOUSE	reviewed	Proteasome subunit beta type-2 (EC 3.4.25.1) (Macropain subunit C7-I) (Multicatalytic endopeptidase complex subunit C7-I) (Proteasome component C7-I)	Psmb2	Mus musculus (Mouse)	201
+Q9R1P1	PSB3_MOUSE	reviewed	Proteasome subunit beta type-3 (EC 3.4.25.1) (Proteasome chain 13) (Proteasome component C10-II) (Proteasome theta chain)	Psmb3	Mus musculus (Mouse)	205
+P54775	PRS6B_MOUSE	reviewed	26S proteasome regulatory subunit 6B (26S proteasome AAA-ATPase subunit RPT3) (CIP21) (MB67-interacting protein) (MIP224) (Proteasome 26S subunit ATPase 4) (Tat-binding protein 7) (TBP-7)	Psmc4 Tbp7	Mus musculus (Mouse)	418
+Q9WVJ2	PSD13_MOUSE	reviewed	26S proteasome non-ATPase regulatory subunit 13 (26S proteasome regulatory subunit RPN9) (26S proteasome regulatory subunit S11) (26S proteasome regulatory subunit p40.5)	Psmd13	Mus musculus (Mouse)	376
+P60897	SEM1_MOUSE	reviewed	26S proteasome complex subunit SEM1 (26S proteasome complex subunit DSS1) (Deleted in split hand/split foot protein 1 homolog) (Split hand/foot deleted protein 1 homolog) (Split hand/foot malformation type 1 protein homolog)	Sem1 Dss1 Shfdg1 Shfm1	Mus musculus (Mouse)	70
+Q8CDN6	TXNL1_MOUSE	reviewed	Thioredoxin-like protein 1 (32 kDa thioredoxin-related protein)	Txnl1 Trp32 Txnl	Mus musculus (Mouse)	289
+Q3TUX3	Q3TUX3_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma5	Mus musculus (Mouse)	241
+Q6LCE5	Q6LCE5_MOUSE	unreviewed	Proteasome subunit C5 (Fragment)	Psmb1	Mus musculus (Mouse)	11
+A0A068BIT8	A0A068BIT8_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb8	Mus musculus (Mouse)	276
+E0CXB1	E0CXB1_MOUSE	unreviewed	Proteasome endopeptidase complex (EC 3.4.25.1)	Psma6	Mus musculus (Mouse)	227
+E9PW69	E9PW69_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1) (Fragment)	Psma4	Mus musculus (Mouse)	210
+Q5D098	Q5D098_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1) (Fragment)	Psmb7	Mus musculus (Mouse)	276
+Q9JHS5	Q9JHS5_MOUSE	unreviewed	20S proteasome subunit C2 (Fragment)	Psma1	Mus musculus (Mouse)	41
+A0A0R4J256	A0A0R4J256_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb9	Mus musculus (Mouse)	219
+Q91VC5	Q91VC5_MOUSE	unreviewed	Proteasome subunit MECL1 (Fragment)	MECL1	Mus musculus (Mouse)	58
+Q3U9Y8	Q3U9Y8_MOUSE	unreviewed	26S proteasome non-ATPase regulatory subunit 2	Psmd2	Mus musculus (Mouse)	908
+Q3TS44	Q3TS44_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma1 mCG_123908	Mus musculus (Mouse)	263
+Q3THC1	Q3THC1_MOUSE	unreviewed	Proteasome (Prosome, macropain) 26S subunit, non-ATPase, 9	Psmd9 mCG_11113	Mus musculus (Mouse)	222
+D6RFC4	D6RFC4_MOUSE	unreviewed	Homologous-pairing protein 2 homolog (Proteasome (Prosome, macropain) 26S subunit, ATPase 3, interacting protein, isoform CRA_b)	Psmc3ip mCG_20202	Mus musculus (Mouse)	85
+Q99JB5	Q99JB5_MOUSE	unreviewed	Proteasome (Prosome, macropain) 26S subunit, non-ATPase, 8 (Psmd8 protein)	Psmd8	Mus musculus (Mouse)	257
+Q8BKE0	Q8BKE0_MOUSE	unreviewed	Proteasome endopeptidase complex (EC 3.4.25.1) (Fragment)	Psma2	Mus musculus (Mouse)	183
+Q3TKV1	Q3TKV1_MOUSE	unreviewed	26S proteasome non-ATPase regulatory subunit 2	Psmd2 mCG_129789	Mus musculus (Mouse)	908
+A1L3B8	A1L3B8_MOUSE	unreviewed	Proteasome (Prosome, macropain) 26S subunit, non-ATPase, 7	Psmd7 mCG_9335	Mus musculus (Mouse)	321
+Q6RI64	Q6RI64_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb1 mCG_4504	Mus musculus (Mouse)	240
+A0A1B0GS70	A0A1B0GS70_MOUSE	unreviewed	Proteasome endopeptidase complex (EC 3.4.25.1)	Psma1 mCG_123908	Mus musculus (Mouse)	238
+C4PFH5	C4PFH5_MOUSE	unreviewed	GT198 (Proteasome (Prosome, macropain) 26S subunit, ATPase 3, interacting protein, isoform CRA_c)	Psmc3ip mCG_20202	Mus musculus (Mouse)	217
+Q58EV4	Q58EV4_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma3	Mus musculus (Mouse)	255
+Q542H2	Q542H2_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma7 mCG_6735	Mus musculus (Mouse)	248
+Q3TXV1	Q3TXV1_MOUSE	unreviewed	26S proteasome non-ATPase regulatory subunit 2	Psmd2	Mus musculus (Mouse)	908
+Q3THL2	Q3THL2_MOUSE	unreviewed	Proteasome endopeptidase complex (EC 3.4.25.1)	Psma7	Mus musculus (Mouse)	178
+Q3UIT9	Q3UIT9_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma7	Mus musculus (Mouse)	248
+Q8BTU5	Q8BTU5_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma1	Mus musculus (Mouse)	262
+Q4FJX8	Q4FJX8_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb10	Mus musculus (Mouse)	273
+Q3TAR7	Q3TAR7_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb9	Mus musculus (Mouse)	219
+D3YUM8	D3YUM8_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Gm4950	Mus musculus (Mouse)	205
+B7ZMS3	B7ZMS3_MOUSE	unreviewed	Proteasome endopeptidase complex (EC 3.4.25.1)	Psma8	Mus musculus (Mouse)	178
+Q3UWT6	Q3UWT6_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma2	Mus musculus (Mouse)	247
+Q3TIP0	Q3TIP0_MOUSE	unreviewed	26S proteasome non-ATPase regulatory subunit 2	Psmd2	Mus musculus (Mouse)	908
+Q3U7A7	Q3U7A7_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb9	Mus musculus (Mouse)	219
+Q8BJX0	Q8BJX0_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb2	Mus musculus (Mouse)	201
+Q569X4	Q569X4_MOUSE	unreviewed	Proteasome (Prosome, macropain) 26S subunit, ATPase, 4	Psmc4	Mus musculus (Mouse)	418
+Q3TN31	Q3TN31_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma7	Mus musculus (Mouse)	248
+Q9CZ58	Q9CZ58_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma2	Mus musculus (Mouse)	234
+Q3TUI9	Q3TUI9_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma5	Mus musculus (Mouse)	241
+Q3UCF0	Q3UCF0_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma4	Mus musculus (Mouse)	261
+B7ZMS4	B7ZMS4_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma8	Mus musculus (Mouse)	210
+Q3TWL6	Q3TWL6_MOUSE	unreviewed	26S proteasome non-ATPase regulatory subunit 2	Psmd2	Mus musculus (Mouse)	908
+E0CX62	E0CX62_MOUSE	unreviewed	Proteasome endopeptidase complex (EC 3.4.25.1)	Psma3	Mus musculus (Mouse)	180
+Q3TW71	Q3TW71_MOUSE	unreviewed	26S proteasome non-ATPase regulatory subunit 2	Psmd2	Mus musculus (Mouse)	908
+Q3UNP9	Q3UNP9_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb10	Mus musculus (Mouse)	273
+Q3TEL1	Q3TEL1_MOUSE	unreviewed	Proteasome endopeptidase complex (EC 3.4.25.1)	Psma3	Mus musculus (Mouse)	180
+E9Q0X0	E9Q0X0_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1) (Fragment)	Psma4	Mus musculus (Mouse)	139
+Q497E8	Q497E8_MOUSE	unreviewed	Proteasome (Prosome, macropain) 26S subunit, non-ATPase, 11	Psmd11	Mus musculus (Mouse)	422
+Q9DCD8	Q9DCD8_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma3	Mus musculus (Mouse)	255
+Q3TL95	Q3TL95_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1) (Fragment)	Psma4	Mus musculus (Mouse)	249
+G3UZW8	G3UZW8_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1) (Fragment)	Psmb8	Mus musculus (Mouse)	248
+Q5SVP3	Q5SVP3_MOUSE	unreviewed	MCG22048, isoform CRA_c (PA28 beta subunit) (Proteasome activator PA28 beta subunit)	PSME2b mCG_22048	Mus musculus (Mouse)	239
+B2RT97	B2RT97_MOUSE	unreviewed	Proteasome (Prosome, macropain) 26S subunit, non-ATPase, 13	Psmd13 mCG_22589	Mus musculus (Mouse)	376
+Q14AQ1	Q14AQ1_MOUSE	unreviewed	Proteasome (Prosome, macropain) 26S subunit, ATPase, 6 (Proteasome (Prosome, macropain) 26S subunit, ATPase, 6, isoform CRA_b)	Psmc6 mCG_2025	Mus musculus (Mouse)	389
+A2AU35	A2AU35_MOUSE	unreviewed	Proteasome (Prosome, macropain) inhibitor subunit 1 (Proteasome (Prosome, macropain) inhibitor subunit 1, isoform CRA_e)	Psmf1 mCG_13177	Mus musculus (Mouse)	271
+Q5BKQ9	Q5BKQ9_MOUSE	unreviewed	MCG19050, isoform CRA_d (Proteasome (Prosome, macropain) 26S subunit, non-ATPase, 11)	Psmd11 mCG_19050	Mus musculus (Mouse)	422
+Q5HZK3	Q5HZK3_MOUSE	unreviewed	Proteasome (Prosome, macropain) 28 subunit, alpha (Proteasome (Prosome, macropain) 28 subunit, alpha, isoform CRA_b)	Psme1 mCG_22049	Mus musculus (Mouse)	249
+Q4FK25	Q4FK25_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb9 LMP-2	Mus musculus (Mouse)	219
+Q545G0	Q545G0_MOUSE	unreviewed	Proteasome subunit beta type (EC 3.4.25.1)	Psmb3 mCG_13231	Mus musculus (Mouse)	205
+Q3UPK6	Q3UPK6_MOUSE	unreviewed	Proteasome subunit alpha type (EC 3.4.25.1)	Psma5 mCG_4051	Mus musculus (Mouse)	241
+Q3TI61	Q3TI61_MOUSE	unreviewed	26S proteasome non-ATPase regulatory subunit 2	Psmd2	Mus musculus (Mouse)	908
